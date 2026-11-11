@@ -49,6 +49,18 @@ diagnoses and never decides; that is stated on every screen and in the footer.
 
 ---
 
+## Related repository — the AI engine on its own
+
+The coordination engine that powers this marketplace is published separately so it can be
+reviewed, forked and evaluated without reading the whole product:
+
+**→ [github.com/agriddhi/ethaum-model](https://github.com/agriddhi/ethaum-model)** —
+`src/lib/ai.ts` (five tasks: classify · qualify · match · quote-audit · reminder),
+the `/api/ai` endpoint, the task contracts, the safety design (`docs/AI_LAYER.md`) and the
+evaluation protocol (`docs/EVALS.md`).
+
+---
+
 ## Quick start
 
 ```bash

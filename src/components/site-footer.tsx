@@ -132,6 +132,14 @@ export default function SiteFooter() {
             <Link href="/privacy" className="hover:text-white/70">Privacy</Link>
             <Link href="/disclaimer" className="hover:text-white/70">Medical disclaimer</Link>
             <Link href="/market-research" className="hover:text-white/70">Research</Link>
+            <a
+              href="https://github.com/agriddhi/ethaum"
+              target="_blank"
+              rel="noreferrer noopener"
+              className="hover:text-white/70"
+            >
+              Source code
+            </a>
           </div>
         </div>
       </div>
