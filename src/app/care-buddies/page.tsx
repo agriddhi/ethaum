@@ -469,7 +469,14 @@ export default function CareBuddiesPage() {
                       {b.city} · {b.ageBand} · {b.languages.join(" · ")}
                     </p>
                     <p className="mt-1.5 text-[11.5px] font-semibold text-forest-deep">
-                      {treatmentName(b.treatmentSlug)} · {b.hospitalLabel} · {b.year}
+                      {treatmentName(b.treatmentSlug)} ·{" "}
+                      <Link
+                        href={`/hospitals/${b.hospitalSlug}`}
+                        className="underline decoration-sage-soft decoration-2 underline-offset-2 hover:text-forest"
+                      >
+                        {b.hospitalLabel}
+                      </Link>{" "}
+                      · {b.year}
                     </p>
                   </div>
                 </div>

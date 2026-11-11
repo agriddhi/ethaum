@@ -7,6 +7,7 @@
 | **Tools / tech used** | Written list with rationale | `docs/TECH_STACK.md` (also summarised in `README.md`) | ✅ Written |
 | **Team LinkedIn profiles** | Names, roles and profile URLs | `docs/TEAM.md` — replace the placeholder rows | ⬜ **Needs your names + URLs** |
 | **Market research & benchmarking** | Documented study: what we observed, what we adapt / improve / avoid | `docs/MARKET_RESEARCH.md` + interactive `/market-research` page (printable) | ✅ Written |
+| **Bonus artefacts** | Care-buddy marketplace, printable clinical brief for the local doctor, seeded catalogue (132/18/30), printable quote sheet + itinerary + recovery plan | `/care-buddies`, `/doctor-summary`, `scripts/seed.mjs` | ✅ Built |
 
 ## Before you submit
 

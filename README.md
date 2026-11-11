@@ -36,6 +36,12 @@ telephone numbers. Sessions, cases and quotes live in the browser (`localStorage
 (transparency checks gate the send button), `/provider/appointments` (week grid, arrivals check-in,
 E2E-encrypted chat drawer).
 
+**Extras that make it feel like a real marketplace:** `/care-buddies` (verified patient companions
+who have already made the journey), `/doctor-summary` (a printable clinical brief for the local
+cardiologist), `/packages` (eight curated all-in bundles), and a seeded catalogue index of
+**132 hospitals · 18 treatments · 30 doctors** where the 8 audited institutions are clearly marked
+apart from the unverified index entries.
+
 **AI layer:** `POST /api/ai` with five tasks — `classify`, `qualify`, `match`, `quote-audit`,
 `reminder`. Uses Gemini or OpenRouter when a key is configured, otherwise a deterministic rules
 engine with identical output shape. The AI organises, flags, ranks and drafts — it never
