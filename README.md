@@ -51,13 +51,15 @@ diagnoses and never decides; that is stated on every screen and in the footer.
 
 ## Related repository — the AI engine on its own
 
-The coordination engine that powers this marketplace is published separately so it can be
-reviewed, forked and evaluated without reading the whole product:
+**Everything needed to review the AI layer is already in this repository** — the engine
+(`src/lib/ai.ts`), its endpoint (`src/app/api/ai/route.ts`), the task contracts
+(`src/ai/tasks.ts`), the safety design (`docs/AI_LAYER.md`), the evaluation protocol
+(`docs/EVALS.md`) and a **live playground at `/model`** where you can POST to the engine and see
+the JSON it returns.
 
-**→ [github.com/agriddhi/ethaum-model](https://github.com/agriddhi/ethaum-model)** —
-`src/lib/ai.ts` (five tasks: classify · qualify · match · quote-audit · reminder),
-the `/api/ai` endpoint, the task contracts, the safety design (`docs/AI_LAYER.md`) and the
-evaluation protocol (`docs/EVALS.md`).
+The same engine is *also* published as a standalone repository, so it can be forked, evaluated
+or reviewed in isolation without reading the whole product:
+**[github.com/agriddhi/ethaum-model](https://github.com/agriddhi/ethaum-model)**.
 
 ---
 
@@ -152,6 +154,8 @@ ethaum/
 | Document | What it covers |
 |---|---|
 | [docs/WHY_ETHAUM.md](docs/WHY_ETHAUM.md) | The judge-facing pitch: 8 differentiators, "is this a mockup?" answers, risks we own |
+| [docs/AI_LAYER.md](docs/AI_LAYER.md) | The AI engine's design: five tasks, published weights, guardrails, safety model |
+| [docs/EVALS.md](docs/EVALS.md) | Evaluation protocol: golden set, red-flag recall targets, regression discipline |
 | [docs/TECH_STACK.md](docs/TECH_STACK.md) | Every tool/technology used, and why we chose it |
 | [docs/MARKET_RESEARCH.md](docs/MARKET_RESEARCH.md) | Benchmarking of 14 platforms: what we adapt, improve and refuse |
 | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | Stores, AI layer, marketplace bridge, print system, data model |

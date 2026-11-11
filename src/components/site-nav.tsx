@@ -59,6 +59,7 @@ export default function SiteNav() {
             <Link href="/destinations" className="transition-colors hover:text-forest">Destinations</Link>
             <Link href="/doctors" className="transition-colors hover:text-forest">Doctors</Link>
             <Link href="/hospitals" className="transition-colors hover:text-forest">Hospitals</Link>
+            <Link href="/model" className="transition-colors hover:text-forest">AI engine</Link>
             <Link href="/help" className="transition-colors hover:text-forest">Help centre</Link>
           </nav>
 
@@ -98,6 +99,7 @@ export default function SiteNav() {
                   ["Destinations", "/destinations"],
                   ["Doctors", "/doctors"],
                   ["Hospitals", "/hospitals"],
+                  ["AI engine (live)", "/model"],
                   ["Market research", "/market-research"],
                   ["Help centre", "/help"],
                   ["For providers", "/provider"],
