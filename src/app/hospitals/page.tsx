@@ -163,8 +163,8 @@ function IndexCard({ h }: { h: SeedHospital }) {
         <p className="mt-2 text-[10px] leading-4 text-slate">Accreditation listed but not verified by EthAum · {h.priceNote}.</p>
         <div className="mt-auto flex items-center justify-between gap-2 border-t border-forest/10 pt-4">
           <p className="text-[11px] text-slate">★ <span className="font-bold text-forest-deep">{h.rating}</span> · {h.reviews.toLocaleString("en-IN")} reviews</p>
-          <Link href="/case/new" className="rounded-full border border-forest/20 px-3.5 py-1.5 text-[11px] font-bold text-forest transition-colors hover:bg-forest hover:text-oat">
-            Request quote →
+          <Link href={`/hospitals/${h.slug}`} className="rounded-full border border-forest/20 px-3.5 py-1.5 text-[11px] font-bold text-forest transition-colors hover:bg-forest hover:text-oat">
+            View listing →
           </Link>
         </div>
       </div>

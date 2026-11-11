@@ -918,6 +918,10 @@ function buildReviews(hospitals, treatments) {
   const added = [];
   const months = ["Jan 2026", "Feb 2026", "Mar 2026", "Apr 2026", "May 2026", "Jun 2026", "Jul 2026", "Aug 2026", "Sep 2026", "Oct 2026", "Nov 2026"];
 
+  // keep the 84 illustrative reviews distinct: 8 openers × 8 middles × 8 enders = 512 combos
+  const combos = [];
+  for (const o of REVIEW_TEXT_OPENERS) for (const m of REVIEW_TEXT_MIDDLES) for (const e of REVIEW_TEXT_ENDERS) combos.push(`${o} ${m} ${e}`);
+
   for (let i = 0; i < 84; i++) {
     const hospital = indexHospitals[(i * 13 + 5) % indexHospitals.length];
     const treatment = treatments[(i * 5 + 2) % treatments.length];
@@ -928,7 +932,7 @@ function buildReviews(hospitals, treatments) {
       hospital: hospital.name,
       rating: chance(0.62) ? 5 : 4,
       date: months[(i * 7) % months.length],
-      text: `${pick(REVIEW_TEXT_OPENERS)} ${pick(REVIEW_TEXT_MIDDLES)} ${pick(REVIEW_TEXT_ENDERS)}`,
+      text: combos[(i * 37 + 11) % combos.length],
       tag: "Illustrative review",
     });
   }

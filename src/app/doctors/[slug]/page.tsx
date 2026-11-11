@@ -5,23 +5,27 @@ import SiteNav from "@/components/site-nav";
 import SiteFooter from "@/components/site-footer";
 import PageHeader from "@/components/page-header";
 import { DOCTORS } from "@/data/ethaum";
+import { SEED_DOCTORS } from "@/data/seed";
 
 export const instant = false;
 
 export function generateStaticParams() {
-  return DOCTORS.map((d) => ({ slug: d.slug }));
+  const curated = DOCTORS.map((d) => ({ slug: d.slug }));
+  const extra = SEED_DOCTORS.filter((d) => !DOCTORS.some((c) => c.slug === d.slug)).map((d) => ({ slug: d.slug }));
+  return [...curated, ...extra];
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
-  const d = DOCTORS.find((x) => x.slug === slug);
+  const d = DOCTORS.find((x) => x.slug === slug) ?? SEED_DOCTORS.find((x) => x.slug === slug);
   return { title: d ? `${d.name} — profile & reviews · EthAum` : "Doctor — EthAum" };
 }
 
 export default async function DoctorProfile({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const d = DOCTORS.find((x) => x.slug === slug);
+  const d = DOCTORS.find((x) => x.slug === slug) ?? SEED_DOCTORS.find((x) => x.slug === slug);
   if (!d) notFound();
+  const isIndexEntry = !DOCTORS.some((x) => x.slug === slug);
 
   return (
     <div className="bg-oat">
@@ -32,6 +36,15 @@ export default async function DoctorProfile({ params }: { params: Promise<{ slug
         title={d.name}
         sub={`${d.role} — ${d.hospital}, ${d.city}. Education, volumes and languages verified by EthAum's credentialing desk against original certificates.`}
       />
+      {isIndexEntry && (
+        <div className="mx-auto max-w-7xl px-4 pt-6 sm:px-6">
+          <p className="rounded-2xl border border-amber/40 bg-amber-wash px-5 py-3 text-[12px] leading-5 text-charcoal">
+            <span className="font-bold text-amber-deep">Index listing.</span> This clinician is part of our catalogue index — registration details are illustrative until EthAum&apos;s credentialing desk verifies them.{" "}
+            <Link href="/doctors" className="font-bold text-forest underline">See verified profiles →</Link>
+          </p>
+        </div>
+      )}
+
       <div className="mx-auto grid max-w-7xl gap-8 px-4 py-10 sm:px-6 lg:grid-cols-12 lg:py-14">
         <div className="lg:col-span-7">
           <blockquote className="rounded-3xl border border-forest/10 bg-white p-6 font-display text-xl leading-snug text-forest-ink shadow-card">

@@ -89,7 +89,9 @@ export default function DoctorsPage() {
                   {hasProfile ? (
                     <Link href={`/doctors/${d.slug}`} className="rounded-full border border-forest/20 px-3.5 py-1.5 text-[11px] font-bold text-forest transition-colors hover:bg-forest hover:text-oat">Profile →</Link>
                   ) : (
-                    <Link href="/case/new" className="rounded-full border border-forest/20 px-3.5 py-1.5 text-[11px] font-bold text-forest transition-colors hover:bg-forest hover:text-oat">Request consult →</Link>
+                    <Link href={`/doctors/${d.slug}`} className="rounded-full border border-forest/20 px-3.5 py-1.5 text-[11px] font-bold text-forest transition-colors hover:bg-forest hover:text-oat">
+                View listing →
+              </Link>
                   )}
                 </div>
               </article>

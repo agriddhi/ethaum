@@ -280,8 +280,9 @@
       ],
       "languages": [
         "English",
-        "Kannada",
-        "Hindi"
+        "Hindi",
+        "Malayalam",
+        "Tamil"
       ],
       "rating": 4.8,
       "reviews": 2395,
@@ -310,9 +311,10 @@
       ],
       "languages": [
         "English",
-        "Kannada",
         "Bengali",
-        "Punjabi",
+        "Kannada",
+        "Gujarati",
+        "Odia",
         "Malayalam"
       ],
       "rating": 4.7,
@@ -343,7 +345,8 @@
       ],
       "languages": [
         "English",
-        "Punjabi",
+        "Gujarati",
+        "Odia",
         "Hindi"
       ],
       "rating": 4.7,
@@ -373,8 +376,9 @@
       ],
       "languages": [
         "English",
+        "Malayalam",
         "Tamil",
-        "Marathi"
+        "Bengali"
       ],
       "rating": 3.9,
       "reviews": 1978,
@@ -401,8 +405,9 @@
       ],
       "languages": [
         "English",
+        "Telugu",
+        "Odia",
         "Punjabi",
-        "Gujarati",
         "Tamil"
       ],
       "rating": 3.9,
@@ -430,10 +435,11 @@
       ],
       "languages": [
         "English",
-        "Kannada",
+        "Tamil",
+        "Malayalam",
         "Hindi",
-        "Marathi",
-        "Bengali"
+        "Bengali",
+        "Gujarati"
       ],
       "rating": 4.7,
       "reviews": 1218,
@@ -462,6 +468,7 @@
       ],
       "languages": [
         "English",
+        "Gujarati",
         "Tamil",
         "Hindi"
       ],
@@ -493,6 +500,7 @@
       ],
       "languages": [
         "English",
+        "Malayalam",
         "Hindi",
         "Kannada"
       ],
@@ -522,8 +530,9 @@
       ],
       "languages": [
         "English",
-        "Tamil",
-        "Kannada"
+        "Hindi",
+        "Telugu",
+        "Malayalam"
       ],
       "rating": 4.2,
       "reviews": 2557,
@@ -552,8 +561,9 @@
       ],
       "languages": [
         "English",
-        "Bengali",
-        "Kannada"
+        "Hindi",
+        "Gujarati",
+        "Malayalam"
       ],
       "rating": 4.9,
       "reviews": 606,
@@ -582,10 +592,11 @@
       ],
       "languages": [
         "English",
-        "Tamil",
-        "Malayalam",
         "Telugu",
-        "Gujarati"
+        "Tamil",
+        "Marathi",
+        "Kannada",
+        "Punjabi"
       ],
       "rating": 4.4,
       "reviews": 1988,
@@ -614,10 +625,11 @@
       ],
       "languages": [
         "English",
-        "Telugu",
-        "Marathi",
+        "Hindi",
         "Kannada",
-        "Malayalam"
+        "Bengali",
+        "Malayalam",
+        "Marathi"
       ],
       "rating": 4.2,
       "reviews": 847,
@@ -646,10 +658,11 @@
       ],
       "languages": [
         "English",
-        "Telugu",
+        "Tamil",
         "Kannada",
-        "Bengali",
-        "Malayalam"
+        "Malayalam",
+        "Gujarati",
+        "Marathi"
       ],
       "rating": 4.7,
       "reviews": 1479,
@@ -678,9 +691,10 @@
       ],
       "languages": [
         "English",
-        "Bengali",
+        "Marathi",
+        "Gujarati",
         "Tamil",
-        "Marathi"
+        "Bengali"
       ],
       "rating": 4.2,
       "reviews": 170,
@@ -708,10 +722,11 @@
       ],
       "languages": [
         "English",
-        "Bengali",
-        "Telugu",
         "Hindi",
-        "Tamil"
+        "Gujarati",
+        "Kannada",
+        "Tamil",
+        "Telugu"
       ],
       "rating": 4,
       "reviews": 1756,
@@ -739,8 +754,9 @@
       ],
       "languages": [
         "English",
-        "Kannada",
-        "Telugu"
+        "Hindi",
+        "Malayalam",
+        "Kannada"
       ],
       "rating": 4.5,
       "reviews": 1071,
@@ -768,7 +784,8 @@
       ],
       "languages": [
         "English",
-        "Marathi",
+        "Kannada",
+        "Bengali",
         "Telugu",
         "Tamil"
       ],
@@ -798,7 +815,8 @@
       ],
       "languages": [
         "English",
-        "Punjabi",
+        "Marathi",
+        "Odia",
         "Kannada",
         "Malayalam"
       ],
@@ -829,7 +847,8 @@
       "languages": [
         "English",
         "Kannada",
-        "Gujarati",
+        "Malayalam",
+        "Punjabi",
         "Tamil"
       ],
       "rating": 4.4,
@@ -860,8 +879,9 @@
       "languages": [
         "English",
         "Kannada",
-        "Marathi",
         "Malayalam",
+        "Bengali",
+        "Marathi",
         "Tamil"
       ],
       "rating": 4.2,
@@ -891,9 +911,10 @@
       ],
       "languages": [
         "English",
-        "Tamil",
+        "Hindi",
         "Telugu",
-        "Marathi"
+        "Kannada",
+        "Bengali"
       ],
       "rating": 4,
       "reviews": 329,
@@ -923,9 +944,10 @@
       ],
       "languages": [
         "English",
+        "Gujarati",
         "Telugu",
         "Tamil",
-        "Gujarati",
+        "Punjabi",
         "Kannada"
       ],
       "rating": 3.9,
@@ -954,6 +976,7 @@
       ],
       "languages": [
         "English",
+        "Punjabi",
         "Malayalam",
         "Tamil"
       ],
@@ -984,10 +1007,11 @@
       ],
       "languages": [
         "English",
-        "Malayalam",
-        "Tamil",
-        "Bengali",
-        "Telugu"
+        "Hindi",
+        "Marathi",
+        "Telugu",
+        "Gujarati",
+        "Kannada"
       ],
       "rating": 4.4,
       "reviews": 1446,
@@ -1014,9 +1038,10 @@
       ],
       "languages": [
         "English",
+        "Marathi",
         "Telugu",
-        "Bengali",
-        "Marathi"
+        "Gujarati",
+        "Bengali"
       ],
       "rating": 4.2,
       "reviews": 717,
@@ -1047,6 +1072,7 @@
       "languages": [
         "English",
         "Malayalam",
+        "Marathi",
         "Tamil"
       ],
       "rating": 4.7,
@@ -1076,8 +1102,9 @@
       ],
       "languages": [
         "English",
-        "Kannada",
-        "Malayalam"
+        "Tamil",
+        "Malayalam",
+        "Marathi"
       ],
       "rating": 4,
       "reviews": 687,
@@ -1105,9 +1132,10 @@
       ],
       "languages": [
         "English",
+        "Tamil",
         "Hindi",
-        "Marathi",
-        "Punjabi"
+        "Bengali",
+        "Odia"
       ],
       "rating": 4.6,
       "reviews": 2155,
@@ -1134,9 +1162,10 @@
       ],
       "languages": [
         "English",
+        "Gujarati",
         "Malayalam",
         "Kannada",
-        "Punjabi"
+        "Odia"
       ],
       "rating": 4.6,
       "reviews": 2167,
@@ -1163,10 +1192,11 @@
       ],
       "languages": [
         "English",
+        "Telugu",
         "Tamil",
-        "Punjabi",
-        "Marathi",
-        "Telugu"
+        "Odia",
+        "Bengali",
+        "Kannada"
       ],
       "rating": 4.7,
       "reviews": 909,
@@ -1194,9 +1224,10 @@
       ],
       "languages": [
         "English",
-        "Tamil",
-        "Bengali",
-        "Punjabi"
+        "Hindi",
+        "Telugu",
+        "Gujarati",
+        "Odia"
       ],
       "rating": 4.9,
       "reviews": 1247,
@@ -1226,6 +1257,7 @@
       ],
       "languages": [
         "English",
+        "Malayalam",
         "Tamil",
         "Telugu"
       ],
@@ -1256,7 +1288,8 @@
       ],
       "languages": [
         "English",
-        "Mandarin",
+        "Thai",
+        "Arabic",
         "Hindi",
         "Russian"
       ],
@@ -1287,8 +1320,9 @@
       "languages": [
         "English",
         "Thai",
-        "Arabic",
-        "Mandarin"
+        "Mandarin",
+        "Russian",
+        "Arabic"
       ],
       "rating": 4.9,
       "reviews": 3455,
@@ -1318,6 +1352,7 @@
       "languages": [
         "English",
         "Thai",
+        "Mandarin",
         "Russian",
         "Hindi"
       ],
@@ -1348,6 +1383,7 @@
       ],
       "languages": [
         "English",
+        "Thai",
         "Hindi",
         "Mandarin"
       ],
@@ -1377,9 +1413,10 @@
       ],
       "languages": [
         "English",
-        "Mandarin",
-        "Hindi",
         "Thai",
+        "Hindi",
+        "Mandarin",
+        "Arabic",
         "Russian"
       ],
       "rating": 4.5,
@@ -1409,10 +1446,11 @@
       ],
       "languages": [
         "English",
+        "Thai",
         "Russian",
         "Hindi",
         "Arabic",
-        "Thai"
+        "Mandarin"
       ],
       "rating": 4.8,
       "reviews": 490,
@@ -1441,9 +1479,10 @@
       ],
       "languages": [
         "English",
-        "Mandarin",
+        "Thai",
         "Hindi",
-        "Arabic"
+        "Arabic",
+        "Russian"
       ],
       "rating": 4.2,
       "reviews": 2376,
@@ -1470,9 +1509,10 @@
       ],
       "languages": [
         "English",
+        "Thai",
         "Russian",
-        "Hindi",
-        "Mandarin"
+        "Mandarin",
+        "Arabic"
       ],
       "rating": 4.5,
       "reviews": 3363,
@@ -1502,6 +1542,7 @@
       "languages": [
         "English",
         "Thai",
+        "Mandarin",
         "Hindi",
         "Arabic",
         "Russian"
@@ -1532,10 +1573,11 @@
       ],
       "languages": [
         "English",
-        "Mandarin",
-        "Russian",
+        "Thai",
         "Arabic",
-        "Hindi"
+        "Russian",
+        "Hindi",
+        "Mandarin"
       ],
       "rating": 4.6,
       "reviews": 2063,
@@ -1563,8 +1605,9 @@
       ],
       "languages": [
         "English",
-        "Mandarin",
+        "Thai",
         "Hindi",
+        "Arabic",
         "Russian"
       ],
       "rating": 4,
@@ -1593,6 +1636,7 @@
       ],
       "languages": [
         "English",
+        "Thai",
         "Hindi",
         "Russian",
         "Mandarin"
@@ -1622,8 +1666,9 @@
       ],
       "languages": [
         "English",
+        "Thai",
         "Arabic",
-        "Mandarin"
+        "Hindi"
       ],
       "rating": 4.8,
       "reviews": 1256,
@@ -1653,6 +1698,7 @@
       "languages": [
         "English",
         "Thai",
+        "Mandarin",
         "Russian",
         "Arabic"
       ],
@@ -1682,8 +1728,9 @@
       ],
       "languages": [
         "English",
+        "Thai",
         "Hindi",
-        "Arabic"
+        "Russian"
       ],
       "rating": 4.9,
       "reviews": 2270,
@@ -1711,8 +1758,9 @@
       ],
       "languages": [
         "English",
+        "Thai",
         "Russian",
-        "Mandarin",
+        "Arabic",
         "Hindi"
       ],
       "rating": 4.8,
@@ -1742,8 +1790,9 @@
       ],
       "languages": [
         "English",
-        "Mandarin",
-        "Arabic"
+        "Thai",
+        "Arabic",
+        "Russian"
       ],
       "rating": 4,
       "reviews": 721,
@@ -1771,6 +1820,7 @@
       ],
       "languages": [
         "English",
+        "Thai",
         "Russian",
         "Hindi"
       ],
@@ -1801,6 +1851,7 @@
       ],
       "languages": [
         "English",
+        "Thai",
         "Hindi",
         "Mandarin",
         "Russian",
@@ -1833,8 +1884,9 @@
       ],
       "languages": [
         "English",
+        "Thai",
         "Hindi",
-        "Mandarin"
+        "Arabic"
       ],
       "rating": 4.5,
       "reviews": 2919,
@@ -1864,6 +1916,7 @@
       "languages": [
         "English",
         "Thai",
+        "Mandarin",
         "Arabic",
         "Russian"
       ],
@@ -1895,8 +1948,9 @@
       ],
       "languages": [
         "English",
+        "Thai",
         "Arabic",
-        "Mandarin",
+        "Russian",
         "Hindi"
       ],
       "rating": 4.7,
@@ -1924,10 +1978,11 @@
       ],
       "languages": [
         "English",
+        "Mandarin",
         "Bengali",
-        "Malay",
+        "Tamil",
         "Hindi",
-        "Mandarin"
+        "Malay"
       ],
       "rating": 4.6,
       "reviews": 732,
@@ -1957,8 +2012,9 @@
       ],
       "languages": [
         "English",
+        "Malay",
         "Hindi",
-        "Tamil"
+        "Bengali"
       ],
       "rating": 4.6,
       "reviews": 1021,
@@ -1988,7 +2044,8 @@
         "English",
         "Mandarin",
         "Malay",
-        "Tamil"
+        "Tamil",
+        "Hindi"
       ],
       "rating": 4.5,
       "reviews": 3542,
@@ -2017,8 +2074,9 @@
       ],
       "languages": [
         "English",
+        "Mandarin",
         "Bengali",
-        "Mandarin"
+        "Malay"
       ],
       "rating": 4.1,
       "reviews": 1841,
@@ -2049,6 +2107,7 @@
       "languages": [
         "English",
         "Mandarin",
+        "Malay",
         "Hindi"
       ],
       "rating": 4.2,
@@ -2077,6 +2136,7 @@
       ],
       "languages": [
         "English",
+        "Tamil",
         "Hindi",
         "Malay",
         "Mandarin",
@@ -2110,9 +2170,10 @@
       ],
       "languages": [
         "English",
-        "Bengali",
         "Mandarin",
+        "Bengali",
         "Malay",
+        "Tamil",
         "Hindi"
       ],
       "rating": 4.7,
@@ -2141,6 +2202,7 @@
       ],
       "languages": [
         "English",
+        "Mandarin",
         "Hindi",
         "Malay",
         "Bengali"
@@ -2171,8 +2233,9 @@
       ],
       "languages": [
         "English",
-        "Hindi",
+        "Mandarin",
         "Bengali",
+        "Hindi",
         "Malay"
       ],
       "rating": 4.1,
@@ -2200,6 +2263,7 @@
       ],
       "languages": [
         "English",
+        "Malay",
         "Mandarin",
         "Hindi"
       ],
@@ -2230,10 +2294,11 @@
       ],
       "languages": [
         "English",
-        "Hindi",
+        "Mandarin",
         "Bengali",
-        "Malay",
-        "Mandarin"
+        "Hindi",
+        "Tamil",
+        "Malay"
       ],
       "rating": 4.9,
       "reviews": 783,
@@ -2263,8 +2328,9 @@
       ],
       "languages": [
         "English",
-        "Malay",
-        "Mandarin"
+        "Mandarin",
+        "Tamil",
+        "Malay"
       ],
       "rating": 4.6,
       "reviews": 2171,
@@ -2293,8 +2359,9 @@
       ],
       "languages": [
         "English",
+        "Mandarin",
         "Tamil",
-        "Mandarin"
+        "Malay"
       ],
       "rating": 4,
       "reviews": 2644,
@@ -2321,8 +2388,9 @@
       ],
       "languages": [
         "English",
-        "Hindi",
-        "Tamil"
+        "Tamil",
+        "Bengali",
+        "Malay"
       ],
       "rating": 4.4,
       "reviews": 538,
@@ -2350,10 +2418,11 @@
       ],
       "languages": [
         "English",
-        "Malay",
+        "Mandarin",
         "Tamil",
         "Hindi",
-        "Mandarin"
+        "Malay",
+        "Bengali"
       ],
       "rating": 4.1,
       "reviews": 1634,
@@ -2383,7 +2452,8 @@
       "languages": [
         "English",
         "Mandarin",
-        "Tamil",
+        "Malay",
+        "Hindi",
         "Bengali"
       ],
       "rating": 3.9,
@@ -2413,9 +2483,10 @@
       ],
       "languages": [
         "English",
-        "Arabic",
+        "Turkish",
+        "Russian",
         "German",
-        "Russian"
+        "Arabic"
       ],
       "rating": 3.9,
       "reviews": 1972,
@@ -2444,6 +2515,7 @@
       "languages": [
         "English",
         "Turkish",
+        "Arabic",
         "German"
       ],
       "rating": 4.3,
@@ -2472,8 +2544,9 @@
       ],
       "languages": [
         "English",
+        "Turkish",
         "Russian",
-        "Arabic"
+        "German"
       ],
       "rating": 4.4,
       "reviews": 543,
@@ -2501,16 +2574,16 @@
       ],
       "languages": [
         "English",
+        "Turkish",
         "German",
         "Arabic",
-        "Russian",
-        "Turkish"
+        "Russian"
       ],
       "rating": 4.4,
       "reviews": 2609,
-      "bestFor": "Same-day ceramic work",
+      "bestFor": "Cosmetic dentistry",
       "flagship": "full-mouth implants from ₹1.4L",
-      "priceNote": "indicative package · verified on request",
+      "priceNote": "indicative band · implants itemised in quote",
       "since": 1973,
       "audited": false,
       "tier": "index",
@@ -2518,29 +2591,31 @@
       "demo": true
     },
     {
-      "slug": "kartal-international-hospital-bursa",
-      "name": "Kartal International Hospital",
-      "city": "Bursa",
+      "slug": "halic-hospital-kayseri",
+      "name": "Halic Hospital",
+      "city": "Kayseri",
       "country": "Turkey",
       "accreditations": [
-        "JCI"
+        "JCI",
+        "ISO 9001"
       ],
       "specialties": [
-        "Cosmetic",
+        "Neuro",
+        "Oncology",
         "ENT"
       ],
       "languages": [
         "English",
-        "Russian",
-        "Arabic",
+        "Turkish",
         "German",
-        "Turkish"
+        "Russian",
+        "Arabic"
       ],
       "rating": 4,
       "reviews": 1171,
-      "bestFor": "Skin and aesthetics",
-      "flagship": "FUE hair transplant from ₹51k",
-      "priceNote": "index band · not a quote",
+      "bestFor": "Microneurosurgery",
+      "flagship": "craniotomy from ₹3.9L",
+      "priceNote": "indicative band · implants itemised in quote",
       "since": 2009,
       "audited": false,
       "tier": "index",
@@ -2548,30 +2623,32 @@
       "demo": true
     },
     {
-      "slug": "emek-medical-centre-trabzon",
-      "name": "Emek Medical Centre",
-      "city": "Trabzon",
+      "slug": "bosphorus-specialty-hospital-mersin",
+      "name": "Bosphorus Specialty Hospital",
+      "city": "Mersin",
       "country": "Turkey",
       "accreditations": [
+        "JCI",
         "ISO 9001"
       ],
       "specialties": [
         "Orthopaedics",
+        "Gastroenterology",
         "Transplants",
         "Sports medicine"
       ],
       "languages": [
         "English",
-        "Russian",
         "Turkish",
+        "Russian",
         "Arabic",
         "German"
       ],
       "rating": 4.3,
       "reviews": 838,
-      "bestFor": "Sports-injury reconstruction",
+      "bestFor": "Revision knee surgery",
       "flagship": "robotic knee replacement from ₹2.4L",
-      "priceNote": "indicative band · quote in 48h",
+      "priceNote": "indicative package · verified on request",
       "since": 2006,
       "audited": false,
       "tier": "index",
@@ -2579,1017 +2656,28 @@
       "demo": true
     },
     {
-      "slug": "atil-international-hospital-trabzon",
-      "name": "Atil International Hospital",
-      "city": "Trabzon",
-      "country": "Turkey",
-      "accreditations": [
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Fertility",
-        "Cosmetic"
-      ],
-      "languages": [
-        "English",
-        "Russian",
-        "Arabic"
-      ],
-      "rating": 4.5,
-      "reviews": 1905,
-      "bestFor": "Halal-friendly fertility care",
-      "flagship": "IVF cycle from ₹1.5L",
-      "priceNote": "indicative package · verified on request",
-      "since": 1979,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "marmara-medical-center-bursa",
-      "name": "Marmara Medical Center",
-      "city": "Bursa",
-      "country": "Turkey",
-      "accreditations": [
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Cardiac",
-        "Plastic surgery",
-        "Urology",
-        "Transplants"
-      ],
-      "languages": [
-        "English",
-        "German",
-        "Russian",
-        "Arabic",
-        "Turkish"
-      ],
-      "rating": 3.9,
-      "reviews": 2349,
-      "bestFor": "High-volume bypass surgery",
-      "flagship": "CABG from ₹5.2L",
-      "priceNote": "indicative band · implants itemised in quote",
-      "since": 1966,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "emek-hospital-izmir",
-      "name": "Emek Hospital",
-      "city": "Izmir",
+      "slug": "yildiz-medical-centre-gaziantep",
+      "name": "Yildiz Medical Centre",
+      "city": "Gaziantep",
       "country": "Turkey",
       "accreditations": [
         "JCI",
         "ISO 9001"
       ],
       "specialties": [
-        "Sports medicine",
-        "Oncology",
         "Vascular",
-        "Dental"
+        "Transplants"
       ],
       "languages": [
         "English",
-        "Arabic",
-        "Russian",
         "Turkish",
+        "Arabic",
         "German"
-      ],
-      "rating": 4.7,
-      "reviews": 1741,
-      "bestFor": "Athlete recovery programmes",
-      "flagship": "knee arthroscopy from ₹80k",
-      "priceNote": "index band · inclusive estimate",
-      "since": 1997,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "halic-medical-centre-kayseri",
-      "name": "Halic Medical Centre",
-      "city": "Kayseri",
-      "country": "Turkey",
-      "accreditations": [
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Oncology",
-        "Ophthalmology",
-        "Cosmetic"
-      ],
-      "languages": [
-        "English",
-        "German",
-        "Russian",
-        "Arabic"
       ],
       "rating": 4.8,
-      "reviews": 1444,
-      "bestFor": "Affordable oncology pathways",
-      "flagship": "PET-CT + tumour MDT from ₹71k",
-      "priceNote": "index band · inclusive estimate",
-      "since": 1984,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "trakya-international-hospital-izmir",
-      "name": "Trakya International Hospital",
-      "city": "Izmir",
-      "country": "Turkey",
-      "accreditations": [
-        "JCI",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Cardiac",
-        "Bariatric"
-      ],
-      "languages": [
-        "English",
-        "German",
-        "Turkish",
-        "Arabic"
-      ],
-      "rating": 4.1,
-      "reviews": 1379,
-      "bestFor": "Complex coronary intervention",
-      "flagship": "CABG from ₹4.4L",
-      "priceNote": "index band · not a quote",
-      "since": 2006,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "aegean-health-group-adana",
-      "name": "Aegean Health Group",
-      "city": "Adana",
-      "country": "Turkey",
-      "accreditations": [
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Oncology",
-        "Gastroenterology",
-        "Dental"
-      ],
-      "languages": [
-        "English",
-        "Russian",
-        "German",
-        "Turkish",
-        "Arabic"
-      ],
-      "rating": 4.5,
-      "reviews": 2136,
-      "bestFor": "Affordable oncology pathways",
-      "flagship": "PET-CT + tumour MDT from ₹73k",
-      "priceNote": "indicative package · verified on request",
-      "since": 1979,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "aegean-health-group-ankara-ankara",
-      "name": "Aegean Health Group Ankara",
-      "city": "Ankara",
-      "country": "Turkey",
-      "accreditations": [
-        "JCI",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "ENT",
-        "Dental",
-        "Cosmetic",
-        "Paediatric cardiac"
-      ],
-      "languages": [
-        "English",
-        "Turkish",
-        "German"
-      ],
-      "rating": 4.6,
-      "reviews": 856,
-      "bestFor": "Hearing and ear surgery",
-      "flagship": "FESS sinus surgery from ₹61k",
-      "priceNote": "indicative package · verified on request",
-      "since": 2006,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "doruk-international-hospital-trabzon",
-      "name": "Doruk International Hospital",
-      "city": "Trabzon",
-      "country": "Turkey",
-      "accreditations": [
-        "JCI"
-      ],
-      "specialties": [
-        "Gastroenterology",
-        "Bone marrow",
-        "Bariatric"
-      ],
-      "languages": [
-        "English",
-        "Turkish",
-        "Russian",
-        "German",
-        "Arabic"
-      ],
-      "rating": 4.6,
-      "reviews": 402,
-      "bestFor": "Colorectal screening",
-      "flagship": "endoscopy + polypectomy from ₹33k",
-      "priceNote": "indicative band · quote in 48h",
-      "since": 2015,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "marmara-medical-centre-izmir",
-      "name": "Marmara Medical Centre",
-      "city": "Izmir",
-      "country": "Turkey",
-      "accreditations": [
-        "JCI"
-      ],
-      "specialties": [
-        "Orthopaedics",
-        "Gastroenterology",
-        "ENT",
-        "Bone marrow"
-      ],
-      "languages": [
-        "English",
-        "Arabic",
-        "Turkish"
-      ],
-      "rating": 4.6,
-      "reviews": 3758,
-      "bestFor": "Robotic joint replacement",
-      "flagship": "robotic knee replacement from ₹2.2L",
-      "priceNote": "index band · not a quote",
-      "since": 1972,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "kartal-medical-centre-trabzon",
-      "name": "Kartal Medical Centre",
-      "city": "Trabzon",
-      "country": "Turkey",
-      "accreditations": [
-        "JCI"
-      ],
-      "specialties": [
-        "Orthopaedics",
-        "Bone marrow",
-        "ENT",
-        "Ophthalmology"
-      ],
-      "languages": [
-        "English",
-        "Russian",
-        "Arabic",
-        "German"
-      ],
-      "rating": 4.6,
-      "reviews": 897,
-      "bestFor": "Sports-injury reconstruction",
-      "flagship": "robotic knee replacement from ₹2.3L",
-      "priceNote": "index band · inclusive estimate",
-      "since": 1999,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "cappadocia-international-hospital-izmir",
-      "name": "Cappadocia International Hospital",
-      "city": "Izmir",
-      "country": "Turkey",
-      "accreditations": [
-        "JCI",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Cosmetic",
-        "Bariatric",
-        "Ophthalmology",
-        "Cardiac"
-      ],
-      "languages": [
-        "English",
-        "Russian",
-        "Turkish"
-      ],
-      "rating": 4.3,
-      "reviews": 2122,
-      "bestFor": "Hair restoration circuits",
-      "flagship": "FUE hair transplant from ₹56k",
-      "priceNote": "indicative band · quote in 48h",
-      "since": 1977,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "doruk-medical-centre-eskisehir",
-      "name": "Doruk Medical Centre",
-      "city": "Eskisehir",
-      "country": "Turkey",
-      "accreditations": [
-        "JCI",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Sports medicine",
-        "Cosmetic",
-        "Fertility"
-      ],
-      "languages": [
-        "English",
-        "German",
-        "Arabic"
-      ],
-      "rating": 4.3,
-      "reviews": 2181,
-      "bestFor": "Athlete recovery programmes",
-      "flagship": "knee arthroscopy from ₹74k",
-      "priceNote": "index band · not a quote",
-      "since": 1987,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "doruk-medical-center-ankara",
-      "name": "Doruk Medical Center",
-      "city": "Ankara",
-      "country": "Turkey",
-      "accreditations": [
-        "JCI"
-      ],
-      "specialties": [
-        "Cosmetic",
-        "ENT",
-        "Bariatric"
-      ],
-      "languages": [
-        "English",
-        "Arabic",
-        "Turkish",
-        "Russian"
-      ],
-      "rating": 4.5,
-      "reviews": 2987,
-      "bestFor": "Body contouring",
-      "flagship": "FUE hair transplant from ₹50k",
-      "priceNote": "index band · not a quote",
-      "since": 1977,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "anadolu-medical-centre-trabzon",
-      "name": "Anadolu Medical Centre",
-      "city": "Trabzon",
-      "country": "Turkey",
-      "accreditations": [
-        "JCI",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Ophthalmology",
-        "Paediatric cardiac",
-        "Bone marrow",
-        "Fertility"
-      ],
-      "languages": [
-        "English",
-        "Turkish",
-        "Arabic",
-        "Russian",
-        "German"
-      ],
-      "rating": 4.1,
-      "reviews": 391,
-      "bestFor": "Bladeless vision correction",
-      "flagship": "LASIK both eyes from ₹25k",
-      "priceNote": "indicative band · quote in 48h",
-      "since": 2017,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "cahaya-medical-institute-alor-setar",
-      "name": "Cahaya Medical Institute",
-      "city": "Alor Setar",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH",
-        "JCI"
-      ],
-      "specialties": [
-        "Fertility",
-        "Ophthalmology"
-      ],
-      "languages": [
-        "English",
-        "Hindi",
-        "Tamil",
-        "Mandarin",
-        "Arabic"
-      ],
-      "rating": 4.2,
-      "reviews": 2898,
-      "bestFor": "Halal-friendly fertility care",
-      "flagship": "IVF cycle from ₹1.6L",
-      "priceNote": "indicative band · implants itemised in quote",
-      "since": 1983,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "sungai-health-institute-klang",
-      "name": "Sungai Health Institute",
-      "city": "Klang",
-      "country": "Malaysia",
-      "accreditations": [
-        "JCI"
-      ],
-      "specialties": [
-        "Cardiac",
-        "Cosmetic",
-        "Ophthalmology",
-        "Urology"
-      ],
-      "languages": [
-        "English",
-        "Arabic",
-        "Malay",
-        "Mandarin"
-      ],
-      "rating": 4.3,
-      "reviews": 300,
-      "bestFor": "High-volume bypass surgery",
-      "flagship": "CABG from ₹6.1L",
-      "priceNote": "indicative band · implants itemised in quote",
-      "since": 2017,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "melaka-medical-institute-ipoh",
-      "name": "Melaka Medical Institute",
-      "city": "Ipoh",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Orthopaedics",
-        "Bariatric"
-      ],
-      "languages": [
-        "English",
-        "Malay",
-        "Hindi",
-        "Tamil",
-        "Mandarin"
-      ],
-      "rating": 4.1,
-      "reviews": 1163,
-      "bestFor": "Robotic joint replacement",
-      "flagship": "robotic knee replacement from ₹2.9L",
-      "priceNote": "index band · not a quote",
-      "since": 2002,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "kenanga-general-hospital-klang",
-      "name": "Kenanga General Hospital",
-      "city": "Klang",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH"
-      ],
-      "specialties": [
-        "Ophthalmology",
-        "Urology",
-        "Transplants"
-      ],
-      "languages": [
-        "English",
-        "Mandarin",
-        "Arabic",
-        "Malay",
-        "Hindi"
-      ],
-      "rating": 4.3,
-      "reviews": 2678,
-      "bestFor": "Premium cataract surgery",
-      "flagship": "LASIK both eyes from ₹35k",
-      "priceNote": "indicative package · verified on request",
-      "since": 1988,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "harmoni-medical-centre-kota-bharu",
-      "name": "Harmoni Medical Centre",
-      "city": "Kota Bharu",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Cosmetic",
-        "General Surgery",
-        "Urology"
-      ],
-      "languages": [
-        "English",
-        "Tamil",
-        "Malay"
-      ],
-      "rating": 4.5,
-      "reviews": 1799,
-      "bestFor": "Body contouring",
-      "flagship": "FUE hair transplant from ₹75k",
-      "priceNote": "indicative package · verified on request",
-      "since": 1990,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "merdeka-hospital-clinic-klang",
-      "name": "Merdeka Hospital & Clinic",
-      "city": "Klang",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Ophthalmology",
-        "Gastroenterology",
-        "Fertility"
-      ],
-      "languages": [
-        "English",
-        "Tamil",
-        "Arabic"
-      ],
-      "rating": 4.6,
-      "reviews": 1444,
-      "bestFor": "Bladeless vision correction",
-      "flagship": "LASIK both eyes from ₹32k",
-      "priceNote": "index band · inclusive estimate",
-      "since": 1991,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "langkawi-medical-institute-kota-bharu",
-      "name": "Langkawi Medical Institute",
-      "city": "Kota Bharu",
-      "country": "Malaysia",
-      "accreditations": [
-        "JCI"
-      ],
-      "specialties": [
-        "Fertility",
-        "Cosmetic",
-        "Bariatric",
-        "Transplants"
-      ],
-      "languages": [
-        "English",
-        "Arabic",
-        "Malay",
-        "Mandarin",
-        "Hindi"
-      ],
-      "rating": 4.6,
-      "reviews": 1493,
-      "bestFor": "Age-honest success rates",
-      "flagship": "IVF cycle from ₹1.9L",
-      "priceNote": "index band · not a quote",
-      "since": 1978,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "melaka-medical-centre-penang",
-      "name": "Melaka Medical Centre",
-      "city": "Penang",
-      "country": "Malaysia",
-      "accreditations": [
-        "JCI"
-      ],
-      "specialties": [
-        "Bone marrow",
-        "Cosmetic",
-        "Gastroenterology",
-        "Dental"
-      ],
-      "languages": [
-        "English",
-        "Arabic",
-        "Mandarin",
-        "Hindi"
-      ],
-      "rating": 4.8,
-      "reviews": 267,
-      "bestFor": "Haematology transplant",
-      "flagship": "bone marrow transplant from ₹14.3L",
-      "priceNote": "indicative band · quote in 48h",
-      "since": 2021,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "tanjung-general-hospital-kota-bharu",
-      "name": "Tanjung General Hospital",
-      "city": "Kota Bharu",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "General Surgery",
-        "Fertility"
-      ],
-      "languages": [
-        "English",
-        "Malay",
-        "Tamil",
-        "Mandarin",
-        "Arabic"
-      ],
-      "rating": 4,
-      "reviews": 3226,
-      "bestFor": "Day-care hernia repair",
-      "flagship": "laparoscopic hernia repair from ₹59k",
-      "priceNote": "indicative package · verified on request",
-      "since": 1975,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "mutiara-medical-centre-kuantan",
-      "name": "Mutiara Medical Centre",
-      "city": "Kuantan",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH"
-      ],
-      "specialties": [
-        "Ophthalmology",
-        "Transplants",
-        "Cosmetic",
-        "Paediatric cardiac"
-      ],
-      "languages": [
-        "English",
-        "Tamil",
-        "Malay"
-      ],
-      "rating": 4.6,
-      "reviews": 621,
-      "bestFor": "Retina and glaucoma care",
-      "flagship": "LASIK both eyes from ₹35k",
-      "priceNote": "index band · not a quote",
-      "since": 2010,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "mutiara-medical-institute-johor-bahru",
-      "name": "Mutiara Medical Institute",
-      "city": "Johor Bahru",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH",
-        "JCI"
-      ],
-      "specialties": [
-        "Vascular",
-        "Plastic surgery",
-        "Dental"
-      ],
-      "languages": [
-        "English",
-        "Tamil",
-        "Malay",
-        "Hindi"
-      ],
-      "rating": 4.6,
-      "reviews": 1176,
-      "bestFor": "Varicose ulcer clinics",
-      "flagship": "laser vein ablation from ₹65k",
-      "priceNote": "indicative band · quote in 48h",
-      "since": 1997,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "nusa-hospital-clinic-kuala-lumpur",
-      "name": "Nusa Hospital & Clinic",
-      "city": "Kuala Lumpur",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH"
-      ],
-      "specialties": [
-        "Orthopaedics",
-        "ENT",
-        "Transplants"
-      ],
-      "languages": [
-        "English",
-        "Mandarin",
-        "Hindi",
-        "Tamil"
-      ],
-      "rating": 4.6,
-      "reviews": 1237,
-      "bestFor": "Robotic joint replacement",
-      "flagship": "robotic knee replacement from ₹3.2L",
-      "priceNote": "indicative band · quote in 48h",
-      "since": 1988,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "cahaya-general-hospital-alor-setar",
-      "name": "Cahaya General Hospital",
-      "city": "Alor Setar",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Cardiac",
-        "Vascular"
-      ],
-      "languages": [
-        "English",
-        "Tamil",
-        "Arabic",
-        "Malay",
-        "Hindi"
-      ],
-      "rating": 4.2,
-      "reviews": 1240,
-      "bestFor": "Complex coronary intervention",
-      "flagship": "CABG from ₹7.0L",
-      "priceNote": "index band · inclusive estimate",
-      "since": 1998,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "tanjung-general-hospital-johor-bahru-johor-bahru",
-      "name": "Tanjung General Hospital Johor Bahru",
-      "city": "Johor Bahru",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Urology",
-        "Ophthalmology",
-        "Gastroenterology"
-      ],
-      "languages": [
-        "English",
-        "Arabic",
-        "Malay",
-        "Tamil",
-        "Hindi"
-      ],
-      "rating": 4.1,
-      "reviews": 1844,
-      "bestFor": "Nerve-sparing prostate surgery",
-      "flagship": "robotic prostatectomy from ₹4.9L",
-      "priceNote": "indicative band · quote in 48h",
-      "since": 1970,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "perdana-specialist-hospital-shah-alam",
-      "name": "Perdana Specialist Hospital",
-      "city": "Shah Alam",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Bone marrow",
-        "Vascular",
-        "Cardiac",
-        "Ophthalmology"
-      ],
-      "languages": [
-        "English",
-        "Tamil",
-        "Malay",
-        "Hindi"
-      ],
-      "rating": 4.2,
-      "reviews": 2052,
-      "bestFor": "Leukaemia protocols",
-      "flagship": "bone marrow transplant from ₹15.0L",
-      "priceNote": "indicative package · verified on request",
-      "since": 1976,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "istana-medical-centre-johor-bahru",
-      "name": "Istana Medical Centre",
-      "city": "Johor Bahru",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Bone marrow",
-        "Sports medicine",
-        "Fertility",
-        "Vascular"
-      ],
-      "languages": [
-        "English",
-        "Malay",
-        "Hindi",
-        "Tamil"
-      ],
-      "rating": 4.4,
-      "reviews": 1040,
-      "bestFor": "Haematology transplant",
-      "flagship": "bone marrow transplant from ₹14.9L",
-      "priceNote": "index band · not a quote",
-      "since": 2006,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "kenanga-hospital-clinic-malacca",
-      "name": "Kenanga Hospital & Clinic",
-      "city": "Malacca",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Orthopaedics",
-        "Gastroenterology",
-        "Neuro",
-        "ENT"
-      ],
-      "languages": [
-        "English",
-        "Arabic",
-        "Tamil"
-      ],
-      "rating": 4.4,
-      "reviews": 1777,
-      "bestFor": "Sports-injury reconstruction",
-      "flagship": "robotic knee replacement from ₹3.2L",
-      "priceNote": "indicative band · implants itemised in quote",
-      "since": 1989,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "selat-medical-institute-ipoh",
-      "name": "Selat Medical Institute",
-      "city": "Ipoh",
-      "country": "Malaysia",
-      "accreditations": [
-        "MSQH"
-      ],
-      "specialties": [
-        "Fertility",
-        "Bariatric",
-        "Plastic surgery"
-      ],
-      "languages": [
-        "English",
-        "Hindi",
-        "Arabic",
-        "Malay",
-        "Tamil"
-      ],
-      "rating": 4.3,
-      "reviews": 203,
-      "bestFor": "Age-honest success rates",
-      "flagship": "IVF cycle from ₹1.9L",
-      "priceNote": "indicative band · quote in 48h",
-      "since": 2021,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "masaar-medical-centre-al-ain",
-      "name": "Masaar Medical Centre",
-      "city": "Al Ain",
-      "country": "UAE",
-      "accreditations": [
-        "JCI"
-      ],
-      "specialties": [
-        "Bone marrow",
-        "Oncology",
-        "Gastroenterology",
-        "General Surgery"
-      ],
-      "languages": [
-        "English",
-        "Hindi",
-        "Urdu"
-      ],
-      "rating": 4,
-      "reviews": 1784,
-      "bestFor": "Matched-donor programmes",
-      "flagship": "bone marrow transplant from ₹NaNk",
+      "reviews": 2367,
+      "bestFor": "Diabetic foot care",
+      "flagship": "laser vein ablation from ₹54k",
       "priceNote": "index band · inclusive estimate",
       "since": 1986,
       "audited": false,
@@ -3598,29 +2686,336 @@
       "demo": true
     },
     {
-      "slug": "qasr-clinic-hospital-abu-dhabi",
-      "name": "Qasr Clinic Hospital",
-      "city": "Abu Dhabi",
-      "country": "UAE",
+      "slug": "toros-medical-center-izmir",
+      "name": "Toros Medical Center",
+      "city": "Izmir",
+      "country": "Turkey",
       "accreditations": [
-        "JCI"
+        "ISO 9001"
       ],
       "specialties": [
         "Cardiac",
-        "Bone marrow",
+        "Sports medicine"
+      ],
+      "languages": [
+        "English",
+        "Turkish",
+        "German",
+        "Arabic"
+      ],
+      "rating": 4.6,
+      "reviews": 906,
+      "bestFor": "Affordable open-heart care",
+      "flagship": "CABG from ₹5.5L",
+      "priceNote": "indicative band · implants itemised in quote",
+      "since": 2011,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "atil-hospital-eskisehir",
+      "name": "Atil Hospital",
+      "city": "Eskisehir",
+      "country": "Turkey",
+      "accreditations": [
+        "JCI",
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Neuro",
+        "Cardiac",
+        "Fertility"
+      ],
+      "languages": [
+        "English",
+        "Turkish",
+        "Russian",
+        "German",
+        "Arabic"
+      ],
+      "rating": 4.8,
+      "reviews": 1571,
+      "bestFor": "Spine and nerve work",
+      "flagship": "craniotomy from ₹4.4L",
+      "priceNote": "indicative band · implants itemised in quote",
+      "since": 1977,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "sakarya-health-group-ankara",
+      "name": "Sakarya Health Group",
+      "city": "Ankara",
+      "country": "Turkey",
+      "accreditations": [
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Oncology",
+        "General Surgery",
         "Bariatric"
       ],
       "languages": [
         "English",
+        "Turkish",
         "Russian",
-        "Urdu",
-        "Tagalog",
+        "Arabic",
+        "German"
+      ],
+      "rating": 4.7,
+      "reviews": 1326,
+      "bestFor": "Protocol-led cancer care",
+      "flagship": "PET-CT + tumour MDT from ₹77k",
+      "priceNote": "index band · not a quote",
+      "since": 2000,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "guney-medical-centre-kayseri",
+      "name": "Guney Medical Centre",
+      "city": "Kayseri",
+      "country": "Turkey",
+      "accreditations": [
+        "ISO 9001"
+      ],
+      "specialties": [
+        "General Surgery",
+        "Vascular",
+        "Urology",
+        "ENT"
+      ],
+      "languages": [
+        "English",
+        "Turkish",
+        "Arabic",
+        "Russian",
+        "German"
+      ],
+      "rating": 4.2,
+      "reviews": 284,
+      "bestFor": "Laparoscopic general surgery",
+      "flagship": "laparoscopic hernia repair from ₹39k",
+      "priceNote": "indicative band · implants itemised in quote",
+      "since": 2020,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "cappadocia-medical-center-trabzon",
+      "name": "Cappadocia Medical Center",
+      "city": "Trabzon",
+      "country": "Turkey",
+      "accreditations": [
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Orthopaedics",
+        "Cosmetic"
+      ],
+      "languages": [
+        "English",
+        "Turkish",
+        "Russian",
+        "German",
         "Arabic"
       ],
-      "rating": 4,
-      "reviews": 583,
-      "bestFor": "Complex coronary intervention",
-      "flagship": "CABG from ₹NaNk",
+      "rating": 4.7,
+      "reviews": 432,
+      "bestFor": "Sports-injury reconstruction",
+      "flagship": "robotic knee replacement from ₹2.4L",
+      "priceNote": "indicative band · implants itemised in quote",
+      "since": 2018,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "trakya-medical-centre-adana",
+      "name": "Trakya Medical Centre",
+      "city": "Adana",
+      "country": "Turkey",
+      "accreditations": [
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Orthopaedics",
+        "Neuro",
+        "Oncology",
+        "Cosmetic"
+      ],
+      "languages": [
+        "English",
+        "Turkish",
+        "Russian",
+        "German",
+        "Arabic"
+      ],
+      "rating": 4.6,
+      "reviews": 3131,
+      "bestFor": "Robotic joint replacement",
+      "flagship": "robotic knee replacement from ₹2.2L",
+      "priceNote": "indicative package · verified on request",
+      "since": 1980,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "cappadocia-hospital-kayseri",
+      "name": "Cappadocia Hospital",
+      "city": "Kayseri",
+      "country": "Turkey",
+      "accreditations": [
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Neuro",
+        "Sports medicine"
+      ],
+      "languages": [
+        "English",
+        "Turkish",
+        "Russian",
+        "Arabic",
+        "German"
+      ],
+      "rating": 4.6,
+      "reviews": 2119,
+      "bestFor": "Microneurosurgery",
+      "flagship": "craniotomy from ₹4.5L",
+      "priceNote": "index band · not a quote",
+      "since": 1986,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "trakya-medical-center-adana",
+      "name": "Trakya Medical Center",
+      "city": "Adana",
+      "country": "Turkey",
+      "accreditations": [
+        "JCI",
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Bariatric",
+        "Paediatric cardiac"
+      ],
+      "languages": [
+        "English",
+        "Turkish",
+        "German",
+        "Russian"
+      ],
+      "rating": 4.1,
+      "reviews": 2029,
+      "bestFor": "Diabetic remission pathways",
+      "flagship": "gastric sleeve from ₹2.0L",
+      "priceNote": "indicative package · verified on request",
+      "since": 1972,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "aegean-specialty-hospital-eskisehir",
+      "name": "Aegean Specialty Hospital",
+      "city": "Eskisehir",
+      "country": "Turkey",
+      "accreditations": [
+        "JCI"
+      ],
+      "specialties": [
+        "Transplants",
+        "Fertility",
+        "Orthopaedics"
+      ],
+      "languages": [
+        "English",
+        "Turkish",
+        "Arabic",
+        "German",
+        "Russian"
+      ],
+      "rating": 4.1,
+      "reviews": 384,
+      "bestFor": "Complex immunology cases",
+      "flagship": "kidney transplant from ₹5.3L",
+      "priceNote": "indicative band · quote in 48h",
+      "since": 2021,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "halic-specialty-hospital-antalya",
+      "name": "Halic Specialty Hospital",
+      "city": "Antalya",
+      "country": "Turkey",
+      "accreditations": [
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Oncology",
+        "Ophthalmology",
+        "Plastic surgery",
+        "Transplants"
+      ],
+      "languages": [
+        "English",
+        "Turkish",
+        "German",
+        "Arabic"
+      ],
+      "rating": 4.6,
+      "reviews": 780,
+      "bestFor": "Protocol-led cancer care",
+      "flagship": "PET-CT + tumour MDT from ₹68k",
+      "priceNote": "indicative band · quote in 48h",
+      "since": 2013,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "kartal-specialty-hospital-antalya",
+      "name": "Kartal Specialty Hospital",
+      "city": "Antalya",
+      "country": "Turkey",
+      "accreditations": [
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Bone marrow",
+        "Urology"
+      ],
+      "languages": [
+        "English",
+        "Turkish",
+        "German",
+        "Russian",
+        "Arabic"
+      ],
+      "rating": 4.5,
+      "reviews": 505,
+      "bestFor": "Leukaemia protocols",
+      "flagship": "bone marrow transplant from ₹10.3L",
       "priceNote": "indicative band · quote in 48h",
       "since": 2016,
       "audited": false,
@@ -3629,56 +3024,93 @@
       "demo": true
     },
     {
-      "slug": "oasis-health-city-abu-dhabi",
-      "name": "Oasis Health City",
-      "city": "Abu Dhabi",
-      "country": "UAE",
+      "slug": "cappadocia-health-group-adana",
+      "name": "Cappadocia Health Group",
+      "city": "Adana",
+      "country": "Turkey",
       "accreditations": [
+        "JCI",
         "ISO 9001"
       ],
       "specialties": [
-        "Cardiac",
         "Urology",
-        "Transplants"
+        "Plastic surgery"
       ],
       "languages": [
         "English",
-        "Urdu",
-        "Tagalog"
+        "Turkish",
+        "Arabic",
+        "Russian",
+        "German"
       ],
-      "rating": 4.1,
-      "reviews": 1152,
-      "bestFor": "High-volume bypass surgery",
-      "flagship": "CABG from ₹NaNk",
-      "priceNote": "indicative band · quote in 48h",
-      "since": 2006,
+      "rating": 4.3,
+      "reviews": 771,
+      "bestFor": "Kidney stone care",
+      "flagship": "robotic prostatectomy from ₹3.7L",
+      "priceNote": "index band · inclusive estimate",
+      "since": 2002,
       "audited": false,
       "tier": "index",
       "verified": false,
       "demo": true
     },
     {
-      "slug": "al-yahar-specialty-hospital-ajman",
-      "name": "Al Yahar Specialty Hospital",
-      "city": "Ajman",
-      "country": "UAE",
+      "slug": "meridyen-hospital-trabzon",
+      "name": "Meridyen Hospital",
+      "city": "Trabzon",
+      "country": "Turkey",
       "accreditations": [
-        "JCI"
+        "JCI",
+        "ISO 9001"
       ],
       "specialties": [
-        "Ophthalmology",
-        "Urology"
+        "Vascular",
+        "Bariatric",
+        "Orthopaedics"
       ],
       "languages": [
         "English",
-        "Arabic",
-        "Russian"
+        "Turkish",
+        "German",
+        "Russian",
+        "Arabic"
       ],
-      "rating": 3.9,
-      "reviews": 601,
-      "bestFor": "Retina and glaucoma care",
-      "flagship": "LASIK both eyes from ₹NaNk",
-      "priceNote": "index band · inclusive estimate",
+      "rating": 4.1,
+      "reviews": 715,
+      "bestFor": "Diabetic foot care",
+      "flagship": "laser vein ablation from ₹51k",
+      "priceNote": "indicative band · implants itemised in quote",
+      "since": 2001,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "putrajaya-specialist-hospital-malacca",
+      "name": "Putrajaya Specialist Hospital",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH",
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Fertility",
+        "Vascular"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Mandarin",
+        "Hindi",
+        "Arabic"
+      ],
+      "rating": 4,
+      "reviews": 565,
+      "bestFor": "Age-honest success rates",
+      "flagship": "IVF cycle from ₹1.6L",
+      "priceNote": "index band · not a quote",
       "since": 2018,
       "audited": false,
       "tier": "index",
@@ -3686,29 +3118,788 @@
       "demo": true
     },
     {
-      "slug": "qasr-medical-centre-abu-dhabi",
-      "name": "Qasr Medical Centre",
-      "city": "Abu Dhabi",
-      "country": "UAE",
+      "slug": "damansara-medical-centre-kuching",
+      "name": "Damansara Medical Centre",
+      "city": "Kuching",
+      "country": "Malaysia",
       "accreditations": [
-        "JCI",
+        "MSQH",
+        "JCI"
+      ],
+      "specialties": [
+        "Oncology",
+        "Plastic surgery",
+        "Urology",
+        "Vascular"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Arabic",
+        "Mandarin",
+        "Hindi",
+        "Tamil"
+      ],
+      "rating": 4.3,
+      "reviews": 972,
+      "bestFor": "Second opinions on complex tumours",
+      "flagship": "PET-CT + tumour MDT from ₹93k",
+      "priceNote": "indicative band · implants itemised in quote",
+      "since": 1993,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "cempaka-health-institute-alor-setar",
+      "name": "Cempaka Health Institute",
+      "city": "Alor Setar",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH",
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Oncology",
+        "Orthopaedics"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Mandarin",
+        "Arabic",
+        "Tamil"
+      ],
+      "rating": 4.8,
+      "reviews": 714,
+      "bestFor": "Protocol-led cancer care",
+      "flagship": "PET-CT + tumour MDT from ₹88k",
+      "priceNote": "index band · not a quote",
+      "since": 2008,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "bintang-medical-centre-malacca",
+      "name": "Bintang Medical Centre",
+      "city": "Malacca",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH",
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Cardiac",
+        "Dental",
+        "Vascular"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Mandarin",
+        "Tamil",
+        "Hindi",
+        "Arabic"
+      ],
+      "rating": 4.6,
+      "reviews": 1502,
+      "bestFor": "High-volume bypass surgery",
+      "flagship": "CABG from ₹5.9L",
+      "priceNote": "indicative band · implants itemised in quote",
+      "since": 1987,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "mutiara-health-institute-kota-kinabalu",
+      "name": "Mutiara Health Institute",
+      "city": "Kota Kinabalu",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH",
+        "JCI"
+      ],
+      "specialties": [
+        "Cosmetic",
+        "Paediatric cardiac",
+        "Plastic surgery"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Tamil",
+        "Mandarin",
+        "Arabic"
+      ],
+      "rating": 4.7,
+      "reviews": 337,
+      "bestFor": "Skin and aesthetics",
+      "flagship": "FUE hair transplant from ₹68k",
+      "priceNote": "indicative band · implants itemised in quote",
+      "since": 2020,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "cempaka-general-hospital-shah-alam",
+      "name": "Cempaka General Hospital",
+      "city": "Shah Alam",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH",
         "ISO 9001"
       ],
       "specialties": [
         "Vascular",
-        "Dental",
+        "Ophthalmology",
+        "Cosmetic"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Tamil",
+        "Mandarin",
+        "Arabic"
+      ],
+      "rating": 4.3,
+      "reviews": 653,
+      "bestFor": "Day-care vein ablation",
+      "flagship": "laser vein ablation from ₹66k",
+      "priceNote": "index band · inclusive estimate",
+      "since": 2016,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "putrajaya-health-institute-johor-bahru",
+      "name": "Putrajaya Health Institute",
+      "city": "Johor Bahru",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH",
+        "JCI"
+      ],
+      "specialties": [
+        "Ophthalmology",
+        "Neuro",
+        "Cardiac"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Mandarin",
+        "Arabic",
+        "Hindi"
+      ],
+      "rating": 4.7,
+      "reviews": 2138,
+      "bestFor": "Bladeless vision correction",
+      "flagship": "LASIK both eyes from ₹33k",
+      "priceNote": "indicative band · implants itemised in quote",
+      "since": 1969,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "cempaka-general-hospital-johor-bahru-johor-bahru",
+      "name": "Cempaka General Hospital Johor Bahru",
+      "city": "Johor Bahru",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH",
+        "JCI"
+      ],
+      "specialties": [
+        "Urology",
+        "Oncology",
+        "Vascular",
+        "Paediatric cardiac"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Mandarin",
+        "Hindi",
+        "Tamil"
+      ],
+      "rating": 4,
+      "reviews": 2649,
+      "bestFor": "Urology day-care",
+      "flagship": "robotic prostatectomy from ₹4.2L",
+      "priceNote": "indicative package · verified on request",
+      "since": 1979,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "harmoni-general-hospital-kuching",
+      "name": "Harmoni General Hospital",
+      "city": "Kuching",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH"
+      ],
+      "specialties": [
+        "Ophthalmology",
+        "Cardiac",
+        "Cosmetic",
+        "Bariatric"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Hindi",
+        "Mandarin"
+      ],
+      "rating": 4.4,
+      "reviews": 2888,
+      "bestFor": "Retina and glaucoma care",
+      "flagship": "LASIK both eyes from ₹37k",
+      "priceNote": "index band · not a quote",
+      "since": 1976,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "terang-specialist-hospital-johor-bahru",
+      "name": "Terang Specialist Hospital",
+      "city": "Johor Bahru",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH",
+        "JCI"
+      ],
+      "specialties": [
+        "Oncology",
+        "Sports medicine",
+        "ENT",
+        "Fertility"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Tamil",
+        "Hindi"
+      ],
+      "rating": 4.1,
+      "reviews": 2355,
+      "bestFor": "Affordable oncology pathways",
+      "flagship": "PET-CT + tumour MDT from ₹85k",
+      "priceNote": "indicative package · verified on request",
+      "since": 1991,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "bintang-hospital-clinic-johor-bahru",
+      "name": "Bintang Hospital & Clinic",
+      "city": "Johor Bahru",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH",
+        "ISO 9001"
+      ],
+      "specialties": [
+        "General Surgery",
+        "Gastroenterology",
+        "Fertility"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Arabic",
+        "Mandarin",
+        "Hindi"
+      ],
+      "rating": 4.1,
+      "reviews": 1119,
+      "bestFor": "Day-care hernia repair",
+      "flagship": "laparoscopic hernia repair from ₹50k",
+      "priceNote": "indicative band · implants itemised in quote",
+      "since": 1995,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "harmoni-health-institute-kota-bharu",
+      "name": "Harmoni Health Institute",
+      "city": "Kota Bharu",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH",
+        "JCI"
+      ],
+      "specialties": [
+        "Fertility",
+        "Cosmetic",
+        "Neuro",
+        "Urology"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Hindi",
+        "Mandarin",
+        "Arabic"
+      ],
+      "rating": 4,
+      "reviews": 1421,
+      "bestFor": "Age-honest success rates",
+      "flagship": "IVF cycle from ₹1.8L",
+      "priceNote": "indicative band · quote in 48h",
+      "since": 1987,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "mutiara-hospital-clinic-johor-bahru",
+      "name": "Mutiara Hospital & Clinic",
+      "city": "Johor Bahru",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH"
+      ],
+      "specialties": [
+        "Urology",
+        "Oncology",
+        "Gastroenterology"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Hindi",
+        "Arabic"
+      ],
+      "rating": 4.5,
+      "reviews": 1477,
+      "bestFor": "Kidney stone care",
+      "flagship": "robotic prostatectomy from ₹4.4L",
+      "priceNote": "index band · not a quote",
+      "since": 1993,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "langkawi-medical-centre-shah-alam",
+      "name": "Langkawi Medical Centre",
+      "city": "Shah Alam",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH",
+        "JCI"
+      ],
+      "specialties": [
+        "Neuro",
+        "Bariatric",
+        "Vascular"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Hindi",
+        "Arabic",
+        "Mandarin",
+        "Tamil"
+      ],
+      "rating": 4.7,
+      "reviews": 1352,
+      "bestFor": "Spine and nerve work",
+      "flagship": "craniotomy from ₹5.2L",
+      "priceNote": "index band · inclusive estimate",
+      "since": 2003,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "perdana-health-institute-alor-setar",
+      "name": "Perdana Health Institute",
+      "city": "Alor Setar",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH"
+      ],
+      "specialties": [
+        "Transplants",
+        "Orthopaedics",
+        "General Surgery",
+        "Plastic surgery"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Tamil",
+        "Hindi"
+      ],
+      "rating": 4.4,
+      "reviews": 2794,
+      "bestFor": "Complex immunology cases",
+      "flagship": "kidney transplant from ₹6.6L",
+      "priceNote": "index band · inclusive estimate",
+      "since": 1980,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "melaka-hospital-clinic-shah-alam",
+      "name": "Melaka Hospital & Clinic",
+      "city": "Shah Alam",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH",
+        "JCI"
+      ],
+      "specialties": [
+        "Orthopaedics",
+        "Bone marrow",
+        "General Surgery",
+        "Neuro"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Hindi",
+        "Mandarin",
+        "Arabic",
+        "Tamil"
+      ],
+      "rating": 4.5,
+      "reviews": 631,
+      "bestFor": "Sports-injury reconstruction",
+      "flagship": "robotic knee replacement from ₹3.1L",
+      "priceNote": "indicative package · verified on request",
+      "since": 2013,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "istana-medical-institute-johor-bahru",
+      "name": "Istana Medical Institute",
+      "city": "Johor Bahru",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH"
+      ],
+      "specialties": [
+        "Sports medicine",
+        "Neuro",
+        "Ophthalmology"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Mandarin",
+        "Tamil",
+        "Hindi",
+        "Arabic"
+      ],
+      "rating": 4,
+      "reviews": 2035,
+      "bestFor": "Ligament reconstruction",
+      "flagship": "knee arthroscopy from ₹96k",
+      "priceNote": "indicative band · quote in 48h",
+      "since": 1980,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "terang-health-institute-kota-kinabalu",
+      "name": "Terang Health Institute",
+      "city": "Kota Kinabalu",
+      "country": "Malaysia",
+      "accreditations": [
+        "MSQH"
+      ],
+      "specialties": [
+        "Urology",
+        "Ophthalmology",
+        "Bariatric"
+      ],
+      "languages": [
+        "English",
+        "Malay",
+        "Arabic",
+        "Tamil",
+        "Hindi"
+      ],
+      "rating": 4.7,
+      "reviews": 3100,
+      "bestFor": "Nerve-sparing prostate surgery",
+      "flagship": "robotic prostatectomy from ₹4.4L",
+      "priceNote": "index band · not a quote",
+      "since": 1978,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "al-reem-health-city-umm-al-quwain",
+      "name": "Al Reem Health City",
+      "city": "Umm Al Quwain",
+      "country": "UAE",
+      "accreditations": [
+        "JCI"
+      ],
+      "specialties": [
+        "Bariatric",
+        "Fertility"
+      ],
+      "languages": [
+        "English",
+        "Arabic",
+        "Urdu",
+        "Russian",
+        "Tagalog",
+        "Hindi"
+      ],
+      "rating": 4.5,
+      "reviews": 1505,
+      "bestFor": "Diabetic remission pathways",
+      "flagship": "gastric sleeve from ₹NaNk",
+      "priceNote": "index band · inclusive estimate",
+      "since": 1977,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "souq-clinic-hospital-dubai",
+      "name": "Souq Clinic Hospital",
+      "city": "Dubai",
+      "country": "UAE",
+      "accreditations": [
+        "JCI"
+      ],
+      "specialties": [
+        "Ophthalmology",
+        "Orthopaedics",
+        "Urology"
+      ],
+      "languages": [
+        "English",
+        "Arabic",
+        "Tagalog",
+        "Urdu"
+      ],
+      "rating": 4,
+      "reviews": 697,
+      "bestFor": "Retina and glaucoma care",
+      "flagship": "LASIK both eyes from ₹NaNk",
+      "priceNote": "index band · not a quote",
+      "since": 2009,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "falcon-medical-centre-al-ain",
+      "name": "Falcon Medical Centre",
+      "city": "Al Ain",
+      "country": "UAE",
+      "accreditations": [
+        "JCI"
+      ],
+      "specialties": [
+        "Orthopaedics",
+        "Fertility",
+        "Oncology",
         "ENT"
       ],
       "languages": [
         "English",
-        "Tagalog",
+        "Arabic",
+        "Hindi",
+        "Russian",
+        "Urdu"
+      ],
+      "rating": 4.7,
+      "reviews": 2108,
+      "bestFor": "Sports-injury reconstruction",
+      "flagship": "robotic knee replacement from ₹NaNk",
+      "priceNote": "indicative package · verified on request",
+      "since": 1992,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "marasi-medical-centre-sharjah",
+      "name": "Marasi Medical Centre",
+      "city": "Sharjah",
+      "country": "UAE",
+      "accreditations": [
+        "JCI"
+      ],
+      "specialties": [
+        "Transplants",
+        "Fertility",
+        "Bone marrow",
+        "ENT"
+      ],
+      "languages": [
+        "English",
+        "Arabic",
+        "Urdu",
+        "Tagalog"
+      ],
+      "rating": 4.5,
+      "reviews": 3745,
+      "bestFor": "Paediatric transplant care",
+      "flagship": "kidney transplant from ₹NaNk",
+      "priceNote": "indicative band · quote in 48h",
+      "since": 1965,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "marasi-medical-centre-ras-al-khaimah-ras-al-khaimah",
+      "name": "Marasi Medical Centre Ras Al Khaimah",
+      "city": "Ras Al Khaimah",
+      "country": "UAE",
+      "accreditations": [
+        "JCI"
+      ],
+      "specialties": [
+        "Cardiac",
+        "Paediatric cardiac"
+      ],
+      "languages": [
+        "English",
+        "Arabic",
         "Russian",
         "Hindi",
-        "Arabic"
+        "Urdu",
+        "Tagalog"
       ],
-      "rating": 4.3,
-      "reviews": 3088,
+      "rating": 4,
+      "reviews": 1242,
+      "bestFor": "Affordable open-heart care",
+      "flagship": "CABG from ₹NaNk",
+      "priceNote": "indicative band · quote in 48h",
+      "since": 1984,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "al-barsha-international-hospital-sharjah",
+      "name": "Al Barsha International Hospital",
+      "city": "Sharjah",
+      "country": "UAE",
+      "accreditations": [
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Vascular",
+        "Plastic surgery",
+        "General Surgery"
+      ],
+      "languages": [
+        "English",
+        "Arabic",
+        "Tagalog",
+        "Urdu",
+        "Hindi"
+      ],
+      "rating": 4.4,
+      "reviews": 1367,
       "bestFor": "Varicose ulcer clinics",
+      "flagship": "laser vein ablation from ₹NaNk",
+      "priceNote": "indicative package · verified on request",
+      "since": 2001,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "wasl-health-city-abu-dhabi",
+      "name": "Wasl Health City",
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "accreditations": [
+        "JCI"
+      ],
+      "specialties": [
+        "Oncology",
+        "General Surgery"
+      ],
+      "languages": [
+        "English",
+        "Arabic",
+        "Hindi",
+        "Tagalog"
+      ],
+      "rating": 4.2,
+      "reviews": 1485,
+      "bestFor": "Affordable oncology pathways",
+      "flagship": "PET-CT + tumour MDT from ₹NaNk",
+      "priceNote": "index band · not a quote",
+      "since": 1998,
+      "audited": false,
+      "tier": "index",
+      "verified": false,
+      "demo": true
+    },
+    {
+      "slug": "falcon-clinic-hospital-ras-al-khaimah",
+      "name": "Falcon Clinic Hospital",
+      "city": "Ras Al Khaimah",
+      "country": "UAE",
+      "accreditations": [
+        "ISO 9001"
+      ],
+      "specialties": [
+        "Vascular",
+        "Cosmetic",
+        "Oncology"
+      ],
+      "languages": [
+        "English",
+        "Arabic",
+        "Russian",
+        "Urdu"
+      ],
+      "rating": 4.4,
+      "reviews": 1728,
+      "bestFor": "Day-care vein ablation",
       "flagship": "laser vein ablation from ₹NaNk",
       "priceNote": "index band · inclusive estimate",
       "since": 1969,
@@ -3718,120 +3909,60 @@
       "demo": true
     },
     {
-      "slug": "al-barsha-specialty-hospital-umm-al-quwain",
-      "name": "Al Barsha Specialty Hospital",
-      "city": "Umm Al Quwain",
+      "slug": "mina-medical-centre-dubai",
+      "name": "Mina Medical Centre",
+      "city": "Dubai",
       "country": "UAE",
       "accreditations": [
         "JCI",
         "ISO 9001"
       ],
       "specialties": [
-        "Orthopaedics",
-        "Bariatric",
-        "Transplants"
+        "Oncology",
+        "Urology",
+        "Orthopaedics"
       ],
       "languages": [
         "English",
+        "Arabic",
+        "Tagalog",
         "Hindi",
+        "Russian",
         "Urdu"
       ],
-      "rating": 4.1,
-      "reviews": 1337,
-      "bestFor": "Robotic joint replacement",
-      "flagship": "robotic knee replacement from ₹NaNk",
-      "priceNote": "index band · not a quote",
-      "since": 2005,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "al-yahar-specialty-hospital-umm-al-quwain-umm-al-quwain",
-      "name": "Al Yahar Specialty Hospital Umm Al Quwain",
-      "city": "Umm Al Quwain",
-      "country": "UAE",
-      "accreditations": [
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Cardiac",
-        "ENT",
-        "Cosmetic",
-        "Paediatric cardiac"
-      ],
-      "languages": [
-        "English",
-        "Tagalog",
-        "Arabic",
-        "Hindi"
-      ],
-      "rating": 4.3,
-      "reviews": 399,
-      "bestFor": "Complex coronary intervention",
-      "flagship": "CABG from ₹NaNk",
-      "priceNote": "indicative band · implants itemised in quote",
-      "since": 2018,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "falcon-international-hospital-sharjah",
-      "name": "Falcon International Hospital",
-      "city": "Sharjah",
-      "country": "UAE",
-      "accreditations": [
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Cardiac",
-        "Orthopaedics",
-        "Gastroenterology",
-        "Urology"
-      ],
-      "languages": [
-        "English",
-        "Tagalog",
-        "Russian",
-        "Arabic"
-      ],
-      "rating": 4.9,
-      "reviews": 3440,
-      "bestFor": "High-volume bypass surgery",
-      "flagship": "CABG from ₹NaNk",
+      "rating": 4.8,
+      "reviews": 2464,
+      "bestFor": "Second opinions on complex tumours",
+      "flagship": "PET-CT + tumour MDT from ₹NaNk",
       "priceNote": "indicative band · quote in 48h",
-      "since": 1970,
+      "since": 1976,
       "audited": false,
       "tier": "index",
       "verified": false,
       "demo": true
     },
     {
-      "slug": "qasr-general-hospital-dubai",
-      "name": "Qasr General Hospital",
-      "city": "Dubai",
+      "slug": "al-bateen-clinic-hospital-abu-dhabi",
+      "name": "Al Bateen Clinic Hospital",
+      "city": "Abu Dhabi",
       "country": "UAE",
       "accreditations": [
         "JCI"
       ],
       "specialties": [
-        "Fertility",
         "Bone marrow",
-        "Neuro",
-        "Ophthalmology"
+        "Dental"
       ],
       "languages": [
         "English",
-        "Hindi",
-        "Urdu"
+        "Arabic",
+        "Urdu",
+        "Hindi"
       ],
       "rating": 4.7,
       "reviews": 2144,
-      "bestFor": "Own-egg IVF programmes",
-      "flagship": "IVF cycle from ₹NaNk",
+      "bestFor": "Haematology transplant",
+      "flagship": "bone marrow transplant from ₹NaNk",
       "priceNote": "indicative band · quote in 48h",
       "since": 1989,
       "audited": false,
@@ -3840,8 +3971,8 @@
       "demo": true
     },
     {
-      "slug": "mina-medical-centre-sharjah",
-      "name": "Mina Medical Centre",
+      "slug": "mina-medical-centre-sharjah-sharjah",
+      "name": "Mina Medical Centre Sharjah",
       "city": "Sharjah",
       "country": "UAE",
       "accreditations": [
@@ -3853,7 +3984,8 @@
       ],
       "languages": [
         "English",
-        "Hindi",
+        "Arabic",
+        "Urdu",
         "Tagalog",
         "Russian"
       ],
@@ -3885,8 +4017,9 @@
       ],
       "languages": [
         "English",
-        "Hindi",
-        "Arabic"
+        "Arabic",
+        "Urdu",
+        "Hindi"
       ],
       "rating": 3.9,
       "reviews": 1076,
@@ -3916,6 +4049,7 @@
       ],
       "languages": [
         "English",
+        "Arabic",
         "Urdu",
         "Russian",
         "Hindi",
@@ -3948,9 +4082,10 @@
       ],
       "languages": [
         "English",
+        "Arabic",
         "Russian",
-        "Hindi",
-        "Arabic"
+        "Urdu",
+        "Hindi"
       ],
       "rating": 4.4,
       "reviews": 3948,
@@ -3979,9 +4114,10 @@
       ],
       "languages": [
         "English",
+        "Arabic",
         "Russian",
         "Tagalog",
-        "Arabic"
+        "Hindi"
       ],
       "rating": 4.6,
       "reviews": 1646,
@@ -3995,8 +4131,8 @@
       "demo": true
     },
     {
-      "slug": "oasis-health-city-al-ain-al-ain",
-      "name": "Oasis Health City Al Ain",
+      "slug": "oasis-health-city-al-ain",
+      "name": "Oasis Health City",
       "city": "Al Ain",
       "country": "UAE",
       "accreditations": [
@@ -4010,8 +4146,9 @@
       ],
       "languages": [
         "English",
+        "Arabic",
         "Tagalog",
-        "Urdu"
+        "Russian"
       ],
       "rating": 4.5,
       "reviews": 1089,
@@ -4019,36 +4156,6 @@
       "flagship": "breast augmentation from ₹NaNk",
       "priceNote": "indicative band · quote in 48h",
       "since": 1991,
-      "audited": false,
-      "tier": "index",
-      "verified": false,
-      "demo": true
-    },
-    {
-      "slug": "wasl-general-hospital-ajman",
-      "name": "Wasl General Hospital",
-      "city": "Ajman",
-      "country": "UAE",
-      "accreditations": [
-        "JCI",
-        "ISO 9001"
-      ],
-      "specialties": [
-        "Cardiac",
-        "Urology",
-        "Oncology"
-      ],
-      "languages": [
-        "English",
-        "Urdu",
-        "Arabic"
-      ],
-      "rating": 4.8,
-      "reviews": 1064,
-      "bestFor": "High-volume bypass surgery",
-      "flagship": "CABG from ₹NaNk",
-      "priceNote": "indicative band · implants itemised in quote",
-      "since": 1996,
       "audited": false,
       "tier": "index",
       "verified": false,
@@ -4874,328 +4981,326 @@
       "nextSlot": "Mon–Sat (in-clinic)"
     },
     {
-      "slug": "vikram-varma-chennai-apollo-greams-road",
-      "name": "Dr. Vikram Varma",
-      "role": "Consultant Transplant Physician",
-      "specialty": "Transplants",
-      "expYears": 32,
+      "slug": "kavya-nair-chennai-apollo-greams-road",
+      "name": "Dr. Kavya Nair",
+      "role": "Radiation Oncologist",
+      "specialty": "Oncology",
+      "expYears": 16,
       "education": [
-        "MBBS — JSS Medical College, Mysuru",
-        "MS / MD Transplants — Kalinga Institute of Medical Sciences, Bhubaneswar",
-        "Fellowship in Vascular Surgery — St. Thomas' Hospital, London"
+        "MBBS — Kalinga Institute of Medical Sciences, Bhubaneswar",
+        "MD Radiation Oncology — B. J. Medical College, Pune",
+        "Fellowship in Immuno-oncology — Dana-Farber, Boston"
       ],
       "languages": [
         "English",
-        "Hindi",
-        "Tamil",
-        "Telugu"
+        "Hindi"
       ],
       "hospitalSlug": "apollo-greams-road",
       "hospital": "Apollo Hospitals, Greams Road",
       "city": "Chennai",
-      "rating": 4.1,
-      "reviews": 278,
+      "rating": 4.5,
+      "reviews": 83,
       "procedures": [
-        "Recipient transplant surgery",
-        "Immunosuppression titration"
+        "Immunotherapy planning",
+        "Precision biopsy pathways"
       ],
-      "bio": "32 years in transplants; runs a structured follow-up registry and phones every patient on day 7, day 30 and day 90. Most of the case load comes from repeat patients and referrals.",
-      "nextSlot": "Tue 12:30 IST (video)"
+      "bio": "16 years in oncology; refuses to operate without a second imaging read and says so in the pre-op plan. The coordinator team answers in the same working day.",
+      "nextSlot": "Sat 15:00 IST (video)"
     },
     {
-      "slug": "chaiwat-suwan-bangkok-bumrungrad-international",
-      "name": "Dr. Chaiwat Suwan",
-      "role": "Spine Surgeon",
+      "slug": "pornchai-saelim-bangkok-bumrungrad-international",
+      "name": "Dr. Pornchai Saelim",
+      "role": "Joint Replacement Surgeon",
       "specialty": "Orthopaedics",
-      "expYears": 15,
+      "expYears": 16,
       "education": [
-        "MBBS — M. S. Ramaiah Medical College, Bengaluru",
-        "MS / MD Orthopaedics — Mahatma Gandhi Institute of Medical Sciences, Nagpur",
-        "Fellowship in Head & Neck Surgery — Amsterdam UMC"
+        "MBBS — JSS Medical College, Mysuru",
+        "MS Orthopaedics — Kalinga Institute of Medical Sciences, Bhubaneswar",
+        "Fellowship in Sports Orthopaedics — Rikshospitalet, Stockholm"
       ],
       "languages": [
         "English",
-        "Thai"
+        "Arabic"
       ],
       "hospitalSlug": "bumrungrad-international",
       "hospital": "Bumrungrad International",
       "city": "Bangkok",
-      "rating": 4.4,
-      "reviews": 483,
+      "rating": 4.1,
+      "reviews": 278,
       "procedures": [
-        "Robotic total knee (TKR)",
-        "ACL reconstruction"
+        "ACL reconstruction",
+        "Revision hip",
+        "Robotic total knee (TKR)"
       ],
-      "bio": "15 years in orthopaedics; runs a structured follow-up registry and phones every patient on day 7, day 30 and day 90. Patients describe the pre-op explanation as unusually honest.",
-      "nextSlot": "Thu 15:00 IST (in-clinic)"
+      "bio": "16 years in orthopaedics; runs a structured follow-up registry and phones every patient on day 7, day 30 and day 90. Most of the case load comes from repeat patients and referrals.",
+      "nextSlot": "Tue 12:30 IST (video)"
     },
     {
-      "slug": "selin-arslan-istanbul-memorial-sisli",
-      "name": "Dr. Selin Arslan",
-      "role": "Interventional Neuroradiologist",
-      "specialty": "Neuro",
-      "expYears": 12,
+      "slug": "emre-yildiz-istanbul-memorial-sisli",
+      "name": "Dr. Emre Yildiz",
+      "role": "Radiation Oncologist",
+      "specialty": "Oncology",
+      "expYears": 15,
       "education": [
-        "MBBS — Government Medical College, Patna",
-        "MS / MD Neuro — JSS Medical College, Mysuru",
-        "Fellowship in Vascular Surgery — St. Thomas' Hospital, London"
+        "MBBS — M. S. Ramaiah Medical College, Bengaluru",
+        "MD Radiation Oncology — Mahatma Gandhi Institute of Medical Sciences, Nagpur",
+        "Fellowship in Radiation Oncology — Royal Marsden, London"
       ],
       "languages": [
         "English",
-        "Turkish",
-        "Arabic",
-        "Russian"
+        "Turkish"
       ],
       "hospitalSlug": "memorial-sisli",
       "hospital": "Memorial Şişli",
       "city": "Istanbul",
       "rating": 4.4,
-      "reviews": 1349,
+      "reviews": 483,
       "procedures": [
-        "Craniotomy for tumour",
-        "Stroke intervention"
+        "Tumour MDT",
+        "Neoadjuvant protocols"
       ],
-      "bio": "12 years in neuro; publishes procedure volumes and complication rates openly, including the ones that go wrong. The coordinator team answers in the same working day.",
-      "nextSlot": "Mon 15:00 IST (in-clinic)"
+      "bio": "15 years in oncology; runs a structured follow-up registry and phones every patient on day 7, day 30 and day 90. Patients describe the pre-op explanation as unusually honest.",
+      "nextSlot": "Thu 15:00 IST (in-clinic)"
     },
     {
-      "slug": "arjun-pillai-bengaluru-manipal-old-airport-road",
-      "name": "Dr. Arjun Pillai",
-      "role": "Senior Orthopaedic Surgeon",
-      "specialty": "Orthopaedics",
-      "expYears": 19,
+      "slug": "kavya-nair-bengaluru-manipal-old-airport-road",
+      "name": "Dr. Kavya Nair",
+      "role": "Electrophysiology Consultant",
+      "specialty": "Cardiac",
+      "expYears": 12,
       "education": [
-        "MBBS — MGM Medical College, Indore",
-        "MS / MD Orthopaedics — JSS Medical College, Mysuru",
-        "Fellowship in Uro-oncology — Heidelberg"
+        "MBBS — Government Medical College, Patna",
+        "DM Cardiology — JSS Medical College, Mysuru",
+        "Fellowship in Structural Heart — Royal Melbourne Hospital"
       ],
       "languages": [
         "English",
-        "Hindi",
         "Kannada",
+        "Hindi",
         "Tamil"
       ],
       "hospitalSlug": "manipal-old-airport-road",
       "hospital": "Manipal Hospital, Old Airport Road",
       "city": "Bengaluru",
-      "rating": 4.1,
-      "reviews": 1271,
+      "rating": 4.4,
+      "reviews": 1349,
       "procedures": [
-        "Partial knee (UKR)",
-        "ACL reconstruction"
+        "Valve repair (mitral)",
+        "Electrophysiology study"
       ],
-      "bio": "19 years in orthopaedics; trains the next generation of scrub nurses and reviews cases with them weekly. The team is known for conservative first-line advice.",
-      "nextSlot": "Tue 16:30 IST (video)"
+      "bio": "12 years in cardiac; publishes procedure volumes and complication rates openly, including the ones that go wrong. The coordinator team answers in the same working day.",
+      "nextSlot": "Mon 15:00 IST (in-clinic)"
     },
     {
-      "slug": "shalini-padmanabhan-bengaluru-narayana-health-city",
-      "name": "Dr. Shalini Padmanabhan",
-      "role": "Transplant & Hepatobiliary Surgeon",
-      "specialty": "Transplants",
-      "expYears": 27,
+      "slug": "arjun-pillai-bengaluru-narayana-health-city",
+      "name": "Dr. Arjun Pillai",
+      "role": "Consultant Cardiothoracic Surgeon",
+      "specialty": "Cardiac",
+      "expYears": 19,
       "education": [
         "MBBS — MGM Medical College, Indore",
-        "MS / MD Transplants — B. J. Medical College, Pune",
-        "Fellowship in Arthroplasty — Hospital for Special Surgery, New York"
+        "DM Cardiology — JSS Medical College, Mysuru",
+        "Fellowship in Structural Heart — Royal Melbourne Hospital"
       ],
       "languages": [
         "English",
+        "Kannada",
         "Hindi",
         "Telugu"
       ],
       "hospitalSlug": "narayana-health-city",
       "hospital": "Narayana Health City",
       "city": "Bengaluru",
-      "rating": 4.4,
-      "reviews": 990,
+      "rating": 4.1,
+      "reviews": 1271,
       "procedures": [
-        "Living-donor nephrectomy",
-        "Immunosuppression titration",
-        "Recipient transplant surgery"
+        "Valve repair (mitral)",
+        "Electrophysiology study"
       ],
-      "bio": "27 years in transplants; keeps same-day-discharge protocols and audits them monthly against readmission. Families say the discharge paperwork is actually readable.",
+      "bio": "19 years in cardiac; trains the next generation of scrub nurses and reviews cases with them weekly. The team is known for conservative first-line advice.",
       "nextSlot": "Tue 16:30 IST (video)"
     },
     {
-      "slug": "vikram-bose-kuala-lumpur-sunway-medical-centre",
-      "name": "Dr. Vikram Bose",
-      "role": "Surgical Oncologist",
+      "slug": "nurul-imani-kuala-lumpur-sunway-medical-centre",
+      "name": "Dr. Nurul Imani",
+      "role": "Head, Oncology — MDT Lead",
       "specialty": "Oncology",
       "expYears": 27,
       "education": [
-        "MBBS — JSS Medical College, Mysuru",
-        "MS / MD Oncology — B. J. Medical College, Pune",
-        "Fellowship in Arthroplasty — Hospital for Special Surgery, New York"
+        "MBBS — MGM Medical College, Indore",
+        "MD Radiation Oncology — B. J. Medical College, Pune",
+        "Fellowship in Breast Oncology — Charité, Berlin"
       ],
       "languages": [
         "English",
+        "Malay",
         "Hindi"
       ],
       "hospitalSlug": "sunway-medical-centre",
       "hospital": "Sunway Medical Centre",
       "city": "Kuala Lumpur",
-      "rating": 4.5,
-      "reviews": 119,
+      "rating": 4.4,
+      "reviews": 990,
       "procedures": [
-        "Tumour MDT",
         "Immunotherapy planning",
-        "Neoadjuvant protocols"
+        "Neoadjuvant protocols",
+        "Tumour MDT"
       ],
-      "bio": "27 years in oncology; publishes age-adjusted outcomes and refuses to quote success rates by clinic volume. Patients describe the pre-op explanation as unusually honest.",
-      "nextSlot": "Sat 10:15 IST (video)"
+      "bio": "27 years in oncology; keeps same-day-discharge protocols and audits them monthly against readmission. Families say the discharge paperwork is actually readable.",
+      "nextSlot": "Tue 16:30 IST (video)"
     },
     {
-      "slug": "marcus-ng-singapore-gleneagles-singapore",
-      "name": "Dr. Marcus Ng",
-      "role": "Head, Oncology — MDT Lead",
-      "specialty": "Oncology",
-      "expYears": 16,
+      "slug": "vikram-bose-singapore-gleneagles-singapore",
+      "name": "Dr. Vikram Bose",
+      "role": "Day-care Surgery Surgeon",
+      "specialty": "Gastro",
+      "expYears": 27,
       "education": [
-        "MBBS — Kalinga Institute of Medical Sciences, Bhubaneswar",
-        "MS / MD Oncology — MGM Medical College, Indore",
-        "Fellowship in Arthroplasty — Hospital for Special Surgery, New York"
+        "MBBS — JSS Medical College, Mysuru",
+        "MS General Surgery — B. J. Medical College, Pune",
+        "Fellowship in General Surgery — Royal Melbourne Hospital"
       ],
       "languages": [
         "English",
-        "Mandarin",
-        "Malay"
+        "Tamil"
       ],
       "hospitalSlug": "gleneagles-singapore",
       "hospital": "Gleneagles Hospital",
       "city": "Singapore",
-      "rating": 4.8,
-      "reviews": 549,
+      "rating": 4.5,
+      "reviews": 119,
       "procedures": [
-        "Tumour MDT",
-        "Immunotherapy planning"
+        "TAPP/TEP hernia repair",
+        "Laparoscopic cholecystectomy",
+        "Day-care appendicectomy"
       ],
-      "bio": "16 years in oncology; publishes procedure volumes and complication rates openly, including the ones that go wrong. Patients describe the pre-op explanation as unusually honest.",
-      "nextSlot": "Wed 10:15 IST (video)"
+      "bio": "27 years in gastro; publishes age-adjusted outcomes and refuses to quote success rates by clinic volume. Patients describe the pre-op explanation as unusually honest.",
+      "nextSlot": "Sat 10:15 IST (video)"
     },
     {
       "slug": "mert-sahin-istanbul-acibadem-altunizade",
       "name": "Dr. Mert Sahin",
-      "role": "Day-care Surgery Surgeon",
-      "specialty": "Neurosurgery",
-      "expYears": 19,
+      "role": "Consultant Bariatric & Metabolic Surgeon",
+      "specialty": "Bariatric",
+      "expYears": 16,
       "education": [
-        "MBBS — Government Medical College, Patna",
-        "MS / MD Neurosurgery — Mahatma Gandhi Institute of Medical Sciences, Nagpur",
-        "Fellowship in Cardiovascular Imaging — Erasmus, Rotterdam"
+        "MBBS — Kalinga Institute of Medical Sciences, Bhubaneswar",
+        "MS General Surgery — MGM Medical College, Indore",
+        "Fellowship in Metabolic Surgery — Eras MC, Rotterdam"
       ],
       "languages": [
         "English",
-        "Arabic",
-        "German",
-        "Turkish"
+        "Turkish",
+        "Arabic"
       ],
       "hospitalSlug": "acibadem-altunizade",
       "hospital": "Acıbadem Altunizade",
       "city": "Istanbul",
-      "rating": 4.5,
-      "reviews": 866,
+      "rating": 4.8,
+      "reviews": 549,
       "procedures": [
-        "TAPP/TEP hernia repair",
-        "Laparoscopic cholecystectomy"
+        "Gastric sleeve (LSG)",
+        "Roux-en-Y bypass"
       ],
-      "bio": "19 years in neurosurgery; runs a structured follow-up registry and phones every patient on day 7, day 30 and day 90. Patients describe the pre-op explanation as unusually honest.",
-      "nextSlot": "Sat 10:15 IST (in-clinic)"
+      "bio": "16 years in bariatric; publishes procedure volumes and complication rates openly, including the ones that go wrong. Patients describe the pre-op explanation as unusually honest.",
+      "nextSlot": "Wed 10:15 IST (video)"
     },
     {
       "slug": "vivek-sundaram-chennai-apollo-greams-road",
       "name": "Dr. Vivek Sundaram",
-      "role": "Joint Replacement Surgeon",
-      "specialty": "Orthopaedics",
-      "expYears": 12,
+      "role": "Renal Transplant Surgeon",
+      "specialty": "Transplants",
+      "expYears": 19,
       "education": [
-        "MBBS — Kalinga Institute of Medical Sciences, Bhubaneswar",
-        "MS / MD Orthopaedics — St. John's Medical College, Bengaluru",
-        "Fellowship in Cardiovascular Imaging — Erasmus, Rotterdam"
+        "MBBS — Government Medical College, Patna",
+        "MS General Surgery — Mahatma Gandhi Institute of Medical Sciences, Nagpur",
+        "Fellowship in Hepatobiliary & Transplant Surgery — Royal Melbourne Hospital"
       ],
       "languages": [
         "English",
-        "Tamil",
-        "Telugu"
+        "Hindi",
+        "Telugu",
+        "Tamil"
       ],
       "hospitalSlug": "apollo-greams-road",
       "hospital": "Apollo Hospitals, Greams Road",
       "city": "Chennai",
-      "rating": 4.8,
-      "reviews": 79,
+      "rating": 4.5,
+      "reviews": 866,
       "procedures": [
-        "Revision hip",
-        "Partial knee (UKR)"
+        "Living-donor nephrectomy",
+        "Recipient transplant surgery"
       ],
-      "bio": "12 years in orthopaedics; trains the next generation of scrub nurses and reviews cases with them weekly. Most of the case load comes from repeat patients and referrals.",
-      "nextSlot": "Sat 11:00 IST (video)"
+      "bio": "19 years in transplants; runs a structured follow-up registry and phones every patient on day 7, day 30 and day 90. Patients describe the pre-op explanation as unusually honest.",
+      "nextSlot": "Sat 10:15 IST (in-clinic)"
     },
     {
-      "slug": "siriporn-vittaya-bangkok-bumrungrad-international",
-      "name": "Dr. Siriporn Vittaya",
-      "role": "Robotic Orthopaedic Surgeon",
-      "specialty": "Orthopaedics",
-      "expYears": 22,
+      "slug": "thanawat-prasert-bangkok-bumrungrad-international",
+      "name": "Dr. Thanawat Prasert",
+      "role": "Medical Oncologist",
+      "specialty": "Oncology",
+      "expYears": 12,
       "education": [
-        "MBBS — R. G. Kar Medical College, Kolkata",
-        "MS / MD Orthopaedics — MGM Medical College, Indore",
-        "Fellowship in Uro-oncology — Heidelberg"
+        "MBBS — Kalinga Institute of Medical Sciences, Bhubaneswar",
+        "MD Radiation Oncology — St. John's Medical College, Bengaluru",
+        "Fellowship in Immuno-oncology — Dana-Farber, Boston"
       ],
       "languages": [
         "English",
         "Thai",
-        "Mandarin",
-        "Hindi"
+        "Mandarin"
       ],
       "hospitalSlug": "bumrungrad-international",
       "hospital": "Bumrungrad International",
       "city": "Bangkok",
-      "rating": 4.9,
-      "reviews": 281,
+      "rating": 4.8,
+      "reviews": 79,
       "procedures": [
-        "Robotic total knee (TKR)",
-        "Partial knee (UKR)"
+        "Precision biopsy pathways",
+        "Immunotherapy planning"
       ],
-      "bio": "22 years in orthopaedics; keeps same-day-discharge protocols and audits them monthly against readmission. Reviews mention short waiting times and clear pricing.",
-      "nextSlot": "Sat 12:30 IST (video)"
+      "bio": "12 years in oncology; trains the next generation of scrub nurses and reviews cases with them weekly. Most of the case load comes from repeat patients and referrals.",
+      "nextSlot": "Sat 11:00 IST (video)"
     },
     {
-      "slug": "emre-yildiz-istanbul-memorial-sisli",
-      "name": "Dr. Emre Yildiz",
-      "role": "Transplant Physician",
-      "specialty": "Bone marrow",
-      "expYears": 17,
+      "slug": "selin-arslan-istanbul-memorial-sisli",
+      "name": "Dr. Selin Arslan",
+      "role": "Surgical Oncologist",
+      "specialty": "Oncology",
+      "expYears": 22,
       "education": [
-        "MBBS — St. John's Medical College, Bengaluru",
-        "MS / MD Bone marrow — Kalinga Institute of Medical Sciences, Bhubaneswar",
-        "Fellowship in Arthroplasty — Hospital for Special Surgery, New York"
+        "MBBS — R. G. Kar Medical College, Kolkata",
+        "MD Radiation Oncology — MGM Medical College, Indore",
+        "Fellowship in Breast Oncology — Charité, Berlin"
       ],
       "languages": [
         "English",
-        "Arabic",
-        "Russian"
+        "Turkish",
+        "Russian",
+        "Arabic"
       ],
       "hospitalSlug": "memorial-sisli",
       "hospital": "Memorial Şişli",
       "city": "Istanbul",
-      "rating": 4.6,
-      "reviews": 1152,
+      "rating": 4.9,
+      "reviews": 281,
       "procedures": [
-        "Aplastic anaemia care",
-        "Bone marrow transplant"
+        "Tumour MDT",
+        "Immunotherapy planning"
       ],
-      "bio": "17 years in bone marrow; publishes age-adjusted outcomes and refuses to quote success rates by clinic volume. Out-of-hours questions go to a named registrar, not a call centre.",
-      "nextSlot": "Wed 18:00 IST (video)"
+      "bio": "22 years in oncology; keeps same-day-discharge protocols and audits them monthly against readmission. Reviews mention short waiting times and clear pricing.",
+      "nextSlot": "Sat 12:30 IST (video)"
     },
     {
-      "slug": "sameer-iyer-bengaluru-manipal-old-airport-road",
-      "name": "Dr. Sameer Iyer",
-      "role": "Senior Cardiac Surgeon",
-      "specialty": "Cardiac",
-      "expYears": 25,
+      "slug": "a-balasubramanian-bengaluru-manipal-old-airport-road",
+      "name": "Dr. A. Balasubramanian",
+      "role": "Radiation Oncologist",
+      "specialty": "Oncology",
+      "expYears": 17,
       "education": [
-        "MBBS — Kalinga Institute of Medical Sciences, Bhubaneswar",
-        "MS / MD Cardiac — JSS Medical College, Mysuru",
-        "Fellowship in Reproductive Endocrinology — Karolinska, Stockholm"
+        "MBBS — St. John's Medical College, Bengaluru",
+        "MD Radiation Oncology — Kalinga Institute of Medical Sciences, Bhubaneswar",
+        "Fellowship in Breast Oncology — Charité, Berlin"
       ],
       "languages": [
         "English",
@@ -5205,81 +5310,84 @@
       "hospitalSlug": "manipal-old-airport-road",
       "hospital": "Manipal Hospital, Old Airport Road",
       "city": "Bengaluru",
-      "rating": 4.7,
-      "reviews": 971,
+      "rating": 4.6,
+      "reviews": 1152,
       "procedures": [
-        "Electrophysiology study",
-        "Valve repair (mitral)",
-        "Off-pump CABG"
+        "Neoadjuvant protocols",
+        "Tumour MDT"
       ],
-      "bio": "25 years in cardiac; publishes age-adjusted outcomes and refuses to quote success rates by clinic volume. The unit keeps a second opinion open for every elective case.",
-      "nextSlot": "Wed 15:00 IST (video)"
+      "bio": "17 years in oncology; publishes age-adjusted outcomes and refuses to quote success rates by clinic volume. Out-of-hours questions go to a named registrar, not a call centre.",
+      "nextSlot": "Wed 18:00 IST (video)"
     },
     {
-      "slug": "sneha-kulkarni-kochi-vardhman-institute-of-medical-sciences-kochi",
-      "name": "Dr. Sneha Kulkarni",
-      "role": "Otology & Hearing Specialist",
-      "specialty": "ENT",
+      "slug": "sameer-iyer-kochi-vardhman-institute-of-medical-sciences-kochi",
+      "name": "Dr. Sameer Iyer",
+      "role": "Congenital Heart Fellow",
+      "specialty": "Paediatric cardiac",
       "expYears": 25,
       "education": [
-        "MBBS — R. G. Kar Medical College, Kolkata",
-        "MS / MD ENT — Mahatma Gandhi Institute of Medical Sciences, Nagpur",
-        "Fellowship in Reproductive Endocrinology — Karolinska, Stockholm"
+        "MBBS — Kalinga Institute of Medical Sciences, Bhubaneswar",
+        "MCh Paediatric Cardiac Surgery — JSS Medical College, Mysuru",
+        "Fellowship in Congenital Cardiac Surgery — Great Ormond Street Hospital, London"
       ],
       "languages": [
         "English",
-        "Marathi"
+        "Tamil",
+        "Bengali"
       ],
       "hospitalSlug": "vardhman-institute-of-medical-sciences-kochi",
       "hospital": "Vardhman Institute of Medical Sciences",
       "city": "Kochi",
-      "rating": 4.3,
-      "reviews": 347,
+      "rating": 4.7,
+      "reviews": 971,
       "procedures": [
-        "Tympanoplasty",
-        "Septoplasty + turbinate reduction",
-        "FESS endoscopic sinus surgery"
+        "Paediatric ICU care",
+        "Congenital repair",
+        "VSD closure"
       ],
-      "bio": "25 years in ent; publishes age-adjusted outcomes and refuses to quote success rates by clinic volume. Most of the case load comes from repeat patients and referrals.",
-      "nextSlot": "Wed 10:15 IST (video)"
+      "bio": "25 years in paediatric cardiac; publishes age-adjusted outcomes and refuses to quote success rates by clinic volume. The unit keeps a second opinion open for every elective case.",
+      "nextSlot": "Wed 15:00 IST (video)"
     },
     {
-      "slug": "ritu-bhalla-hyderabad-vardhman-medical-centre-hyderabad",
-      "name": "Dr. Ritu Bhalla",
-      "role": "Consultant Ophthalmologist & Cataract Surgeon",
-      "specialty": "Ophthalmology",
-      "expYears": 31,
+      "slug": "sneha-kulkarni-hyderabad-vardhman-medical-centre-hyderabad",
+      "name": "Dr. Sneha Kulkarni",
+      "role": "Electrophysiology Consultant",
+      "specialty": "Cardiac",
+      "expYears": 25,
       "education": [
-        "MBBS — B. J. Medical College, Pune",
-        "MS / MD Ophthalmology — JSS Medical College, Mysuru",
-        "Fellowship in Uro-oncology — Heidelberg"
+        "MBBS — R. G. Kar Medical College, Kolkata",
+        "DM Cardiology — MGM Medical College, Indore",
+        "Fellowship in Interventional Cardiology — Erasmus, Rotterdam"
       ],
       "languages": [
         "English",
-        "Gujarati"
+        "Marathi",
+        "Tamil"
       ],
       "hospitalSlug": "vardhman-medical-centre-hyderabad",
       "hospital": "Vardhman Medical Centre",
       "city": "Hyderabad",
-      "rating": 4.7,
-      "reviews": 158,
+      "rating": 4.9,
+      "reviews": 456,
       "procedures": [
-        "Vitrectomy",
-        "Trifocal IOL implantation"
+        "IVUS-guided PCI",
+        "Valve repair (mitral)",
+        "Electrophysiology study",
+        "Off-pump CABG"
       ],
-      "bio": "31 years in ophthalmology; publishes procedure volumes and complication rates openly, including the ones that go wrong. Patients describe the pre-op explanation as unusually honest.",
-      "nextSlot": "Wed 15:00 IST (in-clinic)"
+      "bio": "25 years in cardiac; trains the next generation of scrub nurses and reviews cases with them weekly. Most of the case load comes from repeat patients and referrals.",
+      "nextSlot": "Wed 18:00 IST (in-clinic)"
     },
     {
-      "slug": "meera-desai-mumbai-vardhman-hospital-mumbai-mumbai",
-      "name": "Dr. Meera Desai",
-      "role": "Electrophysiology Consultant",
-      "specialty": "Cardiac",
-      "expYears": 29,
+      "slug": "sneha-kulkarni-mumbai-vardhman-hospital-mumbai-mumbai",
+      "name": "Dr. Sneha Kulkarni",
+      "role": "Retina & Vitreous Specialist",
+      "specialty": "Ophthalmology",
+      "expYears": 26,
       "education": [
         "MBBS — JSS Medical College, Mysuru",
-        "MS / MD Cardiac — R. G. Kar Medical College, Kolkata",
-        "Fellowship in Arthroplasty — Hospital for Special Surgery, New York"
+        "MS Ophthalmology — Government Medical College, Patna",
+        "Fellowship in Vitreoretinal Surgery — Moorfields Eye Hospital, London"
       ],
       "languages": [
         "English",
@@ -5288,271 +5396,276 @@
       "hospitalSlug": "vardhman-hospital-mumbai-mumbai",
       "hospital": "Vardhman Hospital Mumbai",
       "city": "Mumbai",
-      "rating": 4.6,
-      "reviews": 1455,
+      "rating": 4.1,
+      "reviews": 842,
       "procedures": [
-        "Valve repair (mitral)",
-        "Off-pump CABG",
-        "Electrophysiology study",
-        "IVUS-guided PCI"
+        "SMILE pro / bladeless LASIK",
+        "Vitrectomy",
+        "Trifocal IOL implantation"
       ],
-      "bio": "29 years in cardiac; publishes procedure volumes and complication rates openly, including the ones that go wrong. Patients describe the pre-op explanation as unusually honest.",
-      "nextSlot": "Fri 18:00 IST (in-clinic)"
+      "bio": "26 years in ophthalmology; refuses to operate without a second imaging read and says so in the pre-op plan. Out-of-hours questions go to a named registrar, not a call centre.",
+      "nextSlot": "Thu 11:00 IST (video)"
     },
     {
-      "slug": "vivek-sundaram-pune-shanti-multi-speciality-hospital-pune",
-      "name": "Dr. Vivek Sundaram",
+      "slug": "deepika-rao-pune-shanti-multi-speciality-hospital-pune",
+      "name": "Dr. Deepika Rao",
       "role": "Phlebology Specialist",
       "specialty": "Vascular",
-      "expYears": 20,
+      "expYears": 18,
       "education": [
-        "MBBS — MGM Medical College, Indore",
-        "MS / MD Vascular — MGM Medical College, Indore",
-        "Fellowship in Reproductive Endocrinology — Karolinska, Stockholm"
+        "MBBS — JSS Medical College, Mysuru",
+        "MS Vascular Surgery — R. G. Kar Medical College, Kolkata",
+        "Fellowship in Phlebology — St. Marien Hospital, Düsseldorf"
       ],
       "languages": [
         "English",
-        "Marathi",
-        "Bengali",
         "Telugu"
       ],
       "hospitalSlug": "shanti-multi-speciality-hospital-pune",
       "hospital": "Shanti Multi-speciality Hospital",
       "city": "Pune",
-      "rating": 4.3,
-      "reviews": 1018,
+      "rating": 4.6,
+      "reviews": 1455,
       "procedures": [
-        "Varicose ulcer care",
+        "Diabetic foot surgery",
         "Endovenous laser ablation"
       ],
-      "bio": "20 years in vascular; refuses to operate without a second imaging read and says so in the pre-op plan. Patients describe the pre-op explanation as unusually honest.",
-      "nextSlot": "Mon 12:30 IST (video)"
+      "bio": "18 years in vascular; publishes procedure volumes and complication rates openly, including the ones that go wrong. Patients describe the pre-op explanation as unusually honest.",
+      "nextSlot": "Fri 18:00 IST (in-clinic)"
     },
     {
-      "slug": "a-balasubramanian-thiruvananthapuram-sushruta-multi-speciality-hospital-thiruvananthapuram",
-      "name": "Dr. A. Balasubramanian",
+      "slug": "vivek-sundaram-thiruvananthapuram-sushruta-multi-speciality-hospital-thiruvananthapuram",
+      "name": "Dr. Vivek Sundaram",
       "role": "Refractive Surgery Specialist",
       "specialty": "Ophthalmology",
-      "expYears": 32,
+      "expYears": 20,
       "education": [
-        "MBBS — Rajiv Gandhi Institute of Medical Sciences, Patna",
-        "MS / MD Ophthalmology — St. John's Medical College, Bengaluru",
-        "Fellowship in Hepatobiliary Surgery — Royal Melbourne Hospital"
+        "MBBS — MGM Medical College, Indore",
+        "MS Ophthalmology — MGM Medical College, Indore",
+        "Fellowship in Vitreoretinal Surgery — Moorfields Eye Hospital, London"
       ],
       "languages": [
         "English",
-        "Telugu"
+        "Telugu",
+        "Tamil",
+        "Malayalam"
       ],
       "hospitalSlug": "sushruta-multi-speciality-hospital-thiruvananthapuram",
       "hospital": "Sushruta Multi-speciality Hospital",
       "city": "Thiruvananthapuram",
-      "rating": 4.6,
-      "reviews": 914,
+      "rating": 4.3,
+      "reviews": 1018,
       "procedures": [
-        "Vitrectomy",
-        "SMILE pro / bladeless LASIK",
-        "Trifocal IOL implantation"
+        "Trifocal IOL implantation",
+        "SMILE pro / bladeless LASIK"
       ],
-      "bio": "32 years in ophthalmology; trains the next generation of scrub nurses and reviews cases with them weekly. The coordinator team answers in the same working day.",
-      "nextSlot": "Mon 10:15 IST (video)"
+      "bio": "20 years in ophthalmology; refuses to operate without a second imaging read and says so in the pre-op plan. Patients describe the pre-op explanation as unusually honest.",
+      "nextSlot": "Mon 12:30 IST (video)"
     },
     {
-      "slug": "thanawat-prasert-chiang-rai-maha-chai-general-hospital-chiang-rai",
-      "name": "Dr. Thanawat Prasert",
-      "role": "Day-care Surgery Surgeon",
-      "specialty": "General Surgery",
-      "expYears": 16,
+      "slug": "chaiwat-suwan-chiang-rai-maha-chai-general-hospital-chiang-rai",
+      "name": "Dr. Chaiwat Suwan",
+      "role": "Hepatology Specialist",
+      "specialty": "Gastroenterology",
+      "expYears": 32,
       "education": [
-        "MBBS — B. J. Medical College, Pune",
-        "MS / MD General Surgery — B. J. Medical College, Pune",
-        "Fellowship in Robotic Surgery — Charité, Berlin"
+        "MBBS — R. G. Kar Medical College, Kolkata",
+        "DM Gastroenterology — M. S. Ramaiah Medical College, Bengaluru",
+        "Fellowship in Advanced Endoscopy — Amsterdam UMC"
       ],
       "languages": [
         "English",
-        "Mandarin",
         "Hindi",
-        "Arabic"
+        "Russian"
       ],
       "hospitalSlug": "maha-chai-general-hospital-chiang-rai",
       "hospital": "Maha Chai General Hospital",
       "city": "Chiang Rai",
-      "rating": 4.3,
-      "reviews": 1455,
+      "rating": 4.4,
+      "reviews": 585,
       "procedures": [
-        "Day-care appendicectomy",
-        "TAPP/TEP hernia repair",
-        "Laparoscopic cholecystectomy"
+        "ERCP",
+        "Diagnostic endoscopy",
+        "Liver fibrosis staging",
+        "Polypectomy"
       ],
-      "bio": "16 years in general surgery; publishes age-adjusted outcomes and refuses to quote success rates by clinic volume. The coordinator team answers in the same working day.",
-      "nextSlot": "Thu 10:15 IST (video)"
+      "bio": "32 years in gastroenterology; runs a structured follow-up registry and phones every patient on day 7, day 30 and day 90. Most of the case load comes from repeat patients and referrals.",
+      "nextSlot": "Wed 11:00 IST (video)"
     },
     {
-      "slug": "pornchai-saelim-bangkok-maha-chai-international-hospital-bangkok",
-      "name": "Dr. Pornchai Saelim",
-      "role": "Cosmetic & Restorative Dentist",
-      "specialty": "Dental",
-      "expYears": 28,
+      "slug": "rohit-menon-bangkok-maha-chai-international-hospital-bangkok",
+      "name": "Dr. Rohit Menon",
+      "role": "Consultant Cardiothoracic Surgeon",
+      "specialty": "Cardiac",
+      "expYears": 9,
       "education": [
-        "MBBS — Kalinga Institute of Medical Sciences, Bhubaneswar",
-        "MS / MD Dental — MGM Medical College, Indore",
-        "Fellowship in Vascular Surgery — St. Thomas' Hospital, London"
+        "MBBS — B. J. Medical College, Pune",
+        "DM Cardiology — MGM Medical College, Indore",
+        "Fellowship in Structural Heart — Royal Melbourne Hospital"
       ],
       "languages": [
         "English",
-        "Russian",
-        "Arabic"
+        "Arabic",
+        "Thai"
       ],
       "hospitalSlug": "maha-chai-international-hospital-bangkok",
       "hospital": "Maha Chai International Hospital",
       "city": "Bangkok",
-      "rating": 4.6,
-      "reviews": 400,
+      "rating": 4.9,
+      "reviews": 578,
       "procedures": [
-        "Zirconia crowns",
-        "Digital guided surgery"
+        "Electrophysiology study",
+        "Off-pump CABG",
+        "Valve repair (mitral)"
       ],
-      "bio": "28 years in dental; refuses to operate without a second imaging read and says so in the pre-op plan. The team is known for conservative first-line advice.",
-      "nextSlot": "Fri 11:00 IST (video)"
+      "bio": "9 years in cardiac; refuses to operate without a second imaging read and says so in the pre-op plan. Most of the case load comes from repeat patients and referrals.",
+      "nextSlot": "Mon 11:00 IST (in-clinic)"
     },
     {
-      "slug": "pornchai-saelim-bangkok-trang-specialty-hospital-bangkok-bangkok",
-      "name": "Dr. Pornchai Saelim",
-      "role": "Consultant Plastic & Reconstructive Surgeon",
-      "specialty": "Cosmetic",
-      "expYears": 20,
+      "slug": "chaiwat-suwan-bangkok-trang-specialty-hospital-bangkok-bangkok",
+      "name": "Dr. Chaiwat Suwan",
+      "role": "Microsurgical Reconstructive Surgeon",
+      "specialty": "Plastic surgery",
+      "expYears": 24,
       "education": [
-        "MBBS — M. S. Ramaiah Medical College, Bengaluru",
-        "MS / MD Cosmetic — M. S. Ramaiah Medical College, Bengaluru",
-        "Fellowship in Hepatobiliary Surgery — Royal Melbourne Hospital"
+        "MBBS — MGM Medical College, Indore",
+        "MS Plastic Surgery — St. John's Medical College, Bengaluru",
+        "Fellowship in Microsurgical Reconstruction — Charité, Berlin"
       ],
       "languages": [
         "English",
-        "Thai"
+        "Mandarin",
+        "Thai",
+        "Russian"
       ],
       "hospitalSlug": "trang-specialty-hospital-bangkok-bangkok",
       "hospital": "Trang Specialty Hospital Bangkok",
       "city": "Bangkok",
-      "rating": 4.1,
-      "reviews": 1658,
+      "rating": 4.7,
+      "reviews": 714,
       "procedures": [
-        "Body contouring",
-        "FUE hair transplant"
+        "Mastectomy reconstruction",
+        "Body contouring (liposuction)",
+        "Breast augmentation"
       ],
-      "bio": "20 years in cosmetic; publishes age-adjusted outcomes and refuses to quote success rates by clinic volume. Reviews mention short waiting times and clear pricing.",
-      "nextSlot": "Thu 09:30 IST (video)"
+      "bio": "24 years in plastic surgery; trains the next generation of scrub nurses and reviews cases with them weekly. Families say the discharge paperwork is actually readable.",
+      "nextSlot": "Wed 18:00 IST (video)"
     },
     {
-      "slug": "vikram-kulkarni-marine-parade-aveline-medical-centre-marine-parade",
-      "name": "Dr. Vikram Kulkarni",
-      "role": "ENT & Rhinology Consultant",
-      "specialty": "ENT",
-      "expYears": 32,
+      "slug": "sanjay-rao-marine-parade-aveline-medical-centre-marine-parade",
+      "name": "Dr. Sanjay Rao",
+      "role": "Transplant Physician",
+      "specialty": "Bone marrow",
+      "expYears": 15,
       "education": [
-        "MBBS — Rajiv Gandhi Institute of Medical Sciences, Patna",
-        "MS / MD ENT — Rajiv Gandhi Institute of Medical Sciences, Patna",
-        "Fellowship in Reproductive Endocrinology — Karolinska, Stockholm"
-      ],
-      "languages": [
-        "English",
-        "Malay"
-      ],
-      "hospitalSlug": "aveline-medical-centre-marine-parade",
-      "hospital": "Aveline Medical Centre",
-      "city": "Marine Parade",
-      "rating": 4.9,
-      "reviews": 896,
-      "procedures": [
-        "FESS endoscopic sinus surgery",
-        "Tympanoplasty",
-        "Septoplasty + turbinate reduction"
-      ],
-      "bio": "32 years in ent; trains the next generation of scrub nurses and reviews cases with them weekly. Reviews mention short waiting times and clear pricing.",
-      "nextSlot": "Tue 12:30 IST (video)"
-    },
-    {
-      "slug": "nurul-aisyah-woodlands-vantage-health-institute-woodlands",
-      "name": "Dr. Nurul Aisyah",
-      "role": "Congenital Heart Fellow",
-      "specialty": "Paediatric cardiac",
-      "expYears": 22,
-      "education": [
-        "MBBS — St. John's Medical College, Bengaluru",
-        "MS / MD Paediatric cardiac — Mahatma Gandhi Institute of Medical Sciences, Nagpur",
-        "Fellowship in Vascular Surgery — St. Thomas' Hospital, London"
+        "MBBS — JSS Medical College, Mysuru",
+        "MD Internal Medicine — M. S. Ramaiah Medical College, Bengaluru",
+        "Fellowship in Haematopoietic Stem Cell Transplantation — Karolinska, Stockholm"
       ],
       "languages": [
         "English",
         "Tamil",
-        "Mandarin"
+        "Bengali"
+      ],
+      "hospitalSlug": "aveline-medical-centre-marine-parade",
+      "hospital": "Aveline Medical Centre",
+      "city": "Marine Parade",
+      "rating": 4.5,
+      "reviews": 731,
+      "procedures": [
+        "Lymphoma protocols",
+        "Aplastic anaemia care"
+      ],
+      "bio": "15 years in bone marrow; publishes procedure volumes and complication rates openly, including the ones that go wrong. The coordinator team answers in the same working day.",
+      "nextSlot": "Tue 18:00 IST (in-clinic)"
+    },
+    {
+      "slug": "marcus-ng-woodlands-vantage-health-institute-woodlands",
+      "name": "Dr. Marcus Ng",
+      "role": "Consultant Gastroenterologist & Endoscopist",
+      "specialty": "Gastroenterology",
+      "expYears": 14,
+      "education": [
+        "MBBS — JSS Medical College, Mysuru",
+        "DM Gastroenterology — MGM Medical College, Indore",
+        "Fellowship in Hepatology — Royal Melbourne Hospital"
+      ],
+      "languages": [
+        "English",
+        "Mandarin",
+        "Malay",
+        "Tamil"
       ],
       "hospitalSlug": "vantage-health-institute-woodlands",
       "hospital": "Vantage Health Institute",
       "city": "Woodlands",
-      "rating": 4.7,
-      "reviews": 834,
+      "rating": 4.2,
+      "reviews": 1245,
       "procedures": [
-        "Paediatric ICU care",
-        "VSD closure",
-        "Congenital repair"
+        "Polypectomy",
+        "Liver fibrosis staging"
       ],
-      "bio": "22 years in paediatric cardiac; writes to every family in their own language before the consent conversation. Reviews mention short waiting times and clear pricing.",
-      "nextSlot": "Tue 15:00 IST (in-clinic)"
+      "bio": "14 years in gastroenterology; trains the next generation of scrub nurses and reviews cases with them weekly. Reviews mention short waiting times and clear pricing.",
+      "nextSlot": "Thu 18:00 IST (in-clinic)"
     },
     {
-      "slug": "suresh-malhotra-ankara-toros-international-hospital-ankara",
-      "name": "Dr. Suresh Malhotra",
+      "slug": "mert-sahin-ankara-toros-international-hospital-ankara",
+      "name": "Dr. Mert Sahin",
       "role": "Cosmetic & Restorative Dentist",
       "specialty": "Dental",
-      "expYears": 14,
+      "expYears": 13,
       "education": [
-        "MBBS — Kalinga Institute of Medical Sciences, Bhubaneswar",
-        "MS / MD Dental — Rajiv Gandhi Institute of Medical Sciences, Patna",
-        "Fellowship in Hepatobiliary Surgery — Royal Melbourne Hospital"
+        "MBBS — MGM Medical College, Indore",
+        "MDS Prosthodontics — JSS Medical College, Mysuru",
+        "Fellowship in Digital Dentistry — ZM, Lund"
       ],
       "languages": [
         "English",
         "Russian",
-        "Turkish"
+        "German",
+        "Arabic"
       ],
       "hospitalSlug": "toros-international-hospital-ankara",
       "hospital": "Toros International Hospital",
       "city": "Ankara",
-      "rating": 4.6,
-      "reviews": 1654,
+      "rating": 4.4,
+      "reviews": 314,
       "procedures": [
         "Digital guided surgery",
         "Zirconia crowns",
         "Full-arch implants (All-on-4/6)"
       ],
-      "bio": "14 years in dental; keeps same-day-discharge protocols and audits them monthly against readmission. The team is known for conservative first-line advice.",
-      "nextSlot": "Sat 10:15 IST (video)"
+      "bio": "13 years in dental; writes to every family in their own language before the consent conversation. Reviews mention short waiting times and clear pricing.",
+      "nextSlot": "Tue 11:00 IST (in-clinic)"
     },
     {
-      "slug": "ananya-nair-izmir-trakya-international-hospital-izmir",
-      "name": "Dr. Ananya Nair",
-      "role": "Interventional Cardiologist",
-      "specialty": "Cardiac",
-      "expYears": 27,
+      "slug": "mert-sahin-kayseri-guney-medical-centre-kayseri",
+      "name": "Dr. Mert Sahin",
+      "role": "Endourology Specialist",
+      "specialty": "Urology",
+      "expYears": 21,
       "education": [
-        "MBBS — Kalinga Institute of Medical Sciences, Bhubaneswar",
-        "MS / MD Cardiac — B. J. Medical College, Pune",
-        "Fellowship in Arthroplasty — Hospital for Special Surgery, New York"
+        "MBBS — Mahatma Gandhi Institute of Medical Sciences, Nagpur",
+        "MS Urology — Rajiv Gandhi Institute of Medical Sciences, Patna",
+        "Fellowship in Robotic Uro-oncology — Heidelberg"
       ],
       "languages": [
         "English",
-        "Arabic"
+        "Russian",
+        "German"
       ],
-      "hospitalSlug": "trakya-international-hospital-izmir",
-      "hospital": "Trakya International Hospital",
-      "city": "Izmir",
-      "rating": 4.8,
-      "reviews": 525,
+      "hospitalSlug": "guney-medical-centre-kayseri",
+      "hospital": "Guney Medical Centre",
+      "city": "Kayseri",
+      "rating": 4.4,
+      "reviews": 782,
       "procedures": [
-        "Off-pump CABG",
-        "Valve repair (mitral)"
+        "TURP",
+        "Robotic radical prostatectomy",
+        "PCNL stone surgery"
       ],
-      "bio": "27 years in cardiac; keeps same-day-discharge protocols and audits them monthly against readmission. The unit keeps a second opinion open for every elective case.",
-      "nextSlot": "Sat 16:30 IST (video)"
+      "bio": "21 years in urology; publishes procedure volumes and complication rates openly, including the ones that go wrong. Patients describe the pre-op explanation as unusually honest.",
+      "nextSlot": "Mon 16:30 IST (video)"
     }
   ],
   "reviews": [
@@ -5623,7 +5736,7 @@
       "hospital": "Aarogya Multi-speciality Hospital",
       "rating": 5,
       "date": "Jan 2026",
-      "text": "Everything — visa, hotel, transfers — was arranged before I landed and the aftercare calls on day 7 and day 30 were the difference for me Felt looked after rather than processed.",
+      "text": "Quotes from three hospitals arrived inside two days so I could pick with my family in the same room. Travel was the easy part; the clinical care was solid.",
       "tag": "Illustrative review"
     },
     {
@@ -5631,9 +5744,9 @@
       "city": "Bengaluru",
       "treatment": "Oncology — PET-CT & biopsy",
       "hospital": "Amrita Hospital",
-      "rating": 4,
+      "rating": 5,
       "date": "Aug 2026",
-      "text": "The hospital matched the quote to the rupee and the discharge paperwork was in plain language Happy with the result and the follow-up.",
+      "text": "Quotes from three hospitals arrived inside two days and I did not have to chase anyone for a document. Would do it again.",
       "tag": "Illustrative review"
     },
     {
@@ -5643,7 +5756,7 @@
       "hospital": "Sushruta Multi-speciality Hospital",
       "rating": 5,
       "date": "Apr 2026",
-      "text": "Everything — visa, hotel, transfers — was arranged before I landed and the written quote had every line itemised Travel was the easy part; the clinical care was solid.",
+      "text": "The comparison table made the price difference obvious which mattered more than the headline saving. Would tell a friend to prepare records early.",
       "tag": "Illustrative review"
     },
     {
@@ -5653,7 +5766,7 @@
       "hospital": "Trang Health Centre",
       "rating": 4,
       "date": "Nov 2026",
-      "text": "The surgeon explained my own scans with me on a video call which mattered more than the headline saving Travel was the easy part; the clinical care was solid.",
+      "text": "The comparison table made the price difference obvious and the discharge paperwork was in plain language. Took two quotes to compare, worth it.",
       "tag": "Illustrative review"
     },
     {
@@ -5661,9 +5774,9 @@
       "city": "Chandigarh",
       "treatment": "Hair transplant (FUE)",
       "hospital": "Orchard Rise Clinic & Hospital",
-      "rating": 4,
+      "rating": 5,
       "date": "Jul 2026",
-      "text": "The surgeon explained my own scans with me on a video call which mattered more than the headline saving Slower than expected, but the outcome was good.",
+      "text": "I had reports reviewed before booking and nobody pushed me and the written quote had every line itemised. Felt looked after rather than processed.",
       "tag": "Illustrative review"
     },
     {
@@ -5673,47 +5786,47 @@
       "hospital": "Selcuk Health Group",
       "rating": 5,
       "date": "Mar 2026",
-      "text": "Everything — visa, hotel, transfers — was arranged before I landed and the discharge paperwork was in plain language Took two quotes to compare, worth it.",
+      "text": "The coordinator called every week until I flew and the aftercare calls on day 7 and day 30 were the difference for me. Happy with the result and the follow-up.",
       "tag": "Illustrative review"
     },
     {
       "name": "Gurpreet Sandhu, 39",
       "city": "Hyderabad",
       "treatment": "Liver transplant",
-      "hospital": "Doruk International Hospital",
+      "hospital": "Cappadocia Hospital",
       "rating": 5,
       "date": "Oct 2026",
-      "text": "The hospital matched the quote to the rupee and the implant brand was disclosed before I paid anything Felt looked after rather than processed.",
+      "text": "The coordinator called every week until I flew so the total cost was clear on day one. Slower than expected, but the outcome was good.",
       "tag": "Illustrative review"
     },
     {
       "name": "Leela Menon, 66",
       "city": "Jaipur",
       "treatment": "Knee replacement (TKR)",
-      "hospital": "Langkawi Medical Institute",
-      "rating": 4,
+      "hospital": "Putrajaya Health Institute",
+      "rating": 5,
       "date": "Jun 2026",
-      "text": "The hospital matched the quote to the rupee so the total cost was clear on day one Took two quotes to compare, worth it.",
+      "text": "The hospital matched the quote to the rupee so I could pick with my family in the same room. Saved roughly the difference between the two quotes.",
       "tag": "Illustrative review"
     },
     {
       "name": "Vijay Bhatt, 47",
       "city": "Kolkata",
       "treatment": "Cataract (multifocal)",
-      "hospital": "Qasr Clinic Hospital",
+      "hospital": "Souq Clinic Hospital",
       "rating": 4,
       "date": "Feb 2026",
-      "text": "The comparison table made the price difference obvious which mattered more than the headline saving Slower than expected, but the outcome was good.",
+      "text": "The hospital matched the quote to the rupee and I did not have to chase anyone for a document. Travel was the easy part; the clinical care was solid.",
       "tag": "Illustrative review"
     },
     {
       "name": "Shabana Ali, 33",
       "city": "Indore",
       "treatment": "LASIK / SMILE",
-      "hospital": "Oasis Health City Al Ain",
-      "rating": 4,
+      "hospital": "Al Wathba Health City",
+      "rating": 5,
       "date": "Sep 2026",
-      "text": "The coordinator called every week until I flew which mattered more than the headline saving Slower than expected, but the outcome was good.",
+      "text": "Everything — visa, hotel, transfers — was arranged before I landed and the written quote had every line itemised. Would do it again.",
       "tag": "Illustrative review"
     },
     {
@@ -5723,7 +5836,7 @@
       "hospital": "Kaveri Multi-speciality Hospital",
       "rating": 4,
       "date": "May 2026",
-      "text": "I compared four centres on price and on complication rates and the written quote had every line itemised Travel was the easy part; the clinical care was solid.",
+      "text": "Everything — visa, hotel, transfers — was arranged before I landed and the discharge paperwork was in plain language. Would tell a friend to prepare records early.",
       "tag": "Illustrative review"
     },
     {
@@ -5733,7 +5846,7 @@
       "hospital": "Shanti Multi-speciality Hospital",
       "rating": 5,
       "date": "Jan 2026",
-      "text": "Quotes from three hospitals arrived inside two days which mattered more than the headline saving Would do it again.",
+      "text": "The surgeon explained my own scans with me on a video call and the implant brand was disclosed before I paid anything. Took two quotes to compare, worth it.",
       "tag": "Illustrative review"
     },
     {
@@ -5743,7 +5856,7 @@
       "hospital": "Trang General Hospital",
       "rating": 4,
       "date": "Aug 2026",
-      "text": "The coordinator called every week until I flew so I could pick with my family in the same room Happy with the result and the follow-up.",
+      "text": "I compared four centres on price and on complication rates and the aftercare calls on day 7 and day 30 were the difference for me. Felt looked after rather than processed.",
       "tag": "Illustrative review"
     },
     {
@@ -5751,9 +5864,9 @@
       "city": "Coimbatore",
       "treatment": "Robotic prostatectomy",
       "hospital": "Sawasdee International Hospital",
-      "rating": 5,
+      "rating": 4,
       "date": "Apr 2026",
-      "text": "The comparison table made the price difference obvious and the written quote had every line itemised Would tell a friend to prepare records early.",
+      "text": "I compared four centres on price and on complication rates so the total cost was clear on day one. Happy with the result and the follow-up.",
       "tag": "Illustrative review"
     },
     {
@@ -5761,49 +5874,49 @@
       "city": "Delhi",
       "treatment": "Cardiac bypass (CABG)",
       "hospital": "Meridian Specialty Hospital",
-      "rating": 4,
+      "rating": 5,
       "date": "Nov 2026",
-      "text": "I had reports reviewed before booking and nobody pushed me and the aftercare calls on day 7 and day 30 were the difference for me Slower than expected, but the outcome was good.",
+      "text": "Quotes from three hospitals arrived inside two days which mattered more than the headline saving. Slower than expected, but the outcome was good.",
       "tag": "Illustrative review"
     },
     {
       "name": "Meenakshi Joshi, 54",
       "city": "Bengaluru",
       "treatment": "Gastric sleeve",
-      "hospital": "Atil International Hospital",
+      "hospital": "Yildiz Medical Centre",
       "rating": 5,
       "date": "Jul 2026",
-      "text": "I had reports reviewed before booking and nobody pushed me and the written quote had every line itemised Slower than expected, but the outcome was good.",
+      "text": "Quotes from three hospitals arrived inside two days and I did not have to chase anyone for a document. Saved roughly the difference between the two quotes.",
       "tag": "Illustrative review"
     },
     {
       "name": "Arun Deshpande, 50",
       "city": "Kochi",
       "treatment": "Gastric bypass (RNY)",
-      "hospital": "Anadolu Medical Centre",
+      "hospital": "Meridyen Hospital",
       "rating": 4,
       "date": "Mar 2026",
-      "text": "The coordinator called every week until I flew so the total cost was clear on day one Would do it again.",
+      "text": "The comparison table made the price difference obvious and the written quote had every line itemised. Travel was the easy part; the clinical care was solid.",
       "tag": "Illustrative review"
     },
     {
       "name": "Saira Khan, 36",
       "city": "Ahmedabad",
       "treatment": "Varicose vein ablation",
-      "hospital": "Cahaya General Hospital",
-      "rating": 4,
+      "hospital": "Mutiara Hospital & Clinic",
+      "rating": 5,
       "date": "Oct 2026",
-      "text": "The surgeon explained my own scans with me on a video call and the written quote had every line itemised Slower than expected, but the outcome was good.",
+      "text": "I had reports reviewed before booking and nobody pushed me and the aftercare calls on day 7 and day 30 were the difference for me. Would do it again.",
       "tag": "Illustrative review"
     },
     {
       "name": "Mohan Varma, 60",
       "city": "Chandigarh",
       "treatment": "IVF (own eggs)",
-      "hospital": "Falcon International Hospital",
+      "hospital": "Falcon Clinic Hospital",
       "rating": 4,
       "date": "Jun 2026",
-      "text": "The hospital matched the quote to the rupee which mattered more than the headline saving Travel was the easy part; the clinical care was solid.",
+      "text": "I had reports reviewed before booking and nobody pushed me and the implant brand was disclosed before I paid anything. Would tell a friend to prepare records early.",
       "tag": "Illustrative review"
     },
     {
@@ -5811,9 +5924,9 @@
       "city": "Mumbai",
       "treatment": "Oncology — PET-CT & biopsy",
       "hospital": "Madhav Medical Centre",
-      "rating": 5,
+      "rating": 4,
       "date": "Feb 2026",
-      "text": "Everything — visa, hotel, transfers — was arranged before I landed and the discharge paperwork was in plain language Saved roughly the difference between the two quotes.",
+      "text": "The coordinator called every week until I flew so I could pick with my family in the same room. Took two quotes to compare, worth it.",
       "tag": "Illustrative review"
     },
     {
@@ -5821,9 +5934,9 @@
       "city": "Hyderabad",
       "treatment": "Kidney transplant",
       "hospital": "Vardhman Hospital Mumbai",
-      "rating": 4,
+      "rating": 5,
       "date": "Sep 2026",
-      "text": "The surgeon explained my own scans with me on a video call so the total cost was clear on day one Happy with the result and the follow-up.",
+      "text": "The coordinator called every week until I flew so the total cost was clear on day one. Felt looked after rather than processed.",
       "tag": "Illustrative review"
     },
     {
@@ -5831,9 +5944,9 @@
       "city": "Jaipur",
       "treatment": "Laparoscopic hernia repair",
       "hospital": "Kaveri Medical Centre",
-      "rating": 5,
+      "rating": 4,
       "date": "May 2026",
-      "text": "The hospital matched the quote to the rupee and the discharge paperwork was in plain language Happy with the result and the follow-up.",
+      "text": "The hospital matched the quote to the rupee which mattered more than the headline saving. Happy with the result and the follow-up.",
       "tag": "Illustrative review"
     },
     {
@@ -5843,7 +5956,7 @@
       "hospital": "Thai Heritage Surgical Centre",
       "rating": 5,
       "date": "Jan 2026",
-      "text": "The surgeon explained my own scans with me on a video call and the implant brand was disclosed before I paid anything Took two quotes to compare, worth it.",
+      "text": "The hospital matched the quote to the rupee and the discharge paperwork was in plain language. Slower than expected, but the outcome was good.",
       "tag": "Illustrative review"
     },
     {
@@ -5853,7 +5966,7 @@
       "hospital": "Banyan Hospital",
       "rating": 5,
       "date": "Aug 2026",
-      "text": "The coordinator called every week until I flew which mattered more than the headline saving Saved roughly the difference between the two quotes.",
+      "text": "Everything — visa, hotel, transfers — was arranged before I landed and the written quote had every line itemised. Saved roughly the difference between the two quotes.",
       "tag": "Illustrative review"
     },
     {
@@ -5861,49 +5974,49 @@
       "city": "Chennai",
       "treatment": "Liver transplant",
       "hospital": "Cedarcrest Hospital",
-      "rating": 5,
+      "rating": 4,
       "date": "Apr 2026",
-      "text": "Quotes from three hospitals arrived inside two days and the discharge paperwork was in plain language Saved roughly the difference between the two quotes.",
+      "text": "The surgeon explained my own scans with me on a video call and the aftercare calls on day 7 and day 30 were the difference for me. Travel was the easy part; the clinical care was solid.",
       "tag": "Illustrative review"
     },
     {
       "name": "Sunita Rao, 55",
       "city": "Pune",
       "treatment": "Knee replacement (TKR)",
-      "hospital": "Aegean Health Group Ankara",
+      "hospital": "Trakya Medical Centre",
       "rating": 5,
       "date": "Nov 2026",
-      "text": "Quotes from three hospitals arrived inside two days and the discharge paperwork was in plain language Happy with the result and the follow-up.",
+      "text": "The surgeon explained my own scans with me on a video call so the total cost was clear on day one. Would do it again.",
       "tag": "Illustrative review"
     },
     {
       "name": "Gurpreet Sandhu, 39",
       "city": "Lucknow",
       "treatment": "Cataract (multifocal)",
-      "hospital": "Merdeka Hospital & Clinic",
-      "rating": 4,
+      "hospital": "Cempaka General Hospital",
+      "rating": 5,
       "date": "Jul 2026",
-      "text": "The hospital matched the quote to the rupee and the implant brand was disclosed before I paid anything Took two quotes to compare, worth it.",
+      "text": "I compared four centres on price and on complication rates so I could pick with my family in the same room. Would tell a friend to prepare records early.",
       "tag": "Illustrative review"
     },
     {
       "name": "Leela Menon, 66",
       "city": "Coimbatore",
       "treatment": "LASIK / SMILE",
-      "hospital": "Masaar Medical Centre",
+      "hospital": "Al Reem Health City",
       "rating": 4,
       "date": "Mar 2026",
-      "text": "I compared four centres on price and on complication rates so the total cost was clear on day one Would tell a friend to prepare records early.",
+      "text": "I compared four centres on price and on complication rates and I did not have to chase anyone for a document. Took two quotes to compare, worth it.",
       "tag": "Illustrative review"
     },
     {
       "name": "Vijay Bhatt, 47",
       "city": "Delhi",
       "treatment": "Sinus & septal surgery",
-      "hospital": "Al Wathba Health City",
-      "rating": 5,
+      "hospital": "Qasr Health City",
+      "rating": 4,
       "date": "Oct 2026",
-      "text": "Everything — visa, hotel, transfers — was arranged before I landed and the aftercare calls on day 7 and day 30 were the difference for me Slower than expected, but the outcome was good.",
+      "text": "Quotes from three hospitals arrived inside two days which mattered more than the headline saving. Felt looked after rather than processed.",
       "tag": "Illustrative review"
     },
     {
@@ -5911,9 +6024,9 @@
       "city": "Bengaluru",
       "treatment": "Dental implants",
       "hospital": "Vardhman Medical Centre",
-      "rating": 4,
+      "rating": 5,
       "date": "Jun 2026",
-      "text": "Quotes from three hospitals arrived inside two days so the total cost was clear on day one Slower than expected, but the outcome was good.",
+      "text": "Quotes from three hospitals arrived inside two days and the discharge paperwork was in plain language. Happy with the result and the follow-up.",
       "tag": "Illustrative review"
     },
     {
@@ -5923,7 +6036,7 @@
       "hospital": "Jeevan Super Specialty Hospital",
       "rating": 5,
       "date": "Feb 2026",
-      "text": "Quotes from three hospitals arrived inside two days and the aftercare calls on day 7 and day 30 were the difference for me Happy with the result and the follow-up.",
+      "text": "The comparison table made the price difference obvious and the implant brand was disclosed before I paid anything. Slower than expected, but the outcome was good.",
       "tag": "Illustrative review"
     },
     {
@@ -5931,9 +6044,9 @@
       "city": "Ahmedabad",
       "treatment": "Robotic prostatectomy",
       "hospital": "Mekong Specialty Hospital",
-      "rating": 5,
+      "rating": 4,
       "date": "Sep 2026",
-      "text": "Everything — visa, hotel, transfers — was arranged before I landed which mattered more than the headline saving Happy with the result and the follow-up.",
+      "text": "I had reports reviewed before booking and nobody pushed me and the aftercare calls on day 7 and day 30 were the difference for me. Saved roughly the difference between the two quotes.",
       "tag": "Illustrative review"
     },
     {
@@ -5943,7 +6056,7 @@
       "hospital": "Chaiya Specialty Hospital",
       "rating": 4,
       "date": "May 2026",
-      "text": "I compared four centres on price and on complication rates which mattered more than the headline saving Took two quotes to compare, worth it.",
+      "text": "I had reports reviewed before booking and nobody pushed me so the total cost was clear on day one. Travel was the easy part; the clinical care was solid.",
       "tag": "Illustrative review"
     },
     {
@@ -5953,47 +6066,47 @@
       "hospital": "Lattice Medical Centre",
       "rating": 5,
       "date": "Jan 2026",
-      "text": "I compared four centres on price and on complication rates and the discharge paperwork was in plain language Felt looked after rather than processed.",
+      "text": "The coordinator called every week until I flew which mattered more than the headline saving. Would do it again.",
       "tag": "Illustrative review"
     },
     {
       "name": "Harish Bhat, 63",
       "city": "Hyderabad",
       "treatment": "Gastric bypass (RNY)",
-      "hospital": "Emek Medical Centre",
+      "hospital": "Bosphorus Specialty Hospital",
       "rating": 5,
       "date": "Aug 2026",
-      "text": "Everything — visa, hotel, transfers — was arranged before I landed and the aftercare calls on day 7 and day 30 were the difference for me Felt looked after rather than processed.",
+      "text": "The coordinator called every week until I flew and I did not have to chase anyone for a document. Would tell a friend to prepare records early.",
       "tag": "Illustrative review"
     },
     {
       "name": "Meenakshi Joshi, 54",
       "city": "Jaipur",
       "treatment": "Varicose vein ablation",
-      "hospital": "Doruk Medical Center",
+      "hospital": "Cappadocia Health Group",
       "rating": 5,
       "date": "Apr 2026",
-      "text": "The hospital matched the quote to the rupee and I did not have to chase anyone for a document Saved roughly the difference between the two quotes.",
+      "text": "The hospital matched the quote to the rupee and the written quote had every line itemised. Took two quotes to compare, worth it.",
       "tag": "Illustrative review"
     },
     {
       "name": "Arun Deshpande, 50",
       "city": "Kolkata",
       "treatment": "IVF (own eggs)",
-      "hospital": "Nusa Hospital & Clinic",
+      "hospital": "Harmoni Health Institute",
       "rating": 4,
       "date": "Nov 2026",
-      "text": "The comparison table made the price difference obvious so the total cost was clear on day one Took two quotes to compare, worth it.",
+      "text": "The hospital matched the quote to the rupee and the discharge paperwork was in plain language. Felt looked after rather than processed.",
       "tag": "Illustrative review"
     },
     {
       "name": "Saira Khan, 36",
       "city": "Indore",
       "treatment": "Oncology — PET-CT & biopsy",
-      "hospital": "Al Yahar Specialty Hospital Umm Al Quwain",
-      "rating": 5,
+      "hospital": "Wasl Health City",
+      "rating": 4,
       "date": "Jul 2026",
-      "text": "Everything — visa, hotel, transfers — was arranged before I landed and the discharge paperwork was in plain language Felt looked after rather than processed.",
+      "text": "Everything — visa, hotel, transfers — was arranged before I landed and the implant brand was disclosed before I paid anything. Happy with the result and the follow-up.",
       "tag": "Illustrative review"
     },
     {
@@ -6001,9 +6114,9 @@
       "city": "Chennai",
       "treatment": "Kidney transplant",
       "hospital": "Vardhman Institute of Medical Sciences",
-      "rating": 4,
+      "rating": 5,
       "date": "Mar 2026",
-      "text": "I compared four centres on price and on complication rates which mattered more than the headline saving Saved roughly the difference between the two quotes.",
+      "text": "The surgeon explained my own scans with me on a video call so I could pick with my family in the same room. Slower than expected, but the outcome was good.",
       "tag": "Illustrative review"
     },
     {
@@ -6011,9 +6124,9 @@
       "city": "Pune",
       "treatment": "Laparoscopic hernia repair",
       "hospital": "Amrita Institute of Medical Sciences",
-      "rating": 4,
+      "rating": 5,
       "date": "Oct 2026",
-      "text": "The hospital matched the quote to the rupee and the aftercare calls on day 7 and day 30 were the difference for me Slower than expected, but the outcome was good.",
+      "text": "The surgeon explained my own scans with me on a video call so the total cost was clear on day one. Saved roughly the difference between the two quotes.",
       "tag": "Illustrative review"
     },
     {
@@ -6021,9 +6134,9 @@
       "city": "Lucknow",
       "treatment": "Hair transplant (FUE)",
       "hospital": "Madhav Medical Centre Visakhapatnam",
-      "rating": 4,
+      "rating": 5,
       "date": "Jun 2026",
-      "text": "Quotes from three hospitals arrived inside two days and the aftercare calls on day 7 and day 30 were the difference for me Would tell a friend to prepare records early.",
+      "text": "I compared four centres on price and on complication rates which mattered more than the headline saving. Travel was the easy part; the clinical care was solid.",
       "tag": "Illustrative review"
     },
     {
@@ -6031,9 +6144,9 @@
       "city": "Coimbatore",
       "treatment": "Angioplasty + stent",
       "hospital": "Siam Health Centre",
-      "rating": 4,
+      "rating": 5,
       "date": "Feb 2026",
-      "text": "The comparison table made the price difference obvious and the aftercare calls on day 7 and day 30 were the difference for me Slower than expected, but the outcome was good.",
+      "text": "I compared four centres on price and on complication rates and the discharge paperwork was in plain language. Would do it again.",
       "tag": "Illustrative review"
     },
     {
@@ -6041,9 +6154,9 @@
       "city": "Delhi",
       "treatment": "Liver transplant",
       "hospital": "Claremont Medical Centre",
-      "rating": 5,
+      "rating": 4,
       "date": "Sep 2026",
-      "text": "Quotes from three hospitals arrived inside two days and the implant brand was disclosed before I paid anything Happy with the result and the follow-up.",
+      "text": "Quotes from three hospitals arrived inside two days and the written quote had every line itemised. Would tell a friend to prepare records early.",
       "tag": "Illustrative review"
     },
     {
@@ -6051,49 +6164,49 @@
       "city": "Bengaluru",
       "treatment": "Knee replacement (TKR)",
       "hospital": "Orchard Rise Hospital",
-      "rating": 5,
+      "rating": 4,
       "date": "May 2026",
-      "text": "I compared four centres on price and on complication rates and the discharge paperwork was in plain language Slower than expected, but the outcome was good.",
+      "text": "The comparison table made the price difference obvious and the aftercare calls on day 7 and day 30 were the difference for me. Took two quotes to compare, worth it.",
       "tag": "Illustrative review"
     },
     {
       "name": "Imran Qureshi, 48",
       "city": "Kochi",
       "treatment": "Cataract (multifocal)",
-      "hospital": "Aegean Health Group",
+      "hospital": "Cappadocia Medical Center",
       "rating": 5,
       "date": "Jan 2026",
-      "text": "I had reports reviewed before booking and nobody pushed me so the total cost was clear on day one Saved roughly the difference between the two quotes.",
+      "text": "The comparison table made the price difference obvious and the implant brand was disclosed before I paid anything. Felt looked after rather than processed.",
       "tag": "Illustrative review"
     },
     {
       "name": "Sunita Rao, 55",
       "city": "Ahmedabad",
       "treatment": "LASIK / SMILE",
-      "hospital": "Harmoni Medical Centre",
+      "hospital": "Mutiara Health Institute",
       "rating": 4,
       "date": "Aug 2026",
-      "text": "Quotes from three hospitals arrived inside two days so I could pick with my family in the same room Felt looked after rather than processed.",
+      "text": "I had reports reviewed before booking and nobody pushed me so I could pick with my family in the same room. Happy with the result and the follow-up.",
       "tag": "Illustrative review"
     },
     {
       "name": "Gurpreet Sandhu, 39",
       "city": "Chandigarh",
       "treatment": "Sinus & septal surgery",
-      "hospital": "Selat Medical Institute",
+      "hospital": "Terang Health Institute",
       "rating": 5,
       "date": "Apr 2026",
-      "text": "I had reports reviewed before booking and nobody pushed me and the aftercare calls on day 7 and day 30 were the difference for me Took two quotes to compare, worth it.",
+      "text": "I had reports reviewed before booking and nobody pushed me and I did not have to chase anyone for a document. Slower than expected, but the outcome was good.",
       "tag": "Illustrative review"
     },
     {
       "name": "Leela Menon, 66",
       "city": "Mumbai",
       "treatment": "Dental implants",
-      "hospital": "Qasr Health City",
-      "rating": 5,
+      "hospital": "Al Wathba Medical Centre",
+      "rating": 4,
       "date": "Nov 2026",
-      "text": "The coordinator called every week until I flew which mattered more than the headline saving Happy with the result and the follow-up.",
+      "text": "The coordinator called every week until I flew which mattered more than the headline saving. Saved roughly the difference between the two quotes.",
       "tag": "Illustrative review"
     },
     {
@@ -6103,7 +6216,7 @@
       "hospital": "Vardhman Institute of Medical Sciences Jaipur",
       "rating": 5,
       "date": "Jul 2026",
-      "text": "I compared four centres on price and on complication rates so the total cost was clear on day one Happy with the result and the follow-up.",
+      "text": "The coordinator called every week until I flew and the discharge paperwork was in plain language. Travel was the easy part; the clinical care was solid.",
       "tag": "Illustrative review"
     },
     {
@@ -6113,7 +6226,7 @@
       "hospital": "Sarvodaya Medical Centre",
       "rating": 5,
       "date": "Mar 2026",
-      "text": "I compared four centres on price and on complication rates and the aftercare calls on day 7 and day 30 were the difference for me Slower than expected, but the outcome was good.",
+      "text": "The hospital matched the quote to the rupee and the implant brand was disclosed before I paid anything. Would do it again.",
       "tag": "Illustrative review"
     },
     {
@@ -6121,9 +6234,9 @@
       "city": "Kolkata",
       "treatment": "Cardiac bypass (CABG)",
       "hospital": "Thai Care Specialty Hospital",
-      "rating": 4,
+      "rating": 5,
       "date": "Oct 2026",
-      "text": "The hospital matched the quote to the rupee and the written quote had every line itemised Saved roughly the difference between the two quotes.",
+      "text": "Everything — visa, hotel, transfers — was arranged before I landed and the aftercare calls on day 7 and day 30 were the difference for me. Would tell a friend to prepare records early.",
       "tag": "Illustrative review"
     },
     {
@@ -6131,9 +6244,9 @@
       "city": "Indore",
       "treatment": "Gastric sleeve",
       "hospital": "Trang Specialty Hospital",
-      "rating": 5,
+      "rating": 4,
       "date": "Jun 2026",
-      "text": "Everything — visa, hotel, transfers — was arranged before I landed so I could pick with my family in the same room Saved roughly the difference between the two quotes.",
+      "text": "Everything — visa, hotel, transfers — was arranged before I landed so the total cost was clear on day one. Took two quotes to compare, worth it.",
       "tag": "Illustrative review"
     },
     {
@@ -6143,47 +6256,47 @@
       "hospital": "Claremont Medical Institute",
       "rating": 5,
       "date": "Feb 2026",
-      "text": "The coordinator called every week until I flew and the implant brand was disclosed before I paid anything Travel was the easy part; the clinical care was solid.",
+      "text": "The surgeon explained my own scans with me on a video call so I could pick with my family in the same room. Felt looked after rather than processed.",
       "tag": "Illustrative review"
     },
     {
       "name": "Kavya Reddy, 29",
       "city": "Pune",
       "treatment": "Varicose vein ablation",
-      "hospital": "Kartal International Hospital",
+      "hospital": "Halic Hospital",
       "rating": 5,
       "date": "Sep 2026",
-      "text": "I had reports reviewed before booking and nobody pushed me so the total cost was clear on day one Travel was the easy part; the clinical care was solid.",
+      "text": "The surgeon explained my own scans with me on a video call and I did not have to chase anyone for a document. Happy with the result and the follow-up.",
       "tag": "Illustrative review"
     },
     {
       "name": "Harish Bhat, 63",
       "city": "Lucknow",
       "treatment": "IVF (own eggs)",
-      "hospital": "Doruk Medical Centre",
-      "rating": 4,
+      "hospital": "Kartal Specialty Hospital",
+      "rating": 5,
       "date": "May 2026",
-      "text": "The surgeon explained my own scans with me on a video call and I did not have to chase anyone for a document Saved roughly the difference between the two quotes.",
+      "text": "I compared four centres on price and on complication rates and the written quote had every line itemised. Slower than expected, but the outcome was good.",
       "tag": "Illustrative review"
     },
     {
       "name": "Meenakshi Joshi, 54",
       "city": "Coimbatore",
       "treatment": "Oncology — PET-CT & biopsy",
-      "hospital": "Mutiara Medical Institute",
+      "hospital": "Bintang Hospital & Clinic",
       "rating": 4,
       "date": "Jan 2026",
-      "text": "Quotes from three hospitals arrived inside two days and I did not have to chase anyone for a document Would do it again.",
+      "text": "I compared four centres on price and on complication rates and the discharge paperwork was in plain language. Saved roughly the difference between the two quotes.",
       "tag": "Illustrative review"
     },
     {
       "name": "Arun Deshpande, 50",
       "city": "Delhi",
       "treatment": "Kidney transplant",
-      "hospital": "Al Barsha Specialty Hospital",
+      "hospital": "Al Barsha International Hospital",
       "rating": 4,
       "date": "Aug 2026",
-      "text": "The coordinator called every week until I flew and I did not have to chase anyone for a document Would tell a friend to prepare records early.",
+      "text": "Quotes from three hospitals arrived inside two days and the implant brand was disclosed before I paid anything. Travel was the easy part; the clinical care was solid.",
       "tag": "Illustrative review"
     },
     {
@@ -6193,7 +6306,7 @@
       "hospital": "Utkal Institute of Medical Sciences",
       "rating": 5,
       "date": "Apr 2026",
-      "text": "The surgeon explained my own scans with me on a video call and the implant brand was disclosed before I paid anything Happy with the result and the follow-up.",
+      "text": "The comparison table made the price difference obvious so I could pick with my family in the same room. Would do it again.",
       "tag": "Illustrative review"
     },
     {
@@ -6203,7 +6316,7 @@
       "hospital": "Yugdeep Health City",
       "rating": 5,
       "date": "Nov 2026",
-      "text": "The comparison table made the price difference obvious and the written quote had every line itemised Happy with the result and the follow-up.",
+      "text": "The comparison table made the price difference obvious so the total cost was clear on day one. Would tell a friend to prepare records early.",
       "tag": "Illustrative review"
     },
     {
@@ -6211,9 +6324,9 @@
       "city": "Ahmedabad",
       "treatment": "Angioplasty + stent",
       "hospital": "Devdeep Super Specialty Hospital",
-      "rating": 4,
+      "rating": 5,
       "date": "Jul 2026",
-      "text": "The comparison table made the price difference obvious so I could pick with my family in the same room Saved roughly the difference between the two quotes.",
+      "text": "I had reports reviewed before booking and nobody pushed me which mattered more than the headline saving. Took two quotes to compare, worth it.",
       "tag": "Illustrative review"
     },
     {
@@ -6223,7 +6336,7 @@
       "hospital": "Andaman International Hospital",
       "rating": 5,
       "date": "Mar 2026",
-      "text": "Quotes from three hospitals arrived inside two days so the total cost was clear on day one Would tell a friend to prepare records early.",
+      "text": "I had reports reviewed before booking and nobody pushed me and I did not have to chase anyone for a document. Felt looked after rather than processed.",
       "tag": "Illustrative review"
     },
     {
@@ -6233,7 +6346,7 @@
       "hospital": "Cairnhill Medical Institute",
       "rating": 5,
       "date": "Oct 2026",
-      "text": "The hospital matched the quote to the rupee so the total cost was clear on day one Travel was the easy part; the clinical care was solid.",
+      "text": "The coordinator called every week until I flew and the written quote had every line itemised. Happy with the result and the follow-up.",
       "tag": "Illustrative review"
     },
     {
@@ -6243,47 +6356,47 @@
       "hospital": "Lattice Health Institute",
       "rating": 5,
       "date": "Jun 2026",
-      "text": "The surgeon explained my own scans with me on a video call and the written quote had every line itemised Slower than expected, but the outcome was good.",
+      "text": "The hospital matched the quote to the rupee and the aftercare calls on day 7 and day 30 were the difference for me. Slower than expected, but the outcome was good.",
       "tag": "Illustrative review"
     },
     {
       "name": "Anjali Nair, 37",
       "city": "Jaipur",
       "treatment": "LASIK / SMILE",
-      "hospital": "Trakya International Hospital",
-      "rating": 5,
+      "hospital": "Guney Medical Centre",
+      "rating": 4,
       "date": "Feb 2026",
-      "text": "The comparison table made the price difference obvious which mattered more than the headline saving Would tell a friend to prepare records early.",
+      "text": "The hospital matched the quote to the rupee and the implant brand was disclosed before I paid anything. Saved roughly the difference between the two quotes.",
       "tag": "Illustrative review"
     },
     {
       "name": "Imran Qureshi, 48",
       "city": "Kolkata",
       "treatment": "Sinus & septal surgery",
-      "hospital": "Kenanga General Hospital",
+      "hospital": "Bintang Medical Centre",
       "rating": 5,
       "date": "Sep 2026",
-      "text": "I had reports reviewed before booking and nobody pushed me and the implant brand was disclosed before I paid anything Took two quotes to compare, worth it.",
+      "text": "Everything — visa, hotel, transfers — was arranged before I landed so I could pick with my family in the same room. Travel was the easy part; the clinical care was solid.",
       "tag": "Illustrative review"
     },
     {
       "name": "Sunita Rao, 55",
       "city": "Indore",
       "treatment": "Dental implants",
-      "hospital": "Kenanga Hospital & Clinic",
+      "hospital": "Istana Medical Institute",
       "rating": 5,
       "date": "May 2026",
-      "text": "I had reports reviewed before booking and nobody pushed me which mattered more than the headline saving Travel was the easy part; the clinical care was solid.",
+      "text": "Everything — visa, hotel, transfers — was arranged before I landed and I did not have to chase anyone for a document. Would do it again.",
       "tag": "Illustrative review"
     },
     {
       "name": "Gurpreet Sandhu, 39",
       "city": "Chennai",
       "treatment": "Hip replacement",
-      "hospital": "Al Wathba Medical Centre",
-      "rating": 5,
+      "hospital": "Horizon Specialty Hospital",
+      "rating": 4,
       "date": "Jan 2026",
-      "text": "The coordinator called every week until I flew and the aftercare calls on day 7 and day 30 were the difference for me Took two quotes to compare, worth it.",
+      "text": "The surgeon explained my own scans with me on a video call which mattered more than the headline saving. Would tell a friend to prepare records early.",
       "tag": "Illustrative review"
     },
     {
@@ -6291,9 +6404,9 @@
       "city": "Pune",
       "treatment": "Robotic prostatectomy",
       "hospital": "Shanti Medical Centre",
-      "rating": 4,
+      "rating": 5,
       "date": "Aug 2026",
-      "text": "The surgeon explained my own scans with me on a video call and the discharge paperwork was in plain language Would do it again.",
+      "text": "The surgeon explained my own scans with me on a video call and the discharge paperwork was in plain language. Took two quotes to compare, worth it.",
       "tag": "Illustrative review"
     },
     {
@@ -6301,9 +6414,9 @@
       "city": "Lucknow",
       "treatment": "Cardiac bypass (CABG)",
       "hospital": "Kaveri Multi-speciality Hospital Vadodara",
-      "rating": 4,
+      "rating": 5,
       "date": "Apr 2026",
-      "text": "I had reports reviewed before booking and nobody pushed me which mattered more than the headline saving Would do it again.",
+      "text": "I compared four centres on price and on complication rates and the written quote had every line itemised. Felt looked after rather than processed.",
       "tag": "Illustrative review"
     },
     {
@@ -6311,9 +6424,9 @@
       "city": "Coimbatore",
       "treatment": "Gastric sleeve",
       "hospital": "Lanna International Hospital",
-      "rating": 4,
+      "rating": 5,
       "date": "Nov 2026",
-      "text": "The coordinator called every week until I flew which mattered more than the headline saving Happy with the result and the follow-up.",
+      "text": "Quotes from three hospitals arrived inside two days and the aftercare calls on day 7 and day 30 were the difference for me. Happy with the result and the follow-up.",
       "tag": "Illustrative review"
     },
     {
@@ -6321,9 +6434,9 @@
       "city": "Delhi",
       "treatment": "Gastric bypass (RNY)",
       "hospital": "Sawasdee Health Centre",
-      "rating": 5,
+      "rating": 4,
       "date": "Jul 2026",
-      "text": "The coordinator called every week until I flew and the implant brand was disclosed before I paid anything Would tell a friend to prepare records early.",
+      "text": "Quotes from three hospitals arrived inside two days so the total cost was clear on day one. Slower than expected, but the outcome was good.",
       "tag": "Illustrative review"
     },
     {
@@ -6331,9 +6444,9 @@
       "city": "Bengaluru",
       "treatment": "Varicose vein ablation",
       "hospital": "Halcyon Specialty Hospital",
-      "rating": 5,
+      "rating": 4,
       "date": "Mar 2026",
-      "text": "I had reports reviewed before booking and nobody pushed me which mattered more than the headline saving Would tell a friend to prepare records early.",
+      "text": "The comparison table made the price difference obvious so I could pick with my family in the same room. Saved roughly the difference between the two quotes.",
       "tag": "Illustrative review"
     },
     {
@@ -6343,37 +6456,37 @@
       "hospital": "Toros International Hospital",
       "rating": 5,
       "date": "Oct 2026",
-      "text": "The comparison table made the price difference obvious which mattered more than the headline saving Would do it again.",
+      "text": "The comparison table made the price difference obvious and I did not have to chase anyone for a document. Travel was the easy part; the clinical care was solid.",
       "tag": "Illustrative review"
     },
     {
       "name": "Kavya Reddy, 29",
       "city": "Ahmedabad",
       "treatment": "Oncology — PET-CT & biopsy",
-      "hospital": "Cappadocia International Hospital",
+      "hospital": "Halic Specialty Hospital",
       "rating": 5,
       "date": "Jun 2026",
-      "text": "Quotes from three hospitals arrived inside two days and I did not have to chase anyone for a document Would do it again.",
+      "text": "I had reports reviewed before booking and nobody pushed me and the written quote had every line itemised. Would do it again.",
       "tag": "Illustrative review"
     },
     {
       "name": "Harish Bhat, 63",
       "city": "Chandigarh",
       "treatment": "Kidney transplant",
-      "hospital": "Mutiara Medical Centre",
+      "hospital": "Terang Specialist Hospital",
       "rating": 5,
       "date": "Feb 2026",
-      "text": "Quotes from three hospitals arrived inside two days and the implant brand was disclosed before I paid anything Would do it again.",
+      "text": "I had reports reviewed before booking and nobody pushed me and the discharge paperwork was in plain language. Would tell a friend to prepare records early.",
       "tag": "Illustrative review"
     },
     {
       "name": "Meenakshi Joshi, 54",
       "city": "Mumbai",
       "treatment": "Laparoscopic hernia repair",
-      "hospital": "Qasr Medical Centre",
-      "rating": 4,
+      "hospital": "Marasi Medical Centre Ras Al Khaimah",
+      "rating": 5,
       "date": "Sep 2026",
-      "text": "The hospital matched the quote to the rupee and I did not have to chase anyone for a document Would tell a friend to prepare records early.",
+      "text": "The coordinator called every week until I flew and the implant brand was disclosed before I paid anything. Took two quotes to compare, worth it.",
       "tag": "Illustrative review"
     },
     {
@@ -6381,9 +6494,9 @@
       "city": "Hyderabad",
       "treatment": "Hair transplant (FUE)",
       "hospital": "Shanti Health City",
-      "rating": 4,
+      "rating": 5,
       "date": "May 2026",
-      "text": "The surgeon explained my own scans with me on a video call and the aftercare calls on day 7 and day 30 were the difference for me Happy with the result and the follow-up.",
+      "text": "The hospital matched the quote to the rupee and the aftercare calls on day 7 and day 30 were the difference for me. Felt looked after rather than processed.",
       "tag": "Illustrative review"
     },
     {
@@ -6393,7 +6506,7 @@
       "hospital": "Vardhman Hospital Lucknow",
       "rating": 5,
       "date": "Jan 2026",
-      "text": "The comparison table made the price difference obvious and I did not have to chase anyone for a document Would tell a friend to prepare records early.",
+      "text": "The hospital matched the quote to the rupee so the total cost was clear on day one. Happy with the result and the follow-up.",
       "tag": "Illustrative review"
     },
     {
@@ -6403,7 +6516,7 @@
       "hospital": "Vardhman Institute of Medical Sciences Madurai",
       "rating": 5,
       "date": "Aug 2026",
-      "text": "I had reports reviewed before booking and nobody pushed me and the implant brand was disclosed before I paid anything Felt looked after rather than processed.",
+      "text": "Everything — visa, hotel, transfers — was arranged before I landed which mattered more than the headline saving. Slower than expected, but the outcome was good.",
       "tag": "Illustrative review"
     },
     {
@@ -6413,7 +6526,7 @@
       "hospital": "Mekong Surgical Centre",
       "rating": 4,
       "date": "Apr 2026",
-      "text": "Quotes from three hospitals arrived inside two days and the written quote had every line itemised Saved roughly the difference between the two quotes.",
+      "text": "Everything — visa, hotel, transfers — was arranged before I landed and I did not have to chase anyone for a document. Saved roughly the difference between the two quotes.",
       "tag": "Illustrative review"
     },
     {
@@ -6423,7 +6536,7 @@
       "hospital": "Chaiya Health Centre",
       "rating": 5,
       "date": "Nov 2026",
-      "text": "The hospital matched the quote to the rupee so the total cost was clear on day one Would tell a friend to prepare records early.",
+      "text": "The surgeon explained my own scans with me on a video call and the written quote had every line itemised. Travel was the easy part; the clinical care was solid.",
       "tag": "Illustrative review"
     },
     {
@@ -6431,29 +6544,29 @@
       "city": "Pune",
       "treatment": "LASIK / SMILE",
       "hospital": "Vantage Health Institute",
-      "rating": 5,
+      "rating": 4,
       "date": "Jul 2026",
-      "text": "I compared four centres on price and on complication rates so the total cost was clear on day one Would tell a friend to prepare records early.",
+      "text": "I compared four centres on price and on complication rates and the aftercare calls on day 7 and day 30 were the difference for me. Would do it again.",
       "tag": "Illustrative review"
     },
     {
       "name": "Ramesh Iyer, 52",
       "city": "Lucknow",
       "treatment": "Sinus & septal surgery",
-      "hospital": "Halic Medical Centre",
-      "rating": 4,
+      "hospital": "Sakarya Health Group",
+      "rating": 5,
       "date": "Mar 2026",
-      "text": "Quotes from three hospitals arrived inside two days and the aftercare calls on day 7 and day 30 were the difference for me Travel was the easy part; the clinical care was solid.",
+      "text": "I compared four centres on price and on complication rates and the implant brand was disclosed before I paid anything. Would tell a friend to prepare records early.",
       "tag": "Illustrative review"
     },
     {
       "name": "Anjali Nair, 37",
       "city": "Coimbatore",
       "treatment": "Dental implants",
-      "hospital": "Melaka Medical Institute",
+      "hospital": "Cempaka Health Institute",
       "rating": 4,
       "date": "Oct 2026",
-      "text": "The comparison table made the price difference obvious and the implant brand was disclosed before I paid anything Would tell a friend to prepare records early.",
+      "text": "Quotes from three hospitals arrived inside two days so I could pick with my family in the same room. Took two quotes to compare, worth it.",
       "tag": "Illustrative review"
     }
   ],
@@ -6579,8 +6692,8 @@
       "cat": "General"
     },
     {
-      "q": "Is EthAum a hospital or an agency?",
-      "a": "Neither — we are a patient-first marketplace. We coordinate; accredited hospitals treat. You always sign consent with the hospital, not with us.",
+      "q": "How do I know which country suits my case?",
+      "a": "Tell us your condition and the reports you already have. The clinical desk compares the specialities, the direct-flight times and the aftercare network, then narrows it to two or three countries worth quoting.",
       "cat": "General"
     },
     {
@@ -6602,11 +6715,6 @@
       "q": "What if I am not sure which treatment I need?",
       "a": "Start a case with your symptoms and reports instead of a procedure. The clinical desk replies with what the evidence suggests and which specialities to compare.",
       "cat": "General"
-    },
-    {
-      "q": "Can I pay in instalments?",
-      "a": "Yes — 0% EMI for 6 months or 12% reducing thereafter; or pay the hospital directly at admission; or insurance cashless where networked.",
-      "cat": "Money"
     },
     {
       "q": "Are the prices on treatment pages binding?",
@@ -6667,16 +6775,6 @@
       "q": "How long do you keep my files?",
       "a": "Until you ask us to delete them, and then within 30 days across primary stores and backups, with a written confirmation.",
       "cat": "Privacy"
-    },
-    {
-      "q": "What if the surgery is cancelled after I travel?",
-      "a": "You get 100% of the coordinated costs refunded, flights rebooked, and your coordinator stays with you until a new date is confirmed.",
-      "cat": "Safety"
-    },
-    {
-      "q": "What if I need ICU beyond the quoted days?",
-      "a": "Quoted packages include standard ICU days. Extra days are billed at pre-agreed capped rates in your consent, never open-ended.",
-      "cat": "Safety"
     },
     {
       "q": "Who is responsible if something goes wrong?",
@@ -6754,58 +6852,73 @@
       "cat": "Ethics"
     },
     {
-      "q": "Is EthAum a hospital or an agency?",
-      "a": "Neither — we are a patient-first marketplace. We coordinate; accredited hospitals treat. You always sign consent with the hospital, not with us.",
+      "q": "How do I know which country suits my case? (1)",
+      "a": "Tell us your condition and the reports you already have. The clinical desk compares the specialities, the direct-flight times and the aftercare network, then narrows it to two or three countries worth quoting.",
       "cat": "General"
     },
     {
-      "q": "How is the hospital index built?",
+      "q": "How is the hospital index built? (1)",
       "a": "Eight institutions are hand-audited by our clinical desk and carry verified accreditation, outcome and patient-experience data. The wider index is a scale model of the marketplace and its entries are illustrative demo listings, not audited providers.",
       "cat": "General"
     },
     {
-      "q": "Can I see a hospital's audit before I enquire?",
+      "q": "Can I see a hospital's audit before I enquire? (1)",
       "a": "Yes for audited institutions — accreditation numbers, expiry dates and the last audit date sit on each profile. Index listings do not yet have an audit pack, and we label them as such.",
       "cat": "General"
     },
     {
-      "q": "Do I need a referral from my local doctor?",
+      "q": "Do I need a referral from my local doctor? (1)",
       "a": "No. Many patients arrive without one. We do ask for recent reports, and your case is reviewed by a surgeon before you travel so nobody books a flight for the wrong procedure.",
       "cat": "General"
     },
     {
-      "q": "What if I am not sure which treatment I need?",
+      "q": "What if I am not sure which treatment I need? (1)",
       "a": "Start a case with your symptoms and reports instead of a procedure. The clinical desk replies with what the evidence suggests and which specialities to compare.",
       "cat": "General"
     },
     {
-      "q": "Can I pay in instalments?",
+      "q": "Can I pay in instalments? (1)",
       "a": "Yes — 0% EMI for 6 months or 12% reducing thereafter; or pay the hospital directly at admission; or insurance cashless where networked.",
       "cat": "Money"
     },
     {
-      "q": "Are the prices on treatment pages binding?",
+      "q": "Are the prices on treatment pages binding? (1)",
       "a": "No. Every figure is an indicative all-in band. The written quote you accept is the binding one, and it holds for 30 days including implants.",
       "cat": "Money"
     },
     {
-      "q": "What is not included in an all-in quote?",
+      "q": "What is not included in an all-in quote? (1)",
       "a": "Flights are added at your actual fare, personal spending is yours, and any extra nights you choose to keep are billed at the pre-agreed capped rate in your consent.",
       "cat": "Money"
     },
     {
-      "q": "Do you charge a booking fee?",
+      "q": "Do you charge a booking fee? (1)",
       "a": "Only a refundable token of ₹9,999, held in escrow until you check in. Hospitals pay the referral fee, and it is disclosed inside every quote.",
       "cat": "Money"
     },
     {
-      "q": "Can I compare a quote against a private hospital at home?",
+      "q": "Can I compare a quote against a private hospital at home? (1)",
       "a": "Yes. Every treatment page shows the private-India saving so you can sanity-check the number before you talk to anyone.",
       "cat": "Money"
     },
     {
-      "q": "How do you verify a doctor?",
+      "q": "How do you verify a doctor? (1)",
       "a": "Original registration certificates, the hospital employment letter and a log of recent cases are checked before a profile is published, and again every year.",
+      "cat": "Trust"
+    },
+    {
+      "q": "What if a hospital stops meeting your standard? (1)",
+      "a": "It is delisted from the audited set the same quarter it fails, and patients with a booked case are re-matched by the clinical desk at no cost.",
+      "cat": "Trust"
+    },
+    {
+      "q": "Can I talk to a patient who went to the same centre? (1)",
+      "a": "For audited institutions, yes, after you have shared your treatment plan with the coordinator and the patient has consented to the call.",
+      "cat": "Trust"
+    },
+    {
+      "q": "Are outcome statistics per surgeon or per hospital? (1)",
+      "a": "Both are published separately for audited centres, and we never mix a hospital's overall figures into a single surgeon's record.",
       "cat": "Trust"
     }
   ]

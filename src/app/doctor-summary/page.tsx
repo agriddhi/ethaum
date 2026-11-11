@@ -154,7 +154,7 @@ export default function DoctorSummaryPage() {
 
       {/* ───────── THE BRIEF ───────── */}
       <main className="mx-auto max-w-6xl px-4 py-8 sm:px-6 print:max-w-none print:px-2 print:py-0">
-        <article className="rounded-3xl border border-forest/10 bg-white p-6 shadow-card print:rounded-none print:border-0 print:p-0 print:shadow-none print:[zoom:0.8] sm:p-8">
+        <article className="rounded-3xl border border-forest/10 bg-white p-6 shadow-card print:rounded-none print:border-0 print:p-0 print:shadow-none print:[zoom:0.8] print:w-[125%] sm:p-8">
           {/* masthead */}
           <div className="flex flex-wrap items-start justify-between gap-4 border-b-2 border-forest/80 pb-4 print:border-black">
             <div>

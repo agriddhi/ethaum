@@ -6,6 +6,7 @@ import SiteFooter from "@/components/site-footer";
 import PageHeader from "@/components/page-header";
 import Accordion from "@/components/accordion";
 import { TREATMENTS, HOSPITALS } from "@/data/ethaum";
+import { SEED_TREATMENTS } from "@/data/seed";
 
 const COUNTRIES: Array<[keyof typeof TREATMENTS[number]["allIn"], string]> = [
   ["india", "India"],
@@ -19,19 +20,22 @@ const fmtL = (v: number) => (v >= 1 ? `₹${v.toFixed(2)}L` : `₹${Math.round(v
 export const instant = false;
 
 export function generateStaticParams() {
-  return TREATMENTS.map((t) => ({ slug: t.slug }));
+  const curated = TREATMENTS.map((t) => ({ slug: t.slug }));
+  const extra = SEED_TREATMENTS.filter((t) => !TREATMENTS.some((c) => c.slug === t.slug)).map((t) => ({ slug: t.slug }));
+  return [...curated, ...extra];
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
-  const t = TREATMENTS.find((x) => x.slug === slug);
+  const t = TREATMENTS.find((x) => x.slug === slug) ?? SEED_TREATMENTS.find((x) => x.slug === slug);
   return { title: t ? `${t.name} — all-in cost abroad · EthAum` : "Treatment — EthAum" };
 }
 
 export default async function TreatmentDetail({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const t = TREATMENTS.find((x) => x.slug === slug);
+  const t = TREATMENTS.find((x) => x.slug === slug) ?? SEED_TREATMENTS.find((x) => x.slug === slug);
   if (!t) notFound();
+  const isIndexEntry = !TREATMENTS.some((x) => x.slug === slug);
 
   const max = Math.max(...Object.values(t.allIn));
   const best = Math.min(...Object.values(t.allIn));
@@ -46,6 +50,15 @@ export default async function TreatmentDetail({ params }: { params: Promise<{ sl
         title={t.name}
         sub={t.description}
       />
+
+      {isIndexEntry && (
+        <div className="mx-auto max-w-7xl px-4 pt-6 sm:px-6">
+          <p className="rounded-2xl border border-amber/40 bg-amber-wash px-5 py-3 text-[12px] leading-5 text-charcoal">
+            <span className="font-bold text-amber-deep">Index listing.</span> This guide comes from our catalogue index — pricing and timelines are indicative until a partner hospital confirms them in writing.{" "}
+            <Link href="/treatments" className="font-bold text-forest underline">See the audited guides →</Link>
+          </p>
+        </div>
+      )}
 
       <div className="mx-auto grid max-w-7xl gap-8 px-4 py-10 sm:px-6 lg:grid-cols-12 lg:py-14">
         {/* main column */}

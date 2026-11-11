@@ -5,23 +5,27 @@ import SiteNav from "@/components/site-nav";
 import SiteFooter from "@/components/site-footer";
 import PageHeader from "@/components/page-header";
 import { HOSPITALS, REVIEWS } from "@/data/ethaum";
+import { SEED_HOSPITALS } from "@/data/seed";
 
 export const instant = false;
 
 export function generateStaticParams() {
-  return HOSPITALS.map((h) => ({ slug: h.slug }));
+  const curated = HOSPITALS.map((h) => ({ slug: h.slug }));
+  const extra = SEED_HOSPITALS.filter((h) => !HOSPITALS.some((c) => c.slug === h.slug)).map((h) => ({ slug: h.slug }));
+  return [...curated, ...extra];
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
-  const h = HOSPITALS.find((x) => x.slug === slug);
+  const h = HOSPITALS.find((x) => x.slug === slug) ?? SEED_HOSPITALS.find((x) => x.slug === slug);
   return { title: h ? `${h.name} — profile & reviews · EthAum` : "Hospital — EthAum" };
 }
 
 export default async function HospitalProfile({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const h = HOSPITALS.find((x) => x.slug === slug);
+  const h = HOSPITALS.find((x) => x.slug === slug) ?? SEED_HOSPITALS.find((x) => x.slug === slug);
   if (!h) notFound();
+  const isIndexEntry = !HOSPITALS.some((x) => x.slug === slug);
   const reviews = REVIEWS.slice(0, 3);
 
   return (
@@ -33,6 +37,15 @@ export default async function HospitalProfile({ params }: { params: Promise<{ sl
         title={h.name}
         sub={`${h.city}, ${h.country} — best for ${h.bestFor.toLowerCase()}. All-in quotes reviewed by EthAum's clinical desk before you see them.`}
       />
+      {isIndexEntry && (
+        <div className="mx-auto max-w-7xl px-4 pt-6 sm:px-6">
+          <p className="rounded-2xl border border-amber/40 bg-amber-wash px-5 py-3 text-[12px] leading-5 text-charcoal">
+            <span className="font-bold text-amber-deep">Index listing.</span> This institution is in our marketplace index — accreditation, outcomes and patient-experience data are illustrative until EthAum&apos;s audit desk verifies them.{" "}
+            <Link href="/hospitals" className="font-bold text-forest underline">See the 8 audited hospitals →</Link>
+          </p>
+        </div>
+      )}
+
       <div className="mx-auto grid max-w-7xl gap-8 px-4 py-10 sm:px-6 lg:grid-cols-12 lg:py-14">
         <div className="lg:col-span-7">
           <div className="grid grid-cols-3 gap-3">

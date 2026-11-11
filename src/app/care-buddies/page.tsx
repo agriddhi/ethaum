@@ -513,7 +513,7 @@ export default function CareBuddiesPage() {
                       Flies {b.fliesOn} · {b.slotsLeft} slot{b.slotsLeft === 1 ? "" : "s"} left
                     </p>
                     <p className="mt-0.5 text-[10.5px] leading-4 text-slate">
-                      ₹{b.price.toLocaleString("en-IN")} · {SERVICE_INCLUDES}
+                      {SERVICE_INCLUDES}
                     </p>
                   </div>
                   <div className="text-right">
