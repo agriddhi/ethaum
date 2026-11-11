@@ -91,8 +91,8 @@ centre) with the URL bar visible.*
 ## 4:35–5:00 · Close
 > "EthAum. Heal better, everywhere."
 
-*End card: logo, tagline, 3-line value prop, team names + LinkedIn handles, "Illustrative demo —
-not medical advice."*
+*End card: logo, tagline, "built by kairo-aeon-tech", `agriddhi · linkedin.com/in/agriddhi`, and the
+disclaimer "Illustrative demo — not medical advice."*
 
 ---
 

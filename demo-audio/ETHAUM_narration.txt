@@ -1,0 +1,19 @@
+When my uncle needed a bypass, it took eleven phone calls, forty thousand rupees in agent fees, and we never knew if the quote was honest. International healthcare is not broken because the medicine is bad. It is broken because the journey is fragmented. Finding a hospital is hard. Comparing real costs is harder. Aftercare is hardest. EthAum fixes all three, in one place.
+
+So imagine one marketplace for international care, built on one idea: the patient should never chase anyone. Discover, create a case, upload records, get matched, compare quotes, book, consult, travel, recover. Twelve stages, one owner, one record. On the other side, the same platform is a hospital's portal, so both sides finally talk to each other.
+
+Here is Priya. Fifty-four, Chennai, triple-vessel disease. In ten minutes: her condition, budget, companion, languages, and what matters most, cost, outcomes or speed. She uploads fourteen reports; our AI classifies each one and tells her what is still missing for a bypass. Two partner surgeons then review the file, free. Note the boundary: the AI organises and flags, doctors decide. And if the honest answer is that she should optimise first, the screen says so.
+
+Matching shows her three best fits, and shows the working. Clinical fit, accreditation, budget fit, wait time, language, reviews, re-weighted by her own sliders. Care about speed, Thailand moves up. Care about outcomes, the high-volume centres move up. Every card says why it fits, and in amber, what could go wrong. A hospital that only tells you the good things is a brochure, not a match.
+
+Then the quotes, where the industry goes quiet. Every quote is all-in and itemised: procedure, anaesthesia, room nights, implant brands, an ICU cap per day, flights, visa, companion stay, ninety days of follow-ups. Our AI flags the one priced eleven percent below market, so she knows what to demand in writing before she flies. She can print it and take it to her own cardiologist.
+
+Now the part nobody else has. Watch two tabs at once. On the left, the hospital's portal. Their quote builder refuses to send until three transparency checks pass: implant brand, price ceiling, ICU cap. We send it, and on the right, live, it arrives in Priya's browser. She holds it, locking the price for thirty days, then confirms. Back in the portal, the lead reads: accepted by the patient. One event, both sides, instantly. A marketplace, not two demos side by side.
+
+Booking builds the whole trip: visa letter, flights held, hotel near the hospital, instalments, a refundable token in escrow. Then a pre-op call where the surgeon has read her file and her questions are ready. Inside the hospital: a day-by-day plan, who owns each day, what is billed, and who she calls at three in the morning. Not a visitor in a foreign corridor, a patient with a schedule.
+
+And then, where every other platform stops: aftercare, the part that actually protects her. Day seven, day thirty, day ninety. Wound checks, cardiac rehab, physio she repeats at home, refills to her door, a nurse who calls at seven in the morning, and a red-flag panel for when to pick up the phone. She can book a care buddy, a verified patient who made the same journey.
+
+We did not guess. We benchmarked fourteen platforms across sixty attributes and documented what we adapt, improve and refuse: pay-to-rank, hotel kickbacks, fear marketing, silence after discharge. This is a working build. Thirty routes, Next dot J S, TypeScript, an AI engine that upgrades from rules to a live model with one API key, and a marketplace where the hospital's quote and the patient's decision are the same event.
+
+No database, so it runs in one command, and not a single phone number anywhere, because dialling a stranger is not a feature. EthAum. Heal better, everywhere.

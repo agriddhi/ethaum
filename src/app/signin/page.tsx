@@ -6,7 +6,7 @@ import Link from "next/link";
 import SiteNav from "@/components/site-nav";
 import SiteFooter from "@/components/site-footer";
 import PageHeader from "@/components/page-header";
-import { useSession, saveSession, clearSession } from "@/lib/session";
+import { useSession, saveSession, clearSession, newLocalId } from "@/lib/session";
 
 const DEMO_ACCOUNTS: Record<string, { name: string; city: string }> = {
   "priya@ethaum.demo": { name: "Priya Raghavan", city: "Chennai" },
@@ -24,8 +24,21 @@ export default function SignInPage() {
   const [password, setPassword] = useState("");
   const [error, setError] = useState<string | null>(null);
 
-  const start = (sessionName: string, sessionEmail: string, sessionCity?: string, persona?: "priya" | "rahul") => {
-    saveSession({ name: sessionName, email: sessionEmail, city: sessionCity, role: "patient", since: new Date().toISOString() });
+  const start = (
+    sessionName: string,
+    sessionEmail: string | undefined,
+    sessionCity?: string,
+    persona?: "priya" | "rahul",
+    existingId?: string
+  ) => {
+    saveSession({
+      name: sessionName,
+      email: sessionEmail,
+      localId: existingId ?? newLocalId(),
+      city: sessionCity,
+      role: "patient",
+      since: new Date().toISOString(),
+    });
     if (persona) window.localStorage.setItem("ethaum-persona", persona);
     router.push("/dashboard");
   };
@@ -41,7 +54,14 @@ export default function SignInPage() {
             </span>
             <h1 className="mt-5 font-display text-3xl font-semibold text-forest-ink">You&apos;re signed in, {session.name.split(" ")[0]}.</h1>
             <p className="mx-auto mt-2 max-w-sm text-[13px] leading-6 text-charcoal/80">
-              Session stored locally on this device only — no database, no password stored, nothing transmitted.
+              Local session on this device only — no database, no password stored, nothing transmitted.
+            </p>
+            <div className="mx-auto mt-5 inline-flex items-center gap-3 rounded-2xl border border-forest/15 bg-white px-5 py-3">
+              <span className="text-[10px] font-bold uppercase tracking-[0.18em] text-slate">Your session ID</span>
+              <span className="font-display text-xl font-semibold text-forest-ink">{session.localId}</span>
+            </div>
+            <p className="mx-auto mt-3 max-w-md text-[11px] leading-5 text-slate">
+              <span className="font-semibold text-amber-deep">Temporary:</span> this build has no auth server, so we minted a local ID in your browser instead of verifying an email. In production this becomes a verified account with cross-device sync — same code path, one backend behind it.
             </p>
             <div className="mt-6 flex flex-wrap justify-center gap-3">
               <Link href="/dashboard" className="inline-flex h-12 items-center rounded-full bg-forest px-6 text-sm font-bold text-oat hover:bg-forest-deep">Open my journey</Link>
@@ -70,7 +90,7 @@ export default function SignInPage() {
         crumbs={[["Home", "/"], ["Sign in", "/signin"]]}
         eyebrow="Local session · no database"
         title="Your journey, remembered."
-        sub="This build signs you in on this device only — the session lives in your browser's local storage. No account database, no password stored, nothing sent to a server."
+        sub="This build signs you in on this device only — email is optional: skip it and we mint a local session ID for you. No account database, no password stored, nothing sent to a server."
       />
 
       <div className="mx-auto grid max-w-6xl gap-6 px-4 py-10 sm:px-6 lg:grid-cols-12">
@@ -91,15 +111,20 @@ export default function SignInPage() {
                 onSubmit={(e) => {
                   e.preventDefault();
                   const mail = email.trim().toLowerCase();
-                  if (!mail.includes("@")) return setError("Enter a valid email address.");
+                  if (!mail) {
+                    // No email given — mint a purely local guest session.
+                    start("Guest Patient", undefined, undefined, undefined);
+                    return;
+                  }
+                  if (!mail.includes("@")) return setError("That email doesn’t look right — or leave it blank and continue locally.");
                   const known = DEMO_ACCOUNTS[mail];
                   start(known?.name ?? mail.split("@")[0].replace(/[._-]+/g, " ").replace(/\b\w/g, (c) => c.toUpperCase()), mail, known?.city, mail.startsWith("priya") ? "priya" : mail.startsWith("rahul") ? "rahul" : undefined);
                 }}
               >
                 <div>
-                  <label className="text-[11px] font-bold uppercase tracking-[0.18em] text-amber-deep" htmlFor="email">Email</label>
-                  <input id="email" type="email" required value={email} onChange={(e) => setEmail(e.target.value)} placeholder="you@example.com" className="mt-2 h-12 w-full rounded-xl border border-forest/15 bg-oat px-4 text-sm outline-none focus:border-forest" />
-                  <p className="mt-1.5 text-[10.5px] text-slate">Try a demo account: <code className="text-forest">priya@ethaum.demo</code> · <code className="text-forest">rahul@ethaum.demo</code></p>
+                  <label className="text-[11px] font-bold uppercase tracking-[0.18em] text-amber-deep" htmlFor="email">Email <span className="font-normal normal-case tracking-normal text-slate">(optional in this local build)</span></label>
+                  <input id="email" type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="you@example.com — or leave blank" className="mt-2 h-12 w-full rounded-xl border border-forest/15 bg-oat px-4 text-sm outline-none focus:border-forest" />
+                  <p className="mt-1.5 text-[10.5px] text-slate">Skip it and we mint a local session ID (like ETH-7F3A) on this device. Demo accounts: <code className="text-forest">priya@ethaum.demo</code> · <code className="text-forest">rahul@ethaum.demo</code></p>
                 </div>
                 <div>
                   <label className="text-[11px] font-bold uppercase tracking-[0.18em] text-amber-deep" htmlFor="pw">Password</label>
@@ -116,8 +141,8 @@ export default function SignInPage() {
                   e.preventDefault();
                   const mail = email.trim().toLowerCase();
                   if (!name.trim()) return setError("Tell us what to call you.");
-                  if (!mail.includes("@")) return setError("Enter a valid email address.");
-                  start(name.trim(), mail, city.trim() || undefined);
+                  if (mail && !mail.includes("@")) return setError("That email doesn’t look right — or leave it blank and continue locally.");
+                  start(name.trim(), mail || undefined, city.trim() || undefined);
                 }}
               >
                 <div>
@@ -125,8 +150,8 @@ export default function SignInPage() {
                   <input id="name" required value={name} onChange={(e) => setName(e.target.value)} placeholder="Priya Raghavan" className="mt-2 h-12 w-full rounded-xl border border-forest/15 bg-oat px-4 text-sm outline-none focus:border-forest" />
                 </div>
                 <div>
-                  <label className="text-[11px] font-bold uppercase tracking-[0.18em] text-amber-deep" htmlFor="cemail">Email</label>
-                  <input id="cemail" type="email" required value={email} onChange={(e) => setEmail(e.target.value)} placeholder="you@example.com" className="mt-2 h-12 w-full rounded-xl border border-forest/15 bg-oat px-4 text-sm outline-none focus:border-forest" />
+                  <label className="text-[11px] font-bold uppercase tracking-[0.18em] text-amber-deep" htmlFor="cemail">Email <span className="font-normal normal-case tracking-normal text-slate">(optional)</span></label>
+                  <input id="cemail" type="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="you@example.com — or leave blank" className="mt-2 h-12 w-full rounded-xl border border-forest/15 bg-oat px-4 text-sm outline-none focus:border-forest" />
                 </div>
                 <div>
                   <label className="text-[11px] font-bold uppercase tracking-[0.18em] text-amber-deep" htmlFor="city">City (optional)</label>
@@ -163,7 +188,9 @@ export default function SignInPage() {
           </div>
 
           <div className="mt-4 rounded-2xl border border-forest/10 bg-white p-5 text-[12px] leading-6 text-charcoal/85 shadow-card">
-            <span className="font-bold text-forest-ink">Your data:</span> stored in <code className="rounded bg-sage-wash px-1">localStorage</code> on this device only. Clearing browser data removes it instantly. EthAum servers receive nothing — and we would never sell it if we had them.
+            <span className="font-bold text-forest-ink">Your data:</span> stored in <code className="rounded bg-sage-wash px-1">localStorage</code> on this device only, under a session ID we mint for you (for example <code className="rounded bg-sage-wash px-1">ETH-7F3A</code>). Clearing browser data removes it instantly. EthAum servers receive nothing — and we would never sell it if we had them.
+            <br /><br />
+            <span className="font-bold text-amber-deep">Temporary by design:</span> this demo has no auth server. Production swaps the local session for a verified email account with cross-device sync — the screens and contracts don&apos;t change.
           </div>
         </aside>
       </div>

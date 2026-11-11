@@ -60,7 +60,7 @@ export default function QuoteBuilderPage() {
   const session = useSession();
   const market = useMarketplace();
   // Quotes in this demo go to the lead the hospital is working with (L-2481).
-  const patientName = session?.name && session.email.endsWith("@ethaum.demo") && session.role === "patient" ? session.name : "Priya Raghavan";
+  const patientName = session?.email?.endsWith("@ethaum.demo") && session.role === "patient" ? session.name : "Priya Raghavan";
 
   const effectiveRows = useMemo(
     () => [...rows, ...(flights ? FLIGHT_ROWS : []), ...(companion ? COMPANION_ROWS : [])],

@@ -110,6 +110,23 @@ export default function SiteFooter() {
       <div className="border-t border-white/10">
         <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-3 px-6 py-4 text-[11px] text-white/40">
           <p>© 2026 EthAum Health Pvt Ltd · CIN U85100KA2026PTC000000 · Bengaluru, India</p>
+          <p className="flex items-center gap-3">
+            <span>
+              Built by{" "}
+              <a
+                href="https://www.linkedin.com/in/agriddhi/"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="font-semibold text-white/70 underline decoration-amber decoration-2 underline-offset-4 hover:text-amber"
+              >
+                kairo-aeon-tech
+              </a>
+            </span>
+            <span className="text-white/25" aria-hidden>
+              ·
+            </span>
+            <Link href="/about" className="hover:text-white/70">About the team</Link>
+          </p>
           <div className="flex gap-5">
             <Link href="/terms" className="hover:text-white/70">Terms</Link>
             <Link href="/privacy" className="hover:text-white/70">Privacy</Link>

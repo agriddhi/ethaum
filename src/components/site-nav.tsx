@@ -64,7 +64,7 @@ export default function SiteNav() {
 
           <div className="ml-auto flex items-center gap-2 sm:gap-3">
             {session ? (
-              <Link href="/account" className="inline-flex items-center gap-2 rounded-full border border-forest/15 py-1 pl-1 pr-3 transition-colors hover:bg-sage-wash">
+              <Link href="/account" title={`Local session ${session.localId} — temporary, stored on this device only`} className="inline-flex items-center gap-2 rounded-full border border-forest/15 py-1 pl-1 pr-3 transition-colors hover:bg-sage-wash">
                 <span className="flex h-7 w-7 items-center justify-center rounded-full bg-forest text-[10px] font-bold text-oat">{initialsOf(session.name)}</span>
                 <span className="hidden text-[12px] font-semibold text-forest md:inline">{session.name.split(" ")[0]}</span>
               </Link>

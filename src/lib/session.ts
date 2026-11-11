@@ -9,7 +9,10 @@ import { useSyncExternalStore } from "react";
 
 export type Session = {
   name: string;
-  email: string;
+  /** Optional in the demo — see note on local sessions below. */
+  email?: string;
+  /** Local-only identifier minted by the browser for this device. */
+  localId: string;
   city?: string;
   role?: "patient" | "provider";
   since: string;
@@ -17,6 +20,14 @@ export type Session = {
 
 const KEY = "ethaum-session";
 const EVENT = "ethaum-session-change";
+
+/** Mints a local session id like "ETH-7F3A" — no server, no email, no PII. */
+export function newLocalId(): string {
+  const alphabet = "ABCDEFGHJKLMNPQRSTUVWXYZ23456789";
+  let out = "ETH-";
+  for (let i = 0; i < 4; i++) out += alphabet[Math.floor(Math.random() * alphabet.length)];
+  return out;
+}
 
 const cache: { value: Session | null } = { value: null };
 let rawCache: string | null = null;
@@ -27,7 +38,16 @@ function read(): Session | null {
   if (raw === rawCache) return cache.value;
   rawCache = raw;
   try {
-    cache.value = raw ? (JSON.parse(raw) as Session) : null;
+    const parsed = raw ? (JSON.parse(raw) as Session) : null;
+    if (parsed && !parsed.localId) {
+      // Migrate a session created before local IDs existed.
+      parsed.localId = newLocalId();
+      cache.value = parsed;
+      window.localStorage.setItem(KEY, JSON.stringify(parsed));
+      rawCache = JSON.stringify(parsed);
+    } else {
+      cache.value = parsed;
+    }
   } catch {
     cache.value = null;
   }

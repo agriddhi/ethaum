@@ -2,7 +2,7 @@
 
 | Required item | What to submit | Where it lives | Status |
 |---|---|---|---|
-| **Video demo (≤ 5 min)** | Screen recording + voiceover, captions on, end card with team + LinkedIn | Script & shot list: `docs/DEMO_VIDEO_SCRIPT.md` (also `DEMO_SCRIPT.md`) | ⬜ Record it — script ready |
+| **Video demo (≤ 5 min)** | Screen recording + voiceover, captions on, end card with team + LinkedIn | Script: `docs/DEMO_VIDEO_SCRIPT.md` · shots: `docs/VIDEO_SHOTLIST.md` · **voiceover already generated**: `ETHAUM_voice_prabhat.mp3` (4:44) and `ETHAUM_voice_neerja.mp3` (4:40) via `make_tts_ethaum.py` | ⬜ Record it — audio ready |
 | **Source code** | The whole repository (GitHub / zip) | Repository root `ethaum/` — run `npm install && npm run dev` | ✅ Ready to push |
 | **Tools / tech used** | Written list with rationale | `docs/TECH_STACK.md` (also summarised in `README.md`) | ✅ Written |
 | **Team LinkedIn profiles** | Names, roles and profile URLs | `docs/TEAM.md` — replace the placeholder rows | ⬜ **Needs your names + URLs** |

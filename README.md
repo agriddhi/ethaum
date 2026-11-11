@@ -139,9 +139,15 @@ ethaum/
 
 | Document | What it covers |
 |---|---|
+| [docs/WHY_ETHAUM.md](docs/WHY_ETHAUM.md) | The judge-facing pitch: 8 differentiators, "is this a mockup?" answers, risks we own |
 | [docs/TECH_STACK.md](docs/TECH_STACK.md) | Every tool/technology used, and why we chose it |
 | [docs/MARKET_RESEARCH.md](docs/MARKET_RESEARCH.md) | Benchmarking of 14 platforms: what we adapt, improve and refuse |
 | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | Stores, AI layer, marketplace bridge, print system, data model |
+| [docs/VIDEO_SHOTLIST.md](docs/VIDEO_SHOTLIST.md) | Shot-by-shot guide for the 5-minute demo video |
 | [docs/DEMO_VIDEO_SCRIPT.md](docs/DEMO_VIDEO_SCRIPT.md) | 5-minute demo video script, shot list and narration |
 | [docs/TEAM.md](docs/TEAM.md) | Team members, roles and LinkedIn profiles |
 | [docs/SUBMISSION_CHECKLIST.md](docs/SUBMISSION_CHECKLIST.md) | What to submit where |
+
+**Voiceover:** `make_tts_ethaum.py` (in the project root) generates the narration with Edge neural
+voices — `ETHAUM_voice_prabhat.mp3` (4:44) and `ETHAUM_voice_neerja.mp3` (4:40), plus
+`ETHAUM_narration.txt` for any other TTS tool.

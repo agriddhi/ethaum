@@ -2,6 +2,7 @@
 
 import { useEffect, useState, type ReactNode } from "react";
 import Link from "next/link";
+import { useSession } from "@/lib/session";
 
 /* ───────── demo profile (illustrative demo data) ───────── */
 const PROFILE = {
@@ -50,6 +51,7 @@ const BLOOD_GROUPS = ["O+", "O−", "A+", "A−", "B+", "B−", "AB+", "AB−"];
 export default function AccountView() {
   const [tab, setTab] = useState<Tab>("overview");
   const [toast, setToast] = useState<string | null>(null);
+  const session = useSession();
 
   /* medical profile — locally editable fields */
   const [bloodGroup, setBloodGroup] = useState("O+");
@@ -199,6 +201,7 @@ export default function AccountView() {
                 ["Currency", PROFILE.currency],
                 ["Patient ID", PROFILE.patientId],
                 ["Email", PROFILE.email],
+                ["Session ID", session ? `${session.localId} · temporary local ID, no email verification in this build` : "—"],
               ].map(([k, v]) => (
                 <div key={k} className="grid grid-cols-3 gap-3 py-3 text-[13px]">
                   <dt className="text-[10px] font-bold uppercase leading-5 tracking-[0.16em] text-slate">
