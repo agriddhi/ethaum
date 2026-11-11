@@ -81,3 +81,35 @@ body {
   background: var(--color-amber);
   color: var(--color-forest-ink);
 }
+
+/* ── print: clean artefacts (quote sheet, itinerary, recovery plan) ── */
+@media print {
+  header,
+  footer,
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+  section,
+  article,
+  li {
+    break-inside: avoid;
+  }
+  a[href]::after {
+    content: "";
+  }
+  .print\:block {
+    display: block !important;
+  }
+}
+
+@keyframes fade-slide {
+  from { opacity: 0; transform: translateY(12px) scale(0.985); }
+  to { opacity: 1; transform: none; }
+}
+.animate-fade-slide {
+  animation: fade-slide 0.45s ease both;
+}

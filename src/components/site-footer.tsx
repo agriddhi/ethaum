@@ -1,15 +1,22 @@
 import Link from "next/link";
 import { LogoMark } from "./site-nav";
+import DemoChat from "./demo-chat";
 
 const columns: Array<[string, Array<[string, string]>]> = [
   [
     "Patients",
     [
       ["How it works", "/#how-it-works"],
+      ["Packages, all-in", "/packages"],
       ["Browse treatments", "/treatments"],
+      ["Meet our doctors", "/doctors"],
+      ["Hospitals audited", "/hospitals"],
+      ["Care buddies (verified patients)", "/care-buddies"],
+      ["Clinical brief for your doctor", "/doctor-summary"],
       ["Compare all-in quotes", "/quotes/compare"],
       ["Book & pay securely", "/booking"],
       ["Virtual consultation", "/consult"],
+      ["In-hospital stay", "/treatment"],
       ["Aftercare & follow-ups", "/aftercare"],
     ],
   ],
@@ -82,20 +89,18 @@ export default function SiteFooter() {
         ))}
 
         <div className="md:col-span-3">
-          <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-amber">Emergency &amp; support</p>
+          <p className="text-[11px] font-semibold uppercase tracking-[0.16em] text-amber">Support &amp; sign in</p>
           <p className="mt-3 text-sm text-white/70">
             24×7 care coordinators<br />
-            <a href="tel:+918047190000" className="font-semibold text-oat hover:underline">+91 8047 190 000</a>
+            <span className="text-white/50">demo build — no live phone line</span>
           </p>
-          <a
-            href="https://wa.me/918047190000?text=Hi%20EthAum%2C%20I%20need%20help%20with%20my%20case"
-            className="mt-4 inline-flex items-center gap-2 rounded-full bg-[#25D366] px-4 py-2 text-[13px] font-semibold text-[#0b3b21] transition-transform hover:scale-[1.02]"
+          <DemoChat label="Chat with a coordinator" className="mt-4" />
+          <Link
+            href="/signin"
+            className="mt-3 inline-flex items-center gap-2 rounded-full border border-white/15 px-4 py-2 text-[13px] font-semibold text-oat transition-colors hover:bg-white/10"
           >
-            <svg viewBox="0 0 24 24" className="h-4 w-4" fill="currentColor" aria-hidden>
-              <path d="M20.5 3.5A11 11 0 0 0 2.6 16.6L2 22l5.6-.6a11 11 0 0 0 12.9-17.9Zm-8.4 17.4a9 9 0 0 1-4.6-1.3l-.3-.2-3.3.4.4-3.2-.2-.3a9 9 0 1 1 8 4.6Zm5-6.8c-.3-.1-1.7-.8-2-.9-.3-.1-.5-.1-.7.1-.2.3-.8.9-1 1.1-.2.2-.4.2-.7.1a7.4 7.4 0 0 1-2.2-1.4 8.3 8.3 0 0 1-1.5-1.9c-.2-.3 0-.5.1-.7l.4-.5c.1-.2.2-.4.3-.6.1-.2 0-.5 0-.7l-.9-2.1c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.1-1.2 2.8s1.2 3.2 1.4 3.5c.2.3 2.4 3.6 5.7 5 3.4 1.4 3.4 1 4 0 .6-.9 2-2.3 2.3-2.9.3-.6.3-1.1.2-1.2-.1-.1-.3-.2-.6-.3Z"/>
-            </svg>
-            Chat on WhatsApp
-          </a>
+            Sign in / my account
+          </Link>
           <p className="mt-4 text-[11px] leading-5 text-white/45">
             Medical emergencies: always call your local emergency number first.
           </p>

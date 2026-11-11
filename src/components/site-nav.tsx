@@ -1,4 +1,8 @@
+"use client";
+
 import Link from "next/link";
+import LiveRates from "./live-rates";
+import { useSession, initialsOf } from "@/lib/session";
 
 export function LogoMark({ className = "h-10 w-10" }: { className?: string }) {
   return (
@@ -8,6 +12,7 @@ export function LogoMark({ className = "h-10 w-10" }: { className?: string }) {
 }
 
 export default function SiteNav() {
+  const session = useSession();
   return (
     <header className="sticky top-0 z-50">
       {/* utility bar */}
@@ -16,12 +21,13 @@ export default function SiteNav() {
           <p className="flex items-center gap-4">
             <span className="inline-flex items-center gap-1.5">
               <span className="h-1.5 w-1.5 rounded-full bg-mint" aria-hidden />
-              24×7 care coordinators · +91 8047 190 000
+              24×7 care coordinators · 12 languages · demo build
             </span>
             <span className="hidden lg:inline text-sage-mist/60">|</span>
             <span className="hidden lg:inline">Visa letters in 48h · Airport pickup · Halal &amp; Jain meals</span>
           </p>
           <nav className="flex items-center gap-4" aria-label="Utility">
+            <LiveRates />
             <Link href="/market-research" className="inline-flex items-center gap-1.5 text-amber transition-colors hover:text-oat">
               <svg viewBox="0 0 16 16" className="h-3 w-3" fill="currentColor" aria-hidden>
                 <path d="M2 13.5h12v1.5H2zM3 11h2.5V6H3zm4 0h2.5V2h-2.5zm4 0H13.5v-7H11z" />
@@ -51,17 +57,25 @@ export default function SiteNav() {
           <nav className="ml-auto hidden items-center gap-7 text-[13.5px] font-medium text-charcoal lg:flex" aria-label="Primary">
             <Link href="/treatments" className="transition-colors hover:text-forest">Treatments</Link>
             <Link href="/destinations" className="transition-colors hover:text-forest">Destinations</Link>
+            <Link href="/doctors" className="transition-colors hover:text-forest">Doctors</Link>
             <Link href="/hospitals" className="transition-colors hover:text-forest">Hospitals</Link>
             <Link href="/help" className="transition-colors hover:text-forest">Help centre</Link>
           </nav>
 
           <div className="ml-auto flex items-center gap-2 sm:gap-3">
-            <Link
-              href="/signin"
-              className="hidden text-[13px] font-semibold text-forest transition-colors hover:text-forest-deep md:inline-flex"
-            >
-              Sign in
-            </Link>
+            {session ? (
+              <Link href="/account" className="inline-flex items-center gap-2 rounded-full border border-forest/15 py-1 pl-1 pr-3 transition-colors hover:bg-sage-wash">
+                <span className="flex h-7 w-7 items-center justify-center rounded-full bg-forest text-[10px] font-bold text-oat">{initialsOf(session.name)}</span>
+                <span className="hidden text-[12px] font-semibold text-forest md:inline">{session.name.split(" ")[0]}</span>
+              </Link>
+            ) : (
+              <Link
+                href="/signin"
+                className="hidden text-[13px] font-semibold text-forest transition-colors hover:text-forest-deep md:inline-flex"
+              >
+                Sign in
+              </Link>
+            )}
             <Link
               href="/case/new"
               className="inline-flex h-10 items-center gap-2 rounded-full bg-forest px-4 text-[13px] font-semibold text-oat shadow-sm transition-all hover:bg-forest-deep hover:shadow-md sm:px-5"
@@ -82,6 +96,7 @@ export default function SiteNav() {
                 {[
                   ["Treatments", "/treatments"],
                   ["Destinations", "/destinations"],
+                  ["Doctors", "/doctors"],
                   ["Hospitals", "/hospitals"],
                   ["Market research", "/market-research"],
                   ["Help centre", "/help"],
